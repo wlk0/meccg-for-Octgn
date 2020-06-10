@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="3" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="3" id="997ea9f5-e23d-37d2-aa5c-5fe1a3b1d976">Doors of Night</card>
+    <card qty="2" id="18514b88-fdd8-38f2-9d60-2a1a915d3e08">Ghosts</card>
+    <card qty="3" id="fda7844a-7980-343f-af19-61c53273b38c">Long Winter</card>
+    <card qty="3" id="f0bb0a62-06d2-3f13-aa83-7a3c74959e69">Lure of Nature</card>
+    <card qty="3" id="d6bb48dd-e8c3-3156-b73e-bedef0d9e7a5">Rain-drake</card>
+    <card qty="2" id="144ee162-271f-3d9c-a504-3b6de701bfca">Slayer</card>
+    <card qty="1" id="8052a4bf-232a-3345-9799-b9d61a54357f">Snowstorm</card>
+    <card qty="3" id="82faa0fb-52e2-3869-a096-372fd0281c48">True Fire-drake</card>
+    <card qty="2" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="3" id="e57ec7c6-dcdc-3936-bc43-9aa2336af04f">Withered Lands</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="2" id="9a3050c3-d955-3c2a-a48a-354e4f1e0145">Orc Brawler</card>
+    <card qty="1" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="3" id="82e91db5-e927-36e8-873a-51395a7c2871">Orc Tracker</card>
+    <card qty="3" id="196ca936-6d66-356d-a521-b624c8debb94">The Witch-king</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="1" id="e63861d4-00c8-3aa2-9ce9-9efad91dff1d">Asdriags</card>
+    <card qty="2" id="bce273ba-1fb3-3315-a33c-6b350435f8fc">Awaiting the Call</card>
+    <card qty="3" id="27fa5714-a58c-3bff-9db5-0ba0e26d4588">Blasting Fire</card>
+    <card qty="2" id="02d20ef0-8dbe-3b3c-b513-6c6b7c95c172">Fell Rider</card>
+    <card qty="2" id="26d1c5a8-6da6-3184-9990-0319b86acbb3">Gifts as Given of Old</card>
+    <card qty="3" id="4dfaef17-cace-30c9-ad98-e07f730cdcd4">Great Bats</card>
+    <card qty="1" id="a72f561a-45b9-3552-b904-9d9f0d768573">Helm of Fear</card>
+    <card qty="1" id="094fb840-1aeb-3d1c-acb5-75262d2627b3">Nûrniags</card>
+    <card qty="1" id="6d2554e9-ece9-38dd-8a67-8890a2ca5977">Orcs of Udûn</card>
+    <card qty="1" id="76053695-d574-365a-9418-a997c0f70123">Orcs of the Ash Mountains</card>
+    <card qty="1" id="27ffa0e3-10d4-3b12-9b90-ff9d248cf9de">Palantír of Minas Tirith</card>
+    <card qty="1" id="a9f5f65a-cfd4-33d3-b580-9f28fcaf1dca">Records Unread</card>
+    <card qty="3" id="44dc16db-b5a3-37a3-b652-779faad0c14e">That Ain't No Secret</card>
+    <card qty="1" id="cfae5e81-c3eb-3411-a0e9-ece27eebd078">Under His Blow</card>
+    <card qty="1" id="b64e86fb-11f5-3fd6-9693-6c3c1de7c220">Uruk-hai</card>
+    <card qty="3" id="4949abc1-8ac6-3bec-b219-f6f3cfef32fc">Vile Fumes</card>
+    <card qty="2" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+    <card qty="1" id="775b9e21-3613-39af-8305-8a6b521172b1">Weigh All Things to a Nicety</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="b69bb754-2e61-38b8-9cad-6daf69b5324e">Horseman in the Night</card>
+    <card qty="1" id="6670065a-c4ea-37e2-b68f-06b40a5eb479">Ill-favoured Fellow</card>
+    <card qty="1" id="9a3050c3-d955-3c2a-a48a-354e4f1e0145">Orc Brawler</card>
+    <card qty="1" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="1" id="e541a98e-5cae-3561-a6da-54d74c8459a4">Orc Veteran</card>
+    <card qty="2" id="ea14a5b4-bee7-38b0-91f7-b30158fbcf3d">Blazon of the Eye</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="b72702a5-0960-3082-ae62-288d60d73131">Alone and Unadvised</card>
+    <card qty="2" id="0a9f7c9d-2b2c-3bb3-a10b-1511d0f09006">Corsairs of Umbar</card>
+    <card qty="1" id="9728e16d-c3e4-3065-a748-ca6afdb0e200">Cruel Caradhras</card>
+    <card qty="1" id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2">Eärcaraxë Ahunt</card>
+    <card qty="2" id="300bc4f9-138b-3f5c-bd29-173d5a0d4847">Foul Fumes</card>
+    <card qty="1" id="18514b88-fdd8-38f2-9d60-2a1a915d3e08">Ghosts</card>
+    <card qty="2" id="88cef47b-ae1e-3185-b4c9-2d9c298e0fcb">Nameless Thing</card>
+    <card qty="1" id="57bd7b83-43ea-384f-9526-315353b739c5">Scatha Ahunt</card>
+    <card qty="1" id="90012578-d6fc-3ec2-ae70-3bfc428fbd1c">Stench of Mordor</card>
+    <card qty="1" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="2" id="9cdbc2a1-7a74-3c18-b1b2-090b7e0f3810">Above the Abyss</card>
+    <card qty="1" id="af971405-404d-3f6c-9a0a-7aa83bd6fd10">Black Trolls</card>
+    <card qty="1" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="1" id="69495e89-1802-339d-9671-cda479829d7c">Last Child of Ungoliant</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="1" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="7aae9f52-10cf-3d92-b517-74bbcdd0a4de">Barad-dûr</card>
+    <card qty="1" id="229324ef-f0fb-38c9-aa37-bd3894c18308">Carn Dûm</card>
+    <card qty="1" id="c1c5cad8-038f-3c12-b823-1c5b28425128">Cirith Gorgor</card>
+    <card qty="1" id="a2afa5cd-c299-3814-b637-bedb027d8bf5">Cirith Ungol</card>
+    <card qty="1" id="b25adb22-f5af-3213-bebf-91f763e3b242">Dead Marshes</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="738a3c1a-f0ca-3e0d-a9d1-e3feead77665">Minas Morgul</card>
+    <card qty="1" id="97eefce4-6527-3bbc-ad72-0fee1c022f02">Minas Tirith</card>
+    <card qty="1" id="8fef7be1-598b-36e4-9e38-dbd7c65607e1">Moria</card>
+    <card qty="1" id="aacdd435-b3b9-3069-8270-313d08843217">Mount Doom</card>
+    <card qty="1" id="6667816e-1acd-3076-9080-995e0a0c1411">Nûrniag Camp</card>
+    <card qty="1" id="fe395430-ff82-3fea-ad4c-411e22cfbb84">Sarn Goriwing</card>
+    <card qty="1" id="6c7d439a-c9ed-347b-a0bd-a04d89c84df4">Shelob's Lair</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="3" id="98a6c17d-e081-376b-aa2b-209a29159253">Cave Worm</card>
+    <card qty="3" id="ada84e46-5eff-3867-aa20-e0e6dfa939aa">Despair of the Heart</card>
+    <card qty="3" id="e82837b7-3f80-387d-b4e9-50f773a41d12">Full of Froth and Rage</card>
+    <card qty="3" id="0e594cf9-0ea5-34dc-a322-b0c7f8b2349a">Giant Spiders</card>
+    <card qty="3" id="56dc412c-a37f-37bf-a01d-9b92e429b735">Lesser Spiders</card>
+    <card qty="2" id="1abc1e9e-7643-33e1-8cf5-68947df91886">Neeker-breekers</card>
+    <card qty="2" id="99191db1-a1e7-3e49-817d-651bbaa6c582">River</card>
+    <card qty="2" id="c84d148e-d6ca-3950-9dfa-cbdfa907d8c6">Seized by Terror</card>
+    <card qty="2" id="2b16eb12-a502-3c63-ad6b-bdcbfc5d3a6b">Twilight</card>
+    <card qty="2" id="38a72e8c-7b06-34e2-8550-7c6b91da745d">Wake of War</card>
+    <card qty="2" id="9c019015-ab94-3eb4-81b6-8a16c42ffc5f">Wargs</card>
+    <card qty="3" id="079dc13f-ad30-306f-b95c-dbcb46a9fee2">Watcher in the Water</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="8d1bb240-bd46-3989-a64d-8d97cb4eec31">Balin</card>
+    <card qty="1" id="adfbdc49-38ae-30e6-949d-e0d0efec2cd8">Boromir II</card>
+    <card qty="1" id="ddbe4f3e-ad7b-35f4-b7e0-e95d960f7626">Celeborn</card>
+    <card qty="1" id="ae867652-646b-3e9f-ac94-b8813fccb3aa">Fíli</card>
+    <card qty="1" id="da3a5f7c-6b95-3c82-8bfe-d77b4d642075">Gildor Inglorion</card>
+    <card qty="3" id="d12ca932-c959-354d-98ee-ede9bc52dff5">Pallando</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="2" id="92679093-87d4-3249-ad68-9e3dbca76330">A Friend or Three</card>
+    <card qty="1" id="fc1dac2a-9c73-3606-90a8-8b14cea012a2">Book of Mazarbul</card>
+    <card qty="1" id="dc5c4187-c28e-30b0-9d29-08012fcdb5a8">Bounty of the Hoard</card>
+    <card qty="1" id="4ebec209-b053-3bec-92dd-a4fe84bf717f">Bow of Dragon-horn</card>
+    <card qty="3" id="2a59de1c-2ba9-3aee-9850-ac22a368a33d">Concealment</card>
+    <card qty="1" id="96bf0d71-e088-3a0d-85aa-851645c0b311">Durin's Axe</card>
+    <card qty="1" id="5386a6fe-c3c9-34cf-b8dd-2f06bbc44cb3">Enruned Shield</card>
+    <card qty="2" id="f7b266e3-a3d7-3347-bfec-af5c244a8b78">Fellowship</card>
+    <card qty="1" id="2c96486f-8e6d-3f9e-8a8e-614cc91dca29">Gollum</card>
+    <card qty="1" id="26d20369-d249-3390-847e-d2b16c8851f0">Great-road</card>
+    <card qty="1" id="7dad2369-baf4-3675-8fbb-c4c43921578b">Hauberk of Bright Mail</card>
+    <card qty="1" id="42e250bc-fe72-33e8-869f-a23ef80eaccf">Hundreds of Butterflies</card>
+    <card qty="1" id="6c8a758e-dadd-3c74-a5b1-36666c18c4a1">Iron Hill Dwarves</card>
+    <card qty="1" id="8048f13f-fbd9-340b-b1b5-bee2a7ca3fe7">Lucky Search</card>
+    <card qty="1" id="7cfd3bdd-f1c2-3674-9494-f1aace43536e">Magical Harp</card>
+    <card qty="1" id="3c8ab203-a704-309b-b1dc-64586e002297">Marvels Told</card>
+    <card qty="1" id="8b58fb10-5c68-3be7-ba8e-824fe73cdf04">Men of Dorwinion</card>
+    <card qty="2" id="710c4977-0809-3bd0-b5c5-f2e7478ad7a2">Not at Home</card>
+    <card qty="1" id="5ef8858d-6232-3011-8006-c921d2147562">Quickbeam</card>
+    <card qty="1" id="7e6b4b5e-d489-3ab7-8014-69a329f123fe">Risky Blow</card>
+    <card qty="1" id="6f05293b-431d-3409-86b6-8662b021d5b7">Smoke Rings</card>
+    <card qty="2" id="01bddb37-948a-3a39-bac9-e7b51cb69338">The Dwarves Are upon You!</card>
+    <card qty="1" id="fa606adc-2765-3d91-8453-35cc3b450dec">Thrór's Map</card>
+    <card qty="1" id="2ce1cb10-a0b9-3a40-af22-92d7dcc6614e">Wormsbane</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="b404b64f-c201-3bac-895c-6a09c9dfb628">Dori</card>
+    <card qty="1" id="a387dc14-d471-30b6-9b3a-fbc0feedf2c5">Glóin</card>
+    <card qty="1" id="207ee26e-868c-396f-a594-dbaadd2b537e">Kíli</card>
+    <card qty="1" id="f85343e5-608f-3adb-a28b-53b78d37f9de">Thorin II</card>
+    <card qty="1" id="08e87f4b-093a-3a5d-9c52-c2c4d9b051de">Óin</card>
+    <card qty="2" id="cebe7740-bc18-31bd-a89f-3178755c661d">Cram</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="2" id="92938a5c-49c2-3136-a43f-aa1e52969edb">Covetous Thoughts</card>
+    <card qty="2" id="93b361c0-a288-395e-ab49-aeef324fc9b1">Foolish Words</card>
+    <card qty="3" id="aecfdded-86c9-325e-8656-a4a734bb025d">Ghosts</card>
+    <card qty="1" id="72507ec5-6ec8-3a1c-ae9c-c79e148eef9f">Lost in Free-domains</card>
+    <card qty="1" id="039b6a2e-9853-34a5-a255-1f9c81d80b4e">Muster Disperses</card>
+    <card qty="1" id="2b16eb12-a502-3c63-ad6b-bdcbfc5d3a6b">Twilight</card>
+    <card qty="1" id="a776d0f9-073a-309a-a1b2-4fdee1f2d0e0">Blue Mountain Dwarves</card>
+    <card qty="2" id="6992088d-57e5-384d-a324-1a96913171ff">Gates of Morning</card>
+    <card qty="2" id="3c8ab203-a704-309b-b1dc-64586e002297">Marvels Told</card>
+    <card qty="1" id="710c4977-0809-3bd0-b5c5-f2e7478ad7a2">Not at Home</card>
+    <card qty="2" id="8f07daaa-eb41-36a1-a546-869ca204a3c7">Promptings of Wisdom</card>
+    <card qty="1" id="61238ed1-ff1d-3aee-b663-9c8b1d8b60ac">The Old Thrush</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="0e2d9b5c-389c-3ab5-8146-001efa1aeba3">Blue Mountain Dwarf-hold</card>
+    <card qty="1" id="5209d8c1-969b-34dd-b049-b6ea89c8efe9">Buhr Widu</card>
+    <card qty="1" id="42372591-20d5-3431-98ed-ff7087707240">Caves of Ûlund</card>
+    <card qty="1" id="5f11449d-1577-3d9c-a01d-586e06b5541d">Dead Marshes</card>
+    <card qty="1" id="4b5507e1-2502-30a4-bc5e-3545bc01c7d0">Goblin-gate</card>
+    <card qty="1" id="03053679-0770-30c7-90b9-fb27774dc952">Grey Havens</card>
+    <card qty="1" id="777f2192-3db0-399b-a850-c51cadd14502">Iron Hill Dwarf-hold</card>
+    <card qty="1" id="be7fac88-0512-3bbd-b0db-9aaac823d5d4">Lórien</card>
+    <card qty="1" id="b1feb55a-f338-358a-9af8-93491df33b7f">Moria</card>
+    <card qty="1" id="3ad81043-c52e-3e8d-8dbe-ded6d63d6449">Ovir Hollow</card>
+    <card qty="1" id="c4effd35-d128-3b79-b788-200f633c8e06">Rivendell</card>
+    <card qty="1" id="9ffd61be-3c92-37fe-bc2a-6426191b3cdb">Sarn Goriwing</card>
+    <card qty="1" id="089e2d27-d6c8-345a-be75-6d6605ed4e05">Shrel-Kain</card>
+    <card qty="1" id="7be628e9-eeb4-34bd-8be6-022dc95cf97c">The Lonely Mountain</card>
+    <card qty="1" id="677249d8-4953-350f-9acf-7464006e2ed3">Wellinghall</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

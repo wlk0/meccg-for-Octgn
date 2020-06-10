@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="2" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="3" id="a95177e2-aa79-3129-9268-3871af22c2b6">Dire Wolves</card>
+    <card qty="3" id="997ea9f5-e23d-37d2-aa5c-5fe1a3b1d976">Doors of Night</card>
+    <card qty="2" id="e82837b7-3f80-387d-b4e9-50f773a41d12">Full of Froth and Rage</card>
+    <card qty="3" id="76d334fd-42d4-3ee4-a537-caa299238705">Giant Spiders</card>
+    <card qty="1" id="42eabe0f-64ed-3da2-948f-0cba747e3694">Searching Eye</card>
+    <card qty="1" id="1b11311b-a204-341a-9d07-de2784a03ac1">Stay Her Appetite</card>
+    <card qty="2" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="3" id="b01ec992-1b3f-3c77-966e-0d9470a720fb">Wake of War</card>
+    <card qty="3" id="eae02022-0e33-38d4-8df8-d8100b5ffb3b">Wargs</card>
+    <card qty="3" id="8469868d-444a-34ed-a7c4-3add2e40cd9b">Watcher in the Water</card>
+    <card qty="2" id="836e6552-dbdd-3c86-8a88-33b3a4e0a863">Wolves</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="a6b54fde-54ca-3ea3-836d-2b41b5a73c3e">Bûrat</card>
+    <card qty="3" id="80131fb5-e849-3188-a785-1846698d80e0">Dwar the Ringwraith</card>
+    <card qty="1" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="2" id="e541a98e-5cae-3561-a6da-54d74c8459a4">Orc Veteran</card>
+    <card qty="1" id="63d34b87-7c8a-3696-aadc-b49143f6869b">Shagrat</card>
+    <card qty="1" id="caf699c0-cf32-3fde-989d-25af4ef6db8a">Tûma</card>
+    <card qty="1" id="888ef21b-78e0-3264-953f-966c6c0e016f">Wûluag</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="1" id="b929ac02-56e4-3b59-b32d-8795cd362278">Bade to Rule</card>
+    <card qty="3" id="f3a1a8a0-18f8-3fea-9435-23ea3b06395e">Black Mace</card>
+    <card qty="3" id="cfa1ba0f-b869-339e-9a34-3483e3e45e22">Bold Thrust</card>
+    <card qty="2" id="0aeed231-ab16-334c-b216-83fe50460513">Burning Rick, Cot, and Tree</card>
+    <card qty="3" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="1" id="f394c748-9ec4-38bd-8df7-e8d752cadd80">Diversion</card>
+    <card qty="1" id="b66bc068-b79b-3130-b4b0-e7d90615c4b6">Gleaming Gold Ring</card>
+    <card qty="1" id="79415d18-d3e6-3986-9427-8fc15bdbcf75">Grey Mountain Goblins</card>
+    <card qty="1" id="8db1b2e8-8bae-3f95-973b-da76b3ea542a">High Helm</card>
+    <card qty="1" id="99774b24-6552-37c8-a4f3-785de2defe58">I'll Report You</card>
+    <card qty="1" id="344311ef-2c4a-3cff-a6e4-7bdf277dd72b">Ice-orcs</card>
+    <card qty="1" id="838ae1ce-b5a1-37fa-a503-aa414dda233b">Orcs of Gundabad</card>
+    <card qty="2" id="54083fad-3c95-33ee-9250-6093439a7444">Regiment of Black Crows</card>
+    <card qty="1" id="416478f2-35dd-3fff-83a1-41a5726ca477">Swarm of Bats</card>
+    <card qty="3" id="36e61658-7f84-3133-a976-705a748f746c">Swift Strokes</card>
+    <card qty="1" id="3410f00b-66bd-3760-9734-0564d99ad6ca">The Arkenstone</card>
+    <card qty="1" id="36afd0eb-b258-3874-ae17-e1798769a7b2">Thrór's Map</card>
+    <card qty="3" id="cfae5e81-c3eb-3411-a0e9-ece27eebd078">Under His Blow</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="5877562a-28c8-3d91-95bc-3f32c1b701d7">Lagduf</card>
+    <card qty="1" id="3d58f2b0-0188-3ba5-8d0b-0b0c71002247">Lieutenant of Morgul</card>
+    <card qty="1" id="0d81c9a0-0e75-3c7c-bb9e-219321245d89">Muzgash</card>
+    <card qty="1" id="9aa4aed2-6603-3e37-9a23-6246d47b519d">Radbug</card>
+    <card qty="1" id="f5cf7515-bacf-33cd-a4d5-9925ed1bb222">Tros Hesnef</card>
+    <card qty="2" id="bc4edd5c-6ccf-3c7e-b0a6-df79612ab719">Foul-smelling Paste</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2">Eärcaraxë Ahunt</card>
+    <card qty="2" id="9a2de19d-94c8-3a3d-b0b1-70e3af4d159e">Foolish Words</card>
+    <card qty="2" id="88cef47b-ae1e-3185-b4c9-2d9c298e0fcb">Nameless Thing</card>
+    <card qty="2" id="862d96e1-7b6e-345a-b21b-fcc5d0954991">Rebel-talk</card>
+    <card qty="1" id="90012578-d6fc-3ec2-ae70-3bfc428fbd1c">Stench of Mordor</card>
+    <card qty="1" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="1" id="bb97da9f-fe58-3cd3-ad6e-1151cf4dc101">Minor Ring</card>
+    <card qty="1" id="07ff1d79-2950-3630-a05d-bf90d336bca7">Orc Quarrels</card>
+    <card qty="1" id="e582bc5a-daa1-36d4-9cba-331e4501f9c6">Orcs of Moria</card>
+    <card qty="1" id="3501f0be-253b-3520-b84a-5ea1e5103060">Orders from Lugbúrz</card>
+    <card qty="2" id="d7e63140-997c-34df-9eff-aa631520187f">Piercing All Shadows</card>
+    <card qty="1" id="54083fad-3c95-33ee-9250-6093439a7444">Regiment of Black Crows</card>
+    <card qty="1" id="1f25afba-5ef2-334b-977d-afe99ba35af3">Sable Shield</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="2" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="229324ef-f0fb-38c9-aa37-bd3894c18308">Carn Dûm</card>
+    <card qty="1" id="06fe33e2-2b38-3cb0-b215-dfd54c5489dd">Caves of Ûlund</card>
+    <card qty="1" id="88e028ec-ca6c-3c01-96eb-ad1f648ff241">Dale</card>
+    <card qty="1" id="8517dc11-0bc0-3996-a990-1065a63fe5a9">Dancing Spire</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="fdf78b13-68be-3cc5-8a8b-82f9e4f1e1b1">Gold Hill</card>
+    <card qty="1" id="8662a4b1-1e14-3278-b4c8-1f8dc24fbe0f">Gondmaeglom</card>
+    <card qty="1" id="25798899-dd6d-3868-b633-4def2bd3734f">Irerock</card>
+    <card qty="1" id="738a3c1a-f0ca-3e0d-a9d1-e3feead77665">Minas Morgul</card>
+    <card qty="1" id="8fef7be1-598b-36e4-9e38-dbd7c65607e1">Moria</card>
+    <card qty="1" id="360b4a21-ae91-3ec6-9907-563fba326f57">Mount Gundabad</card>
+    <card qty="1" id="ba2a23c6-0792-35f8-9d83-e72dd93d5bf7">Raider-hold</card>
+    <card qty="1" id="7078f428-f262-3271-b5be-4815b5a71bf7">The Lonely Mountain</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

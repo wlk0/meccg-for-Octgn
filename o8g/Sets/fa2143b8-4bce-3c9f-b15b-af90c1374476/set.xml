@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Against the Shadow" id="fa2143b8-4bce-3c9f-b15b-af90c1374476" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
+  <cards>
+    <card id="a6b54fde-54ca-3ea3-836d-2b41b5a73c3e" name="Bûrat">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="8"/>
+       <property name="Class" value=""/>
+       <property name="Home Site" value="Any Ruins and Lairs"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="4"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="5"/>
+       <property name="Race" value="Troll"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Warrior/Ranger"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="89115e21-4d4d-31de-bb19-582ed9735c59" name="Mauhúr">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value=""/>
+       <property name="Home Site" value="Dol Guldur"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="5"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="6"/>
+       <property name="Race" value="Orc"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Skills" value="Warrior"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="9d9cd12b-de2f-3871-a78a-702f49c09f04" name="Mîonid">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="8"/>
+       <property name="Class" value=""/>
+       <property name="Home Site" value="Variag Camp"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="4"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="5"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Warrior/Ranger"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="ac57e96c-3664-3133-8552-8a79dda576c9" name="Perchen">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value=""/>
+       <property name="Home Site" value="Dunnish Clan-hold"/>
+       <property name="Influence" value="2"/>
+       <property name="Mind" value="5"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="3"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Scout/Diplomat"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="caf699c0-cf32-3fde-989d-25af4ef6db8a" name="Tûma">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="8"/>
+       <property name="Class" value=""/>
+       <property name="Home Site" value="Any Ruins and Lairs"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="4"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="6"/>
+       <property name="Race" value="Troll"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Warrior"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="888ef21b-78e0-3264-953f-966c6c0e016f" name="Wûluag">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="8"/>
+       <property name="Class" value=""/>
+       <property name="Home Site" value="Any Ruins and Lairs"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="4"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="5"/>
+       <property name="Race" value="Troll"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Warrior/Scout"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="0052a8af-d77b-3dbb-951d-ef3befc0acff" name="Alatar the Hunter">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="6* "/>
+       <property name="Playable" value="{f}{F}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2+U1"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Maia"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="7bf14280-f6af-3407-8629-96035a17ec49" name="Durin's Folk">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="2* "/>
+       <property name="Playable" value="{w}{b}"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C3"/>
+       <property name="Strikes" value="5"/>
+       <property name="Subclass" value="Dwarves"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="173fc817-3794-3b7d-8208-c52063fde113" name="Dwarven Travelers">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1*"/>
+       <property name="Playable" value="{w}{b}{R}{B}"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C3"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Dwarves"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="ec2d8b2f-a66a-31de-8114-f9403cf101d6" name="Galadhrim">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="7"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="2*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="11"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Elves"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="0010a14c-d15f-39e4-9906-2ab9553c7a5a" name="Gandalf the White Rider">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="6*"/>
+       <property name="Playable" value="{f}{F}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Maia"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d1b486c6-a979-3aa8-ad48-3b0da24cc4f6" name="Knights of the Prince">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="8"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="3*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="10"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Subclass" value="Dúnedain"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="4aafcb1c-6046-364e-bc9d-62b0a2d40e53" name="Lady of the Golden Wood">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="10"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="3*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Elves"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="6513402d-7e7c-3815-af96-15eaca5684b4" name="Lord of the Carrock">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="2*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="16"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Men"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="9da5b5fd-5f5d-36a4-ae4b-5bceacfd5d22" name="Lord of the Haven">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Short-event"/>
+       <property name="MP" value="3*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Elves"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d4f9500c-4cd2-3102-bd97-188e3faff81e" name="Master of the House">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="3*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Elves"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="fb278a5e-6038-356c-b777-39b97e012dd4" name="Pallando the Soul-keeper">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="6*"/>
+       <property name="Playable" value="{f}{F}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Maia"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c5887a24-faf7-3768-bbbc-9c65852e79c2" name="Radagast the Tamer">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="6*"/>
+       <property name="Playable" value="{f}{F}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Maia"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="e2b05ee0-eff8-37cd-ad30-a972f664ca4a" name="Saruman the Wise">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature/Permanent-event"/>
+       <property name="MP" value="6*"/>
+       <property name="Playable" value="{f}{F}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Maia"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="1fa1fc21-db32-3803-af69-955635af983e" name="Steward's Guard">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="5"/>
+       <property name="Subclass" value="Dúnedain"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="5cca2a87-725b-3d41-9c80-51a01b705ebc" name="Stout Men of Gondor">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1*"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="7"/>
+       <property name="Rarity" value="C3"/>
+       <property name="Strikes" value="6"/>
+       <property name="Subclass" value="Men"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="6c7a2a22-1463-345f-ad1c-46a08c74f038" name="Trolls from the Mountains">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="5"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value="{w}{w}{w}"/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Trolls"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="07724bf0-ec0c-3c31-b3d9-1f08c89efb64" name="A Lie in Your Eyes">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="b72702a5-0960-3082-ae62-288d60d73131" name="Alone and Unadvised">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="c9364dfb-81bf-3816-b2a2-8dc7f9fb5557" name="Come at Need">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="c8493169-9d30-33d3-9c76-6508101d16f9" name="Early Harvest">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="7a44d71f-f8cb-38f8-90af-4dfc0caaebe8" name="Enchanted Stream">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="70abc4a5-1709-3e6a-89c0-b633f6ca1480" name="Fealty Under Trial">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="4029ed5d-a2fa-3d90-8799-976a1fc75fb6" name="FEAR! FIRE! FOES!">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="e82837b7-3f80-387d-b4e9-50f773a41d12" name="Full of Froth and Rage">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="89af7d29-3feb-3a11-927c-7fd6eebd768b" name="Near to Hear a Whisper">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="9ffd6839-2bbc-34d0-8ca8-7a7e0bb17e48" name="One Foe to Breed a War">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="705f26e6-d1c4-3f7a-a24c-93815fb55a51" name="Pilfer Anything Unwatched">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U1"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="e5e57ffe-0128-3d63-9103-58ae1e08e78e" name="Power Built by Waiting">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="f9d8dfeb-c3e0-389a-92da-a6f75629411a" name="Returned Beyond All Hope">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="2bb5c8d5-0344-310a-983b-568bbfb2f4d7" name="Ride Against the Enemy">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="eb78f45f-bf57-36da-975d-21ea6e81b6ef" name="Short Legs Are Slow">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="cca6cc6e-3be1-3c25-9b1e-b3b2549608d4" name="Slip Treacherously">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="d2a78ef8-f5e0-3a0d-989d-5bf9db617195" name="Summons from Long Sleep">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="44f09115-ce51-351a-bb37-20f2f3bd4fae" name="Trouble on All Borders">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="79499741-140b-34e8-9a9f-eb41150fe2bd" name="Turning Hope to Despair">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="7ab82e0c-85de-3ac4-9806-23f349a185f4" name="Unhappy Blows">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="ac82d852-6267-343e-a810-1f1f2e928a1b" name="Will Shaken">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="-2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="6040c5ab-c988-3505-9782-87adcaea9d89" name="All the Bells Ringing">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="561f51e7-c119-3a6b-8f6f-16175dfde7b5" name="Alliance of Free Peoples">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="f642b072-325f-3849-b8fc-24161f58632d" name="Biter and Beater!">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="c7fc0be6-c70d-3d67-b8e4-57c78e240ba6" name="Drughu">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="821bd69f-ddfd-3944-9956-d8ea406186d4" name="Farmer Maggot">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="0157e26e-7c34-3015-80a7-29a5e90241f2" name="Glamour of Surpassing Excellance">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="bf4d8e34-6e9b-3561-9b5d-b42b7f6e86b5" name="Mount Slain">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="ff49e3c2-bc0a-3df5-bdd9-9514b75b70a6" name="No Strangers at this Time">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="ddc3aa5c-9ba0-3a2e-a1d4-77184fb07176" name="Orc-mail">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="48815b1c-043b-3beb-a931-fee72c43a773" name="Power Against the Shadow">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="f4b7c138-83c7-32a9-b653-81e57cecaf60" name="Safe from the Shadow">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="14ba59cf-05e2-3397-b3ba-cccf78a60c9c" name="Spies Feared">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="1e1f97e4-e81c-32dc-a63c-0f796073baf0" name="The Sun Unveiled">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="81855aec-7bda-3ca2-84fd-23e7d11a382b" name="Tower Raided">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="6"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="19c1566a-21ca-3f82-a90e-06f5e308b5ec" name="Angmarim">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3c9ce716-0d4f-311b-bbf1-141f3f062dea" name="Haradrim">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="6fa0f26c-abba-3acf-88fb-1ef0e3500a37" name="Nûrniags">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="5"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d9037dbb-2a5a-3262-858f-abdae08736fe" name="Petty-dwarves">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dwarf Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="97512c31-a8a5-3da3-82ec-683070e08369" name="Wain-easterlings">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="aee78bac-8b1d-3222-8e24-09dfc7470c81" name="Woses of the Eryn Vorn">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Wose Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="54efe432-0410-356f-927b-4116bdcf3c43" name="Bow of the Galadhrim">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="99e5beab-5b16-398f-a692-d94372b7f1c9" name="The Ithil-stone">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="4"/>
+       <property name="MP" value="5"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="deaceade-5df8-3e43-b29c-5c9c92e8d08a" name="Jewel of Beleriand">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="d45408bb-13e9-3ddc-9f57-349bfebc6195" name="The Balrog">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="9"/>
+       <property name="Class" value="Warrior Ally"/>
+       <property name="Mind" value="6"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="0c213162-c455-3194-a348-7147460892aa" name="Black Horse">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="6"/>
+       <property name="Class" value="Warrior Ally"/>
+       <property name="Mind" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="4"/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="8cb79f2b-bdcd-3d5f-8b9c-2cb08bbbe838" name="Creature of an Older World">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="8"/>
+       <property name="Class" value="Warrior Ally"/>
+       <property name="Mind" value="3"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="5"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="4dfaef17-cace-30c9-ad98-e07f730cdcd4" name="Great Bats">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Ally"/>
+       <property name="Mind" value="1"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="ef821350-7062-38cd-b36a-db24aa226a5d" name="Great Lord of Goblin-gate">
+       <property name="Auto Attack" value=""/>
+       <property name="Body" value="7"/>
+       <property name="Class" value="Ally"/>
+       <property name="Mind" value="3"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Prowess" value="5"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="54083fad-3c95-33ee-9250-6093439a7444" name="Regiment of Black Crows">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Ally"/>
+       <property name="Mind" value="1"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="9cdbc2a1-7a74-3c18-b1b2-090b7e0f3810" name="Above the Abyss">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="967392be-131f-37d1-a118-33b8e33f7904" name="The Ash Mountain Deeps">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="26095167-94de-31ec-a9df-c9e42c822e89" name="The Dark Power">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="3c65297e-a8cd-39a7-a587-42360c4c4bf4" name="Dark Tryst">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="7dc89502-47ff-3b8e-a983-f5768f6628b8" name="Driven as by a Madness">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Magic" value="Spirit-magic"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="6e14be77-0006-3f3c-9838-b3b54ce36820" name="Eye Never Sleeping">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="2686f5dc-14a1-3884-a582-a55b3278e272" name="Faithless Steward">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="aab01ea1-7189-3fe3-a42a-2619318a07b0" name="Far Below the Deepest Delvings">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="812b645e-e2e6-3649-8822-07aac7869834" name="The Great Eye">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Long-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="97997257-9235-3ff2-aeee-13ed59d0c815" name="Hail of Darts">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="e562e42c-4ce3-3db1-b02e-be02318f2a88" name="Hoard Well-searched">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="2a65ab4f-d59a-31fa-9a02-989356b83cdc" name="Hold Rebuilt and Repaired">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="74482144-b3b6-3d8a-8e99-156d900c3594" name="Hounds of Sauron">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Magic" value="Shadow-magic"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="cdee5b88-5913-3651-a451-e815df34961d" name="Join With That Power">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="3d61d996-ccb6-3992-b7a5-a03bcc603a05" name="Legendary Stair">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="9dc9248a-d82f-32e7-8fc6-49884d7e39ec" name="The Misty Mountain Deeps">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="b3e32d65-d17e-3ace-9935-c983e465f4c6" name="The Mountains of Shadow Deeps">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="3501f0be-253b-3520-b84a-5ea1e5103060" name="Orders from Lugbúrz">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="1720f86c-d04f-3370-b49b-40e5d2bbef1d" name="Our Own Wolves">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Magic" value="Spirit-magic"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="b2f9084c-e246-3fae-9a6c-f5588e01bef2" name="Padding Feet">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="481ac890-a958-3e95-b3b9-d11af50cc701" name="Powers Too Dark and Terrible">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="b394bdbc-b89f-3bc0-a188-08c4ecd19b36" name="Riven Gate">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Magic" value="Sorcery"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="20f7be6e-07d5-310c-9382-16be651eeea3" name="Sack Over the Head">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="8d970c29-7bae-39ec-9a70-3f59a982917c" name="Steeds">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="9b78d0ae-3068-3efa-aa73-11a7cce791f6" name="Tokens to Show">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="f87e0c90-525f-3f85-b63f-50565dc2003d" name="The Tormented Earth">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Magic" value="Sorcery"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="d6c4d009-c7fc-3d56-9990-d4681c2aa9e0" name="Treason the Greatest Foe">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="f0dcf8bb-fa38-3b5f-b35f-03589081969d" name="Tribute Garnered">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="34ca5132-c4a9-3887-8dbb-5003bbe7bc65" name="The Undeeps of Anduin">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="f2972619-7b9b-35df-8fbd-fbcb9dd28128" name="The Under-roads">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Long-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="d0b01dfa-4151-391f-9c16-b797db29e418" name="Use Your Legs">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="(3)"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="25eb9f5e-255f-3577-9ed7-2ba3a3b4a08c" name="Well-preserved">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Magic" value="Shadow-magic"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="f1bd6c24-7c22-3a9c-876f-2a8dc715c5d0" name="The White Mountain Cavern-ways">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="24f3c8c6-c91c-3d4c-903e-2e5f7603021c" name="World Gnawed by the Nameless">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Short-event"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="7252d56c-ea10-3482-bced-5630b109ccb2" name="Angmarim">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="e63861d4-00c8-3aa2-9ce9-9efad91dff1d" name="Asdriags">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="24846806-bddd-3cb8-9d98-fda06d714d72" name="Bairanax Roused">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dragon Faction"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="bb9178ab-38e8-3963-9e46-53d04e2d14b3" name="Black Númenóreans">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dúnadan Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="7d5bb269-2fd4-346e-b613-f151e96fc32e" name="Corsairs of Rhûn">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c1f5f853-2d4d-3a3b-8016-d5823fe2c5a8" name="Daelomin Roused">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dragon Faction"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3e8abf84-efb4-3f2c-b6d4-667cf78bcf08" name="Eärcaraxë Roused">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dragon Faction"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="490cb73f-320b-3004-8c74-5ee060a64236" name="Haradrim">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="508f2be4-6aee-3d26-8b86-183aaa2c5bbe" name="Itangast Roused">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dragon Faction"/>
+       <property name="MP" value="6"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c8206120-ec77-3a98-9cfa-3f595af242f9" name="Leucaruth Roused">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dragon Faction"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R1"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="bda3a437-e6b3-365a-b3f3-4417e7aac93a" name="Morgul-orcs">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Orc Faction"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="bac440f0-7847-31c4-9344-6af0378117a3" name="Nûriags">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="6a9e8d41-4df6-3384-af45-c77277f9750c" name="Orcs of Dol Guldur">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Orc Faction"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="e53928fe-22e0-3e7b-ab7a-d5f1c582fa5e" name="Petty-dwarves">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Dwarf Faction"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="34ae9d51-66e1-3d5d-bdd9-2a895418584f" name="Wain-easterlings">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="259e75f4-0c1b-3bd8-884d-8f94e6120771" name="Ancient Black Axe">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="4"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="ef86d741-a37b-3f30-8883-3ac1377ea34d" name="Dwarven Ring of Thélor's Tribe">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="3(5)"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="f3fb8cbe-0a12-3dca-be59-370fee49eb6b" name="Dwarven Ring of Thrár's Tribe">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="3(5)"/>
+       <property name="MP" value="4"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="142d9ddb-a94a-3ca6-8c77-38af295256b9" name="Goblin Earth-plumb">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="a72f561a-45b9-3552-b904-9d9f0d768573" name="Helm of Fear">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="0d88a48e-8d7c-3392-8eb4-b315253ebb52" name="Iron Shield of Old">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="3"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="c1d8e783-58d4-3ee6-93ec-aa000ff82bb2" name="Necklace of Girion">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="3"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="7d8d4d6c-fbed-3624-b713-fdf720cc7565" name="Old Treasure">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="a9f5f65a-cfd4-33d3-b580-9f28fcaf1dca" name="Records Unread">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="12cec527-6b9b-31f9-b10a-68c767985d46" name="Secret Book">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="f1d52b6a-30a0-3ded-9ed4-09042d3133c6" name="Thong of Fire">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="3"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="5fc13262-8494-3887-bd8b-a8189ea87aa9" name="Thrall-ring">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="36afd0eb-b258-3874-ae17-e1798769a7b2" name="Thrór's Map">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="5fc08257-cd58-3acc-8838-f0012aad3b26" name="Troth-ring">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="211518af-44b7-30cc-9115-0b17ef812798" name="Usriev of Treachery">
+       <property name="Auto Attack" value=""/>
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value=""/>
+       <property name="Rarity" value="C3"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="ce437b9f-5cb5-3d50-b9e5-eb0a20e84094" name="Cirith Gorgor" size="SiteCard">
+       <property name="Auto Attack" value="Orcs - 5 strikes with 8 prowess, Trolls - 2 strikes with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="5"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor, major, greater)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Udûn"/>
+       <property name="Site Path" value="{w}{s}{f}{w}{s}{d}{d}"/>
+       <property name="Site Type" value="{D}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="dbac82a9-46e9-327a-a7ad-885106a472a4" name="Geann a-Lisch" size="SiteCard">
+       <property name="Auto Attack" value="Men - 4 strikes with 8 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Edhellond"/>
+       <property name="Playable" value="Information, Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Old Pûkel-land"/>
+       <property name="Site Path" value="{w}{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Any man hazard creature can be played here."/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="526e1e6a-0fa9-398f-a07f-62f526ee9536" name="Gobel Mírlond" size="SiteCard">
+       <property name="Auto Attack" value="Men - 4 strikes with 9 prowess (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Edhellond"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Harondor"/>
+       <property name="Site Path" value="{w}{f}{c}{w}"/>
+       <property name="Site Type" value="{B}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="eb9036af-fef3-31cb-95e5-dfdc430e9349" name="Nûrniag Camp" size="SiteCard">
+       <property name="Auto Attack" value="Men - 4 strikes with 7 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="5"/>
+       <property name="Haven" value="Edhellond"/>
+       <property name="Playable" value="Information, Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Nurn"/>
+       <property name="Site Path" value="{w}{f}{c}{w}{s}"/>
+       <property name="Site Type" value="{S}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3290e6eb-6680-3ef4-b34e-8b0a9f520aa9" name="Raider-hold" size="SiteCard">
+       <property name="Auto Attack" value="Men - 4 strikes with 9 prowess (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="4"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Horse Plains"/>
+       <property name="Site Path" value="{w}{s}{s}{s}"/>
+       <property name="Site Type" value="{B}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="187b27ba-c1a0-3453-9392-b9c2bcc364d1" name="The Worthy Hills" size="SiteCard">
+       <property name="Auto Attack" value="Men - each character faces 1 strike at 9 (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Rivendell"/>
+       <property name="Playable" value="Information"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Cardolan"/>
+       <property name="Site Path" value="{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="You may tap a sage and a scout during the site phase to untap this site."/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="8517dc11-0bc0-3996-a990-1065a63fe5a9" name="Dancing Spire" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 2 strikes with 11 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Withered Heath"/>
+       <property name="Site Path" value="{d}{w}{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3d88510e-2efb-3653-9d04-ccd1c0e600ab" name="Eagles' Eyrie" size="SiteCard">
+       <property name="Auto Attack" value="Animals - 2 strikes with 10 prowess (attacker chooses defending characters)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Information, Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Anduin Vales"/>
+       <property name="Site Path" value="{d}{s}"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c4a5bd2f-c642-3c35-9a1c-a965f0dfe31e" name="Edhellond" size="SiteCard">
+       <property name="Auto Attack" value="Elves - 4 strikes with 7 prowess; Dúnedain - 3 strikes with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="5"/>
+       <property name="Haven" value="Geann a-Lisch"/>
+       <property name="Playable" value="Information, Items (minor, major, greater)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Anfalas"/>
+       <property name="Site Path" value="{w}{w}{w}"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Special" value="Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3a72445e-7f97-3e63-a8b3-0e7682bcf31b" name="Framsburg" size="SiteCard">
+       <property name="Auto Attack" value="Men - 1 strike with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Items (minor)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Anduin Vales"/>
+       <property name="Site Path" value="{d}{s}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="The first minor item played at this site each turn does not tap the site. Contains a hoard."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d13b66f6-668b-3471-99c6-7f6a68d5240b" name="The Gem-deeps" size="SiteCard">
+       <property name="Adjacent" value=" Glittering Caves (0), The Pûkel-deeps (9), The Under-gates (6)"/>
+       <property name="Auto Attack" value="Undead (1st attack) - 3 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Playable" value="Items (minor, major, gold ring)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Any Undead creature or Pûkel-creature may be played at this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="fdf78b13-68be-3cc5-8a8b-82f9e4f1e1b1" name="Gold Hill" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strike with 15 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Withered Heath"/>
+       <property name="Site Path" value="{d}{w}{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c579d27a-123f-3bc8-abe5-3529056c77eb" name="Grey Havens" size="SiteCard">
+       <property name="Auto Attack" value="Elves - 3 strikes with 8 prowess; Elves - 2 strikes with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Carn Dûm"/>
+       <property name="Playable" value="Information, Items (minor, major, greater)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Lindon"/>
+       <property name="Site Path" value="{s}{w}{f}"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Special" value="Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="9ab013b8-3415-3f2e-a39a-2f122fc931d5" name="Himring" size="SiteCard">
+       <property name="Auto Attack" value="Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Geann a-Lisch"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Elven Shores"/>
+       <property name="Site Path" value="{w}{c}{c}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="An overt company must tap an untapped character (if available) if this site is revealed as its new site"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="25798899-dd6d-3868-b633-4def2bd3734f" name="Irerock" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strike with 14 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Withered Heath"/>
+       <property name="Site Path" value="{d}{w}{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="fefdb31b-9b2f-3e3c-9213-1c543082b6d6" name="The Iron-deeps" size="SiteCard">
+       <property name="Adjacent" value=" Carn Dûm (0), The Under-leas (5), The Under-vaults (6)"/>
+       <property name="Auto Attack" value="Trolls - 3 strikes with 10 prowess (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="1"/>
+       <property name="Playable" value="Items (minor)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{D}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="5cb75eab-8a19-3271-89aa-c30050a492e7" name="Isle of the Ulond" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strike with 14 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Geann a-Lisch"/>
+       <property name="Playable" value="Information, Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Andrast Coast"/>
+       <property name="Site Path" value="{w}{w}{c}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="An overt company must tap an untapped character (if available) if this site is revealed as its new site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="af39d859-4160-38c2-8ecb-f30c678230c6" name="Isles of the Dead that Live" size="SiteCard">
+       <property name="Auto Attack" value="Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Geann a-Lisch"/>
+       <property name="Playable" value="Items (minor, major, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Eriadoran Coast"/>
+       <property name="Site Path" value="{w}{c}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="A covert company must tap an untapped character (if available) if this site is revealed as its new site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d603cf6f-3546-3160-9779-99885dae6047" name="Lórien" size="SiteCard">
+       <property name="Auto Attack" value="Elves - 4 strikes with 8 prowess; Elves - 3 strikes with 9 prowess; Elves - 2 strikes with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="4"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Information, Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Wold &amp; Foothills"/>
+       <property name="Site Path" value="{d}{s}{w}"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Special" value="Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="07d0b584-fa9c-3c65-9d7e-1178a95bfbac" name="Old Forest" size="SiteCard">
+       <property name="Auto Attack" value="Maia - 2 strikes with 15 prowess (cannot be canceled)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Carn Dûm"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Cardolan"/>
+       <property name="Site Path" value="{s}{w}{w}"/>
+       <property name="Site Type" value="{B}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="f14bb01c-7730-3657-b3b0-e633607a7ac4" name="Ovir Hollow" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strike with 12 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Grey Mountain Narrows"/>
+       <property name="Site Path" value="{d}{w}{w}{s}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="6b269a05-8af7-35dd-b18c-61c9215c014b" name="The Pûkel-deeps" size="SiteCard">
+       <property name="Adjacent" value=" Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9)"/>
+       <property name="Auto Attack" value="Pûkel-creature (1st attack) - 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Playable" value="Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Any Undead creature or Pûkel-creature may be played at this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="ae521389-2122-3a79-a0a0-311538cf0962" name="Rhosgobel" size="SiteCard">
+       <property name="Auto Attack" value="Maia - 1 strike with 13 prowess; Maia - 1 strike with 13 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="1"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Information, Items (minor)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Southern Mirkwood"/>
+       <property name="Site Path" value="Dark-domains"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Special" value="If the Wizard card Radagast is in play, the automatic-attacks are removed."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="7f71f86d-d347-3c57-83cd-a8256dc9c234" name="Rivendell" size="SiteCard">
+       <property name="Auto Attack" value="Elves - 4 strikes with 8 prowess; Dúnedain - 3 strikes with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Carn Dûm"/>
+       <property name="Playable" value="Information, Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Region" value="Rhudaur"/>
+       <property name="Site Path" value="{s}{w}"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Special" value="Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d57062b0-2e8e-3c16-af52-558dd6c80643" name="The Sulfur-deeps" size="SiteCard">
+       <property name="Adjacent" value=" Dol Guldur (0), The Under-courts (4), The Pûkel-deeps (9), The Under-gates (4), The Under-galleries (7)"/>
+       <property name="Auto Attack" value="Trolls - 2 strikes with 10 prowess (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="1"/>
+       <property name="Playable" value="Items (minor)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{D}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="9998cb23-7c29-3dc8-ac02-9184240797b4" name="Tolfalas" size="SiteCard">
+       <property name="Auto Attack" value="Undead - 3 strikes with 7 prowess; each character wounded must make a corruption check modified by -2"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Minas Morgul"/>
+       <property name="Playable" value="Items (minor, major, greater*) *-Scroll of Isildur only"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Mouths of the Anduin"/>
+       <property name="Site Path" value="{s}{w}{w}{c}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="An overt company must tap an untapped character (if available) if this site is revealed as its new site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="687cebf4-c04f-3db0-ad19-976e46c495cf" name="The Under-courts" size="SiteCard">
+       <property name="Adjacent" value=" Barad-dûr (0), The Sulfur-deeps (4), The Under-galleries (4)"/>
+       <property name="Auto Attack" value="Trolls - 3 strikes with 10 prowess (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="1"/>
+       <property name="Playable" value="Items (minor)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{D}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="ad7be0dd-7fba-31b2-8730-aca65c0b241e" name="The Under-galleries" size="SiteCard">
+       <property name="Adjacent" value=" Any site in Udûn (0), The Sulfur-deeps (7), The Under-courts (4)"/>
+       <property name="Auto Attack" value="Trolls - 4 strikes with 10 prowess (detainment)"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Playable" value="Information, Items (minor)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{D}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d9ea27f1-5f9c-362b-9289-8a667252938d" name="The Under-gates" size="SiteCard">
+       <property name="Adjacent" value=" Moria (0), The Gem-deeps (6), The Sulfur-deeps (4), The Under-grottos (7), The Under-leas (5)"/>
+       <property name="Auto Attack" value="Balrog (1st attack) - 2 strikes with 16 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins and Lairs"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{S}"/>
+       <property name="Special" value="Non-Nazgûl creatures played at this site attack normally, not as detainment. If a manifestation of Balrog of Moria is in play or defeated, the first automatic-attack is canceled."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="ce13ba97-bdf0-35d3-9ce5-a1348e0a330e" name="The Under-grottos" size="SiteCard">
+       <property name="Adjacent" value=" Goblin-gate (0), The Under-gates (7), The Under-leas (7)"/>
+       <property name="Auto Attack" value="Orcs (1st attack) - 4 strikes with 7 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Playable" value="Items (minor, major, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="When a gold ring is tested in a company at this site, the result of the roll is modified by +1."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="239a686e-b6a1-3f88-9df2-abe3476ea1f2" name="The Under-leas" size="SiteCard">
+       <property name="Adjacent" value=" Mount Gundabad (0), The Iron-deeps (5), The Under-gates (5), The Under-grottos (7), The Under-vaults (6)"/>
+       <property name="Auto Attack" value="Orcs (1st attack) - 5 strikes with 7 prowess (detainment against overt company); (2nd attack) Opponent may play as an automatic- attack one non- unique hazard creature from his hand normally keyed to a Ruins and Lairs"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{S}"/>
+       <property name="Special" value="Non-Nazgûl creatures played at this site attack normally, not as detainment."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="a3af4178-3609-3702-a00a-fa44875c5691" name="The Under-vaults" size="SiteCard">
+       <property name="Adjacent" value=" Mount Gram (0), The Iron-deeps (6), The Under-leas (6)"/>
+       <property name="Auto Attack" value="Undead (1st attack) - 3 strikes with 8 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Under-deeps"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Any Undead creature may be played at this site."/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="38bf981e-7238-3ba7-8db6-60a001df83d8" name="Weathertop" size="SiteCard">
+       <property name="Auto Attack" value="Wolves - 2 strikes with 6 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="1"/>
+       <property name="Haven" value="Carn Dûm"/>
+       <property name="Playable" value="Information"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Arthedain"/>
+       <property name="Site Path" value="{s}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3ce57a9c-a4f1-36b1-8b99-3700a9360dca" name="Wellinghall" size="SiteCard">
+       <property name="Auto Attack" value="Awakened Plant - 2 strikes with 10 prowess, Awakened Plant - 2 strikes with 10 prowess"/>
+       <property name="Class" value=""/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Dol Guldur"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Fangorn"/>
+       <property name="Site Path" value="{d}{s}{w}{w}"/>
+       <property name="Site Type" value="{F}"/>
+       <property name="Type" value="Minion Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+  </cards>
+</set>

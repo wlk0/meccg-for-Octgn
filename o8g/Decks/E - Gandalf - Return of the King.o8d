@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="b0a6f67a-d46f-302d-aa6d-0ab5fed00f5d">Ambusher</card>
+    <card qty="3" id="98a6c17d-e081-376b-aa2b-209a29159253">Cave Worm</card>
+    <card qty="2" id="ac07e95b-35d8-3796-8ef1-24abcbc61339">Cave-drake</card>
+    <card qty="1" id="0a9f7c9d-2b2c-3bb3-a10b-1511d0f09006">Corsairs of Umbar</card>
+    <card qty="3" id="507ba878-d3cd-3e4c-a4a4-cca40c54c3c8">Ent in Search of the Entwives</card>
+    <card qty="1" id="93b361c0-a288-395e-ab49-aeef324fc9b1">Foolish Words</card>
+    <card qty="2" id="aecfdded-86c9-325e-8656-a4a734bb025d">Ghosts</card>
+    <card qty="2" id="f738137c-4e2d-3f4f-b4ad-f259606250e7">Lure of Expedience</card>
+    <card qty="2" id="b97ca7bc-faa3-3956-91c2-41259f67fc5b">Marsh-drake</card>
+    <card qty="1" id="cc647640-2629-3595-b780-510cedbc820e">Nothing to Eat or Drink</card>
+    <card qty="1" id="e5e57ffe-0128-3d63-9103-58ae1e08e78e">Power Built by Waiting</card>
+    <card qty="1" id="ab48e959-7392-363d-a2eb-50c5971b840e">Pûkel-men</card>
+    <card qty="2" id="d6bb48dd-e8c3-3156-b73e-bedef0d9e7a5">Rain-drake</card>
+    <card qty="1" id="f03dbdd7-f19f-3fcd-9e5f-dc6af035d015">Searching Eye</card>
+    <card qty="2" id="18d0354f-4e03-3675-9a8b-7d260f5d5e42">Sellswords Between Charters</card>
+    <card qty="2" id="f7281a7b-bec8-37d3-b948-638661a1cb65">Tidings of Bold Spies</card>
+    <card qty="2" id="2b16eb12-a502-3c63-ad6b-bdcbfc5d3a6b">Twilight</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="565ad880-52dd-3010-a38c-d90450a8687a">Beretar</card>
+    <card qty="1" id="91923e98-adc5-391b-b991-6af90d6d7611">Bergil</card>
+    <card qty="1" id="adfbdc49-38ae-30e6-949d-e0d0efec2cd8">Boromir II</card>
+    <card qty="1" id="9afda8fe-ae3f-35e2-a7bf-3039de9b7f10">Forlong</card>
+    <card qty="3" id="acc06955-14da-32a7-a881-a3804454d87e">Gandalf</card>
+    <card qty="1" id="2e854ba7-2b94-36ef-bd02-7d5bcccddca7">Imrahil</card>
+    <card qty="1" id="4ae71204-9457-3fae-aa1e-d497ad0a72b6">Thranduil</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="3" id="3c631a41-448c-3627-96a5-40af03ee87ca">Beautiful Gold Ring</card>
+    <card qty="3" id="2a59de1c-2ba9-3aee-9850-ac22a368a33d">Concealment</card>
+    <card qty="2" id="3d957334-3558-3a0c-98f8-c82a2734df13">Dark Quarrels</card>
+    <card qty="2" id="51b96f35-a2e2-3c2a-aa35-fdf64040459f">Dodge</card>
+    <card qty="1" id="d1b5e63c-38cc-3c1b-b57d-ab08754f3630">Glamdring</card>
+    <card qty="1" id="7dad2369-baf4-3675-8fbb-c4c43921578b">Hauberk of Bright Mail</card>
+    <card qty="2" id="7dcf3feb-3c8f-36be-b964-6996de86fa78">Lesser Ring</card>
+    <card qty="1" id="4e5eea3b-7fbd-37bd-af48-7fb8adb262cc">Magic Ring of Stealth</card>
+    <card qty="2" id="3c8ab203-a704-309b-b1dc-64586e002297">Marvels Told</card>
+    <card qty="1" id="5e94b973-9c93-3849-821f-56a161bfcc43">Narsil</card>
+    <card qty="2" id="e92920c1-161e-3473-879f-73260c19ce89">Noble Steed</card>
+    <card qty="1" id="5ef8858d-6232-3011-8006-c921d2147562">Quickbeam</card>
+    <card qty="1" id="227b436d-4797-3139-b044-693eb6e47997">Rangers of Ithilien</card>
+    <card qty="1" id="e43bf7d0-46ec-3356-a235-fa4fa606c8d3">Return of the King</card>
+    <card qty="1" id="6f05293b-431d-3409-86b6-8662b021d5b7">Smoke Rings</card>
+    <card qty="3" id="2cda383b-34c3-3340-9ac3-aec1d65df087">Stealth</card>
+    <card qty="1" id="46f69e69-0c7a-3221-8adc-583792d6039c">Sword of Gondolin</card>
+    <card qty="1" id="2d1c9c2e-cdf4-3a47-bea2-efdbabc6af4b">Thorough Search</card>
+    <card qty="1" id="6501d18a-13cf-384f-86df-e4543fb32ace">Tower Guard of Minas Tirith</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="878ef131-55c6-3e76-810c-2d761c274bdc">Annalena</card>
+    <card qty="1" id="f173fbfa-ce5e-316f-911a-740cfd505982">Aragorn II</card>
+    <card qty="1" id="34e78846-3a7d-3d4a-8ee3-3e812449cec3">Arwen</card>
+    <card qty="1" id="32879b3b-7f7c-3f2b-84ef-434ade32603f">Faramir</card>
+    <card qty="1" id="1e57e8f8-fbd3-34a8-95e7-8dff313d055e">Elf-stone</card>
+    <card qty="1" id="b30db2b2-6c02-32ea-9b72-4bc77b2ff0cd">Star-glass</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="b72702a5-0960-3082-ae62-288d60d73131">Alone and Unadvised</card>
+    <card qty="1" id="55f7c218-6da2-3829-a5e0-3d8b8740df3d">Bairanax Ahunt</card>
+    <card qty="1" id="0a9f7c9d-2b2c-3bb3-a10b-1511d0f09006">Corsairs of Umbar</card>
+    <card qty="1" id="93b361c0-a288-395e-ab49-aeef324fc9b1">Foolish Words</card>
+    <card qty="1" id="aecfdded-86c9-325e-8656-a4a734bb025d">Ghosts</card>
+    <card qty="1" id="3fafaaf8-9024-3004-ba8e-079f144d86f1">Incite Denizens</card>
+    <card qty="1" id="039b6a2e-9853-34a5-a255-1f9c81d80b4e">Muster Disperses</card>
+    <card qty="1" id="cc647640-2629-3595-b780-510cedbc820e">Nothing to Eat or Drink</card>
+    <card qty="1" id="f03dbdd7-f19f-3fcd-9e5f-dc6af035d015">Searching Eye</card>
+    <card qty="1" id="66a0edbe-93e5-3459-b4fd-d9aa027cc1ff">Sons of Kings</card>
+    <card qty="1" id="2b16eb12-a502-3c63-ad6b-bdcbfc5d3a6b">Twilight</card>
+    <card qty="1" id="3d957334-3558-3a0c-98f8-c82a2734df13">Dark Quarrels</card>
+    <card qty="2" id="6992088d-57e5-384d-a324-1a96913171ff">Gates of Morning</card>
+    <card qty="1" id="6e1de3ba-eb8e-3e6f-8a26-14b0571aa79b">Knights of Dol Amroth</card>
+    <card qty="1" id="3c8ab203-a704-309b-b1dc-64586e002297">Marvels Told</card>
+    <card qty="2" id="8f07daaa-eb41-36a1-a546-869ca204a3c7">Promptings of Wisdom</card>
+    <card qty="1" id="091acc90-ceab-3fcb-a0c2-618c9134c40b">Riders of Rohan</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="4712bdb8-3044-3ef4-9dc4-1e8a40fba96d">Bandit Lair</card>
+    <card qty="1" id="5209d8c1-969b-34dd-b049-b6ea89c8efe9">Buhr Widu</card>
+    <card qty="1" id="5f11449d-1577-3d9c-a01d-586e06b5541d">Dead Marshes</card>
+    <card qty="1" id="f40a9f93-a201-37a0-b43a-506335e52bd6">Dol Amroth</card>
+    <card qty="1" id="630ca88d-2967-3fec-9f2e-107905cf78d2">Edhellond</card>
+    <card qty="1" id="a269508d-b7ea-388f-a86f-bb26d6d5fe2f">Edoras</card>
+    <card qty="1" id="9197867b-1a08-37e0-87fe-0e39ba0c133b">Gladden Fields</card>
+    <card qty="1" id="dab54988-3ae3-3d79-9ef6-9383a8340dfd">Haudh-in-Gwanûr</card>
+    <card qty="1" id="529ae00d-c066-3fcf-b2db-d170e48adb83">Henneth Annûn</card>
+    <card qty="1" id="8c3c8fbf-ff2f-3d39-934b-cb569e4375c3">Isengard</card>
+    <card qty="1" id="be7fac88-0512-3bbd-b0db-9aaac823d5d4">Lórien</card>
+    <card qty="1" id="35800f3e-4ab7-3a71-828a-2a1cb3f47566">Minas Tirith</card>
+    <card qty="1" id="b1feb55a-f338-358a-9af8-93491df33b7f">Moria</card>
+    <card qty="1" id="c4effd35-d128-3b79-b788-200f633c8e06">Rivendell</card>
+    <card qty="1" id="677249d8-4953-350f-9acf-7464006e2ed3">Wellinghall</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

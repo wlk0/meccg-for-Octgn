@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Dragons" id="f8ea7d47-1252-3f20-a6b9-74b60381151e" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
+  <cards>
+    <card id="32c5b8d7-081b-34e8-b554-779fffdb94ae" name="Brand">
+       <property name="Body" value="9"/>
+       <property name="Home Site" value="Dale"/>
+       <property name="Influence" value="2"/>
+       <property name="Mind" value="6"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="4"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Warrior/Diplomat"/>
+       <property name="Type" value="Hero Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="75571a67-74bc-325c-8629-7ade13da36df" name="Fram Framson">
+       <property name="Body" value="8"/>
+       <property name="Home Site" value="Framsburg"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="5"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="6"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Skills" value="Warrior/Ranger"/>
+       <property name="Type" value="Hero Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="080f29fe-54a9-3666-9c25-3a2742c82128" name="Galdor">
+       <property name="Body" value="9"/>
+       <property name="Home Site" value="Grey Havens"/>
+       <property name="Influence" value="2"/>
+       <property name="Mind" value="5"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="2"/>
+       <property name="Race" value="Elf"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Ranger/Diplomat"/>
+       <property name="Type" value="Hero Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="6af21a6e-c425-34c0-a001-6eeddbe36147" name="Ioreth">
+       <property name="Body" value="7"/>
+       <property name="Home Site" value="Minas Tirith"/>
+       <property name="Influence" value="1"/>
+       <property name="Mind" value="1"/>
+       <property name="MP" value="0"/>
+       <property name="Prowess" value="0"/>
+       <property name="Race" value="Dúnadan"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Skills" value="Sage"/>
+       <property name="Type" value="Hero Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="a5e4ee32-b15c-3f9f-a368-321035e087bf" name="Thráin II">
+       <property name="Body" value="8"/>
+       <property name="Home Site" value="None"/>
+       <property name="Influence" value="2"/>
+       <property name="Mind" value="9"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="7"/>
+       <property name="Race" value="Dwarf"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Skills" value="Warrior/Ranger/Sage"/>
+       <property name="Type" value="Hero Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="f236b60c-cd3d-3320-87fc-89968a274859" name="Agburanar Ahunt">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="1a928cfc-76f3-3866-8656-0625cc21462d" name="Agburanar at Home">
+       <property name="Body" value="9"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="16"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="2"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="1e26a469-3f29-3d21-96cf-b39aa1d73717" name="Bairanax">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Dragon"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="55f7c218-6da2-3829-a5e0-3d8b8740df3d" name="Bairanax Ahunt">
+       <property name="Body" value="6"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d631178c-4686-31e1-b85c-3adc0e31890b" name="Bairanax at Home">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="15"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="2"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="40133596-95a8-3a44-a5dd-d55c8ad6ae58" name="Black Breath">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="3"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="1ac0ba40-c022-3042-a080-a672d707f95e" name="Carrion Birds">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="6"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="-1"/>
+       <property name="Subclass" value="Animals"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="98a6c17d-e081-376b-aa2b-209a29159253" name="Cave Worm">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="16"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="9728e16d-c3e4-3065-a748-ca6afdb0e200" name="Cruel Caradhras">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="f7eebf69-53e3-36ab-ba2d-1bb6025b8cc5" name="Daelomin Ahunt">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="11"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="47438867-359d-34d2-ad8e-417fdaf846cb" name="Daelomin at Home">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="8c8c0a1f-b4f4-3ad4-9013-07b5fe169bd4" name="Deftness of Agility">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="1e32c8ad-c746-3f04-98f5-a6271a11dd9b" name="Dire Wolves">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{w}{s}"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Subclass" value="Wolves"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="3c078eec-b727-3fb2-a5fc-f88e909ce5b0" name="Dragon's Blood">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="75eb94b7-fa72-33ed-a4b9-5797eee564d2" name="Dragon's Breath">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="1ce1a123-c66d-3467-ba40-e2aa7cfe8f7f" name="Dragon's Curse">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="d0601475-cffc-3909-99aa-21589fd7cd08" name="Dragon's Terror">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="5d3e1d90-fae7-3529-b949-2ad28df004b6" name="Dragon-sickness">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="34b3d19a-8281-3e86-8c00-33d2ca6eb0ab" name="Dunlending Raiders">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Strikes" value="5"/>
+       <property name="Subclass" value="Men"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="97fdec8c-7519-30c9-8453-8e2a5becdc0a" name="Eärcaraxë">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="17"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Dragon"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2" name="Eärcaraxë Ahunt">
+       <property name="Body" value="6"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="15"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="e24424ad-887b-326c-b5ec-a87798ad775d" name="Eärcaraxë at Home">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="18"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="2"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d698efb3-c92f-3cc1-ae11-7c819a664279" name="Exile of Solitude">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="86909b37-06f5-3966-bee9-30b39ca37e93" name="Fever of Unrest">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="93b361c0-a288-395e-ab49-aeef324fc9b1" name="Foolish Words">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="6f233570-63e7-3a93-99d0-f6e0bca52ebf" name="Frenzy of Madness">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="476b7fef-5eb1-3c70-8955-c9691c774c08" name="From the Pits of Angband">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="33b354c0-00a3-3200-8d89-2ef6faddcdb2" name="Gothmog">
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="3"/>
+       <property name="Playable" value="{d}{D}"/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Trolls"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="7e02ccad-1f8e-33bd-8d6e-823092769f7f" name="Half an Eye Open">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="9f4f5d6d-1f9c-38b3-a0a7-c18400e49359" name="Hobgoblins">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{w}"/>
+       <property name="Prowess" value="10"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Orcs"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="f7a67dac-7a1b-34d1-ac15-f48428776163" name="Host of Bats">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="65694aaf-1c0e-394b-a8db-d3e8636e86f0" name="Ice-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="15"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="67f9e824-510e-31f2-9bae-24ff9fcdf060" name="Icy Touch">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="3fafaaf8-9024-3004-ba8e-079f144d86f1" name="Incite Denizens">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="1e47cb49-cdf1-30a3-a9f3-bcc1be41a031" name="Incite Minions">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="0fc3af57-d18e-3db5-99d9-3df80ec60f11" name="Itangast">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="6"/>
+       <property name="Prowess" value="18"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Dragon"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="69202c3d-42eb-3f5e-9df6-327932494398" name="Itangast Ahunt">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="6"/>
+       <property name="Prowess" value="16"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="10beaeb9-ed03-3acc-825d-2db1c5fc989b" name="Itangast at Home">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="6"/>
+       <property name="Prowess" value="19"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="98d8bdcb-50cf-38f4-a895-e485d3670f4e" name="Known to an Ounce">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="fb69fb9f-67be-3fc9-adcb-8b3b836d0038" name="Land-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{R}"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="5e242be9-c0b4-34fe-9ba7-df3184708b67" name="Left Behind">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="56dc412c-a37f-37bf-a01d-9b92e429b735" name="Lesser Spiders">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{s}{R}"/>
+       <property name="Prowess" value="7"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Subclass" value="Spiders"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="74b19b0d-a03e-3777-b785-53638bb0986b" name="Leucaruth Ahunt">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="759b9906-24aa-3f7f-a8dd-ca2b55077e16" name="Leucaruth at Home">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="17"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="2"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="eea328b7-4940-3499-a440-d02a08449f99" name="Light-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{R}"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="cb9d84a9-f65f-3736-bbfd-b7b0e16f4460" name="Many Sorrows Befall">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="b97ca7bc-faa3-3956-91c2-41259f67fc5b" name="Marsh-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{c}{s}"/>
+       <property name="Prowess" value="11"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="86cbb01a-9390-35b6-875f-564445c3a31c" name="Memories Stolen">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="609c07df-4de8-3c64-a008-c34ece909474" name="Morgul-rats">
+       <property name="Body" value="5"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="2"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="15"/>
+       <property name="Subclass" value="Animals"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="0031b202-0620-33f7-9f3e-19f53ee413d0" name="No Escape from My Magic">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="00f700ab-8e5f-35f8-a337-c4120d8a70f0" name="Noose of the Sea">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="42e8fd12-995e-3e15-8571-aecf640a8bae" name="Parsimony of Seclusion">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="63d661a9-07d7-3fe6-83c1-571f26d82eac" name="Passion of Wrath">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="d8dd77ad-e57d-3622-982e-265be1ff0e77" name="Peril Returned">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="548992f7-e81e-3cbf-bb79-56a3c048f138" name="Prowess of Age">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="cc4e0124-7caa-336d-a616-36fc26622ecf" name="Prowess of Might">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="d6bb48dd-e8c3-3156-b73e-bedef0d9e7a5" name="Rain-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{c}{w}{w}{w}"/>
+       <property name="Prowess" value="15"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="901b491f-213c-3617-88cd-de21b79f013a" name="Rumor of Wealth">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="3c8c5721-7435-3e2f-a5fe-ee2fea8ff169" name="Sand-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="aecc1b9a-27f3-3803-947b-b198d9619b47" name="Scatha">
+       <property name="Body" value="9"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="5"/>
+       <property name="Prowess" value="15"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Dragon"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="57bd7b83-43ea-384f-9526-315353b739c5" name="Scatha Ahunt">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="5"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="18e9ca5f-d57c-38f2-a1b7-1277ffe7dd17" name="Scatha at Home">
+       <property name="Body" value="9"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="5"/>
+       <property name="Prowess" value="16"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="0bcf31dd-2354-3a8c-bf32-4ee8d5241e75" name="Scorba">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Dragon"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="cd6a40ab-f8c3-3c94-8343-c41e10f82fb9" name="Scorba Ahunt">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="10"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="4"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="eef27656-d789-3f15-a3d0-064b33f97855" name="Scorba at Home">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="8596ee1c-2fea-36d0-8788-ded28b184abd" name="Sea Serpent">
+       <property name="Body" value="6"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value="Coastal Seas"/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="f03dbdd7-f19f-3fcd-9e5f-dc6af035d015" name="Searching Eye">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="8704318e-4a0c-313a-ae6f-794eeb53b8c4" name="Shadow of Mordor">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="a1898f01-fabf-36e4-ba77-3648059ccbab" name="Sleepless Malice">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="9fb084d6-dfe3-3518-8cbf-56cdf169ea9d" name="Smaug Ahunt">
+       <property name="Body" value="7"/>
+       <property name="Class" value="Long-event"/>
+       <property name="MP" value="5"/>
+       <property name="Prowess" value="15"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="734fd411-03cc-3fe7-bc64-884a90922ef8" name="Smaug at Home">
+       <property name="Body" value="8"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="5"/>
+       <property name="Prowess" value="18"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Strikes" value="2"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c0ec58d2-c906-397b-b567-614c3d8b878b" name="Song of the Lady">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="749ce146-a405-3c59-81d0-b6b6070cefd1" name="Stormcrow">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="5dfbb5bf-e06d-3ea9-bcca-2a1efb33a005" name="Subtlety of Guile">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="dd309342-912e-3774-b226-d72a23aad92a" name="Thunder's Companion">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{w}"/>
+       <property name="Prowess" value="9"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Giants"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="efeae89b-cd15-3e3d-bdc9-9ceb38febdef" name="Times Are Evil">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="c01160dc-6f94-3728-93ce-20747aa71e8d" name="True Cold-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="14"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="98998e77-81df-39d4-bb51-7c2f18ef6c38" name="True Fire-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{w}{w}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="216ff74e-737e-3391-b4ad-402e47420885" name="Velocity of Haste">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="732b8449-bfe7-3940-9d36-62e8f665673c" name="Were-worm">
+       <property name="Body" value="6"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value="{w}{w}{w}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="ee29b2de-2d8b-35f3-8a99-1addc1d9a96c" name="Wild Fell Beast">
+       <property name="Body" value="6"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="2"/>
+       <property name="Playable" value="{s}{s}"/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="da1bcc7b-48f5-3111-8514-abc0f3802a01" name="Winds of Wrath">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="9888d0b0-6be9-305b-aca3-a54e2e331825" name="Winged Cold-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{w}{w}"/>
+       <property name="Prowess" value="13"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="bd6204a3-1edf-3019-ba40-dfa43c6e1f34" name="Winged Fire-drake">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{w}{w}{w}{s}{s}"/>
+       <property name="Prowess" value="12"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Strikes" value="2"/>
+       <property name="Subclass" value="Drake"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="e57ec7c6-dcdc-3936-bc43-9aa2336af04f" name="Withered Lands">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="a154cfae-04c8-3f7b-818c-492f62f17932" name="Wolf-riders">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature/Short-event"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="8"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Strikes" value="3"/>
+       <property name="Subclass" value="Orcs"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="2bce0a44-6ac5-3a65-ac9a-a02c52cc0bbd" name="Worm's Stench">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="d4a75714-06de-3d94-8e1f-a08e9a8c3872" name="Worn and Famished">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="9d19fd21-d8e7-3453-a54a-0fca77eb9914" name="A Short Rest">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="950b7b40-b3c5-3fe0-a804-21ba95c7232e" name="Adamant Helmet">
+       <property name="Body" value="+1"/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="3044cc60-450f-3732-9c51-d6e6e2098a76" name="Alert the Folk">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="150dc3b8-c087-318b-9213-c28727cca3a2" name="And Forth He Hastened">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="e42596ab-cd65-3d49-a015-d0f367b204b0" name="Arrows Shorn of Ebony">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="070a9824-b736-33b4-a5c9-6b6dbc8b0095" name="Belegaer">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="dc5c4187-c28e-30b0-9d29-08012fcdb5a8" name="Bounty of the Hoard">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="4ebec209-b053-3bec-92dd-a4fe84bf717f" name="Bow of Dragon-horn">
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="2"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="49eaf0dc-15cb-36d4-8d99-0ad0b9e1f659" name="Burglary">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="6a953b3a-e653-3cf6-9117-28c2ca3e0d14" name="Cloudless Day">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="cebe7740-bc18-31bd-a89f-3178755c661d" name="Cram">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="fd565903-eb69-340d-b4f1-471a391db4aa" name="Dragon's Hunger">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="b8570f88-ebe5-378e-9ed7-b96c0ef55b68" name="Dragon-feuds">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="0e81e5fa-33db-3771-ad70-ae96b3db4b03" name="Dragon-lore">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="1"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="4bd1b4c6-93b9-3e9b-8e87-e2a74d70c0da" name="Dwarven Hoard">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="3457cf77-6d3e-3af2-9cf4-ce8e917137bb" name="Echo of All Joy">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="47389652-fa35-3bd8-b0d7-4219673b6a6b" name="Elf-path">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="a23b8b87-773c-3672-a43e-b4da6ecc12d9" name="Emerald of Doriath">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Influence" value="0(1)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="dc7f835d-4fd7-304b-9c1a-01427a271cbc" name="Emerald of the Mariner">
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="MP" value="3"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="5386a6fe-c3c9-34cf-b8dd-2f06bbc44cb3" name="Enruned Shield">
+       <property name="Body" value="+3"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="3"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="6257f1fe-0f09-31a0-9593-8b10adaff335" name="Fast Asleep">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="f5bda981-9a66-3c95-8dbc-4564dcbab79f" name="Flatter a Foe">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="4cc6e4fe-7446-3fcf-8c5f-d799e1ef708d" name="Forod">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="83bda9cb-f5dd-3bf1-a14a-0716753e0e70" name="Gift of Comprehension">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="82414be1-55ef-35d0-8b07-2d7abf8dfe93" name="Gold Belt of Lórien">
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Influence" value="+1"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="e9ac02ab-1eda-3ad7-8f7e-f0bb97dbb48b" name="Habergeon of Silver">
+       <property name="Body" value="+2"/>
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="2"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="e2f8236d-216d-370e-a183-996cdd3049bc" name="Harad">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="577373f7-54eb-3a3a-a74b-5e74c0c168d2" name="Helm of Her Secrecy">
+       <property name="Body" value="1"/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Influence" value="1"/>
+       <property name="Prowess" value="2"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="04a2b32b-6db5-38e0-83e7-a21dbcb31ec9" name="Here, There, or Yonder">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="12f1e2b9-4672-376f-93b1-78bb8f95e52f" name="Hey! come merry dol!">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="62f06f49-7788-32b3-960b-032ea9dd0d4d" name="Houses of Healing">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="6a1b0c8a-7ee5-3786-89c1-e2da15cd291c" name="King under the Mountain">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Influence" value="5"/>
+       <property name="MP" value="5"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="f3d78cf4-0e59-3305-8b4b-08a4defe254a" name="Legendary Hoard">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="8293dd86-ae0f-39bd-b93e-21c63f6e0466" name="Look More Closely Later">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="5cb2664b-beb7-3ac0-91d7-1106f99fedb7" name="Lore of the Ages">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="7cfd3bdd-f1c2-3674-9494-f1aace43536e" name="Magical Harp">
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="2"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="1499e5f8-45d9-31f4-81c1-e7618e61948b" name="Many Foes He Fought">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="1818b616-cc57-32df-a634-28f561446d79" name="Many Turns and Doublings">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="b1ea601e-6865-30d6-8bc6-f6a7ab3ab3a6" name="Map to Mithril">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="0(3)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="3c8ab203-a704-309b-b1dc-64586e002297" name="Marvels Told">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="dc9b7ecc-5a1b-3d25-a508-f2691ff462eb" name="Master of Esgaroth">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="53bc8ea0-37c3-3979-a50b-2afa647d3b0f" name="Master of Wood, Water, or Hill">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="e4928fa4-79f2-38a8-b1c0-8134957c7912" name="Mathom Lore">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="66634191-66e7-3591-914a-e63d0da5e873" name="Men of Dale">
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d97ee41e-e922-3813-b227-b2c192bb24bf" name="Men of Lake-town">
+       <property name="Class" value="Man Faction"/>
+       <property name="MP" value="2"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="952819cf-4973-31c7-8092-9b44a176816e" name="More Sense than You">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="611308fe-85b2-383a-82dd-2ca8f99b9b2a" name="Necklace of Silver and Pearls">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="ee238def-7704-3546-a91a-5644ddfc4f54" name="Nenseldë the Wingild">
+       <property name="Class" value="Ally"/>
+       <property name="Mind" value="3"/>
+       <property name="MP" value="2"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="710c4977-0809-3bd0-b5c5-f2e7478ad7a2" name="Not at Home">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="f791f8b2-9f17-3dba-8aa1-df93dcab96ef" name="Pledge of Conduct">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="82810017-9e46-37e3-90fb-30698904d1a5" name="Refuge">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="63901354-dd58-3281-99ef-c3fe9c8e02a6" name="Returned Exiles">
+       <property name="Class" value="Dwarf Faction"/>
+       <property name="MP" value="5"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="2d3c37f4-42c5-3f2e-ba35-763457ed7368" name="Rhûn">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="41a71cd1-60e2-35ce-ab13-069ba9d13d28" name="Riddling Talk">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="c2137404-f24b-3b52-a94e-acc899088305" name="Sated Beast">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="cc926f72-5a5b-3b49-ad0d-184afcb5b776" name="Scabbard of Chalcedony">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="01d37768-e478-3fff-90f8-f4746fa99d82" name="Secret News">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="d61ead25-9a59-3b50-a866-8c950fd30420" name="Skin-changer">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="2e2fb3f4-5c37-3cd3-8002-758eb1db3b39" name="Staff Asunder">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="afe3dc01-4eb5-3ab9-bb9f-00af06387cd4" name="Star of High Hope">
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="40f8e3fa-a21c-3fa0-ac02-607a08f861d0" name="Tales of the Hunt">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="c22050a1-173c-3e5e-9e06-969745d1f1c6" name="The Riddle Game">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="4954053c-f8c5-36ef-ad3e-e24e7ad3e37d" name="Three Golden Hairs">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="fa606adc-2765-3d91-8453-35cc3b450dec" name="Thrór's Map">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="475ee4d8-7bb7-3d64-bc6a-edb99ee6e296" name="Trickery">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="3b2d49ee-e3ed-3512-9fcc-8d24da385a24" name="Twice-baked Cakes">
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="d72e19b9-f57d-38ba-825f-5946f1f91da2" name="Valiant Sword">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="+2"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="4798b5ff-e501-3aa1-bf21-ee474dbfa76a" name="Vanish in Sunlight!">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="a191b59f-1f42-3830-adf2-b3b2f001f407" name="Warm Now Be Heart and Limb">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="aac78ee1-504a-33da-851d-ffe5df15cac9" name="Washed and Refreshed">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="3830ce36-f563-3262-a1d3-25546f019b9c" name="Waybread">
+       <property name="Class" value="Special Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="U3"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="c27753b0-a882-34e9-ada8-049b66ab6e11" name="When I Know Anything">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Corruption" value="1"/>
+       <property name="MP" value="1"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="f542f399-a73b-3643-bcee-0752a4e14e13" name="Wielded Twice">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="C2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="d8227850-3588-3041-b129-8ce95a387837" name="Wit">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="9e7003d2-5861-3717-8c31-521ccf65a3bb" name="Wizard Uncloaked">
+       <property name="Class" value="Short-event"/>
+       <property name="Magic" value="Spell"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="d7133f0a-da65-3e78-9c35-02bd31b8653c" name="Wizard's Staff">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="Influence" value="+2"/>
+       <property name="MP" value="3"/>
+       <property name="Prowess" value="+2"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="f553c324-a028-3fa2-83a5-b08eb6c4f49e" name="Wondrous Maps">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="C1"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="2ce1cb10-a0b9-3a40-af22-92d7dcc6614e" name="Wormsbane">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="4"/>
+       <property name="Prowess" value="+2"/>
+       <property name="Rarity" value="R2"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="5209d8c1-969b-34dd-b049-b6ea89c8efe9" name="Buhr Widu" size="SiteCard">
+       <property name="Auto Attack" value="Troll - 1 strikes with 10 prowess"/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Southern Rhovanion"/>
+       <property name="Site Path" value="{w}{b}{w}{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Special: This site is always returned to the location deck, never to the discard pile."/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="f8aa588d-4dba-3fdd-a353-02b15e8aa0fc" name="Dale" size="SiteCard">
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Northern Rhovanion"/>
+       <property name="Site Path" value="{w}{b}{b}{w}"/>
+       <property name="Site Type" value="{B}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="28f78f8a-b537-38ef-b543-56b8294a74d8" name="Framsburg" size="SiteCard">
+       <property name="Auto Attack" value="When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins &amp; Lairs {R}, Shadow-hold {S}, single Wilderness {w}, or Shadow-land {s}."/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Anduin Vales"/>
+       <property name="Site Path" value="{w}{b}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Contains a hoard."/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="7e264b22-a9fb-3b3f-b4f3-4c60de40f17a" name="Gold Hill" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strikes with 15 prowess"/>
+       <property name="Draw" value="3"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor, major, greater, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Withered Heath"/>
+       <property name="Site Path" value="{w}{b}{s}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="a5bed2ce-9e6c-35c3-b410-24518e30cf65" name="Gondmaeglom" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strikes with 14 prowess"/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor, major, gold ring)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Grey Mountain Narrows"/>
+       <property name="Site Path" value="{w}{b}{s}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="afcc98a6-f942-3c9c-b743-56b6a225701f" name="Isle of the Ulond" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strikes with 14 prowess"/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Edhellond"/>
+       <property name="Playable" value="Information, Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Andrast Coast"/>
+       <property name="Site Path" value="{w}{c}{c}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3ad81043-c52e-3e8d-8dbe-ded6d63d6449" name="Ovir Hollow" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strikes with 12 prowess"/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="2"/>
+       <property name="Haven" value="Lórien"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Grey Mountain Narrows"/>
+       <property name="Site Path" value="{w}{b}{s}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="1a9a63ed-ffb4-3335-91bf-e91f183a1970" name="Tharbad" size="SiteCard">
+       <property name="Auto Attack" value="Men - 3 strikes with 6 prowess"/>
+       <property name="Draw" value="1"/>
+       <property name="Draw Opponent" value="1"/>
+       <property name="Haven" value="Rivendell"/>
+       <property name="Playable" value="Items (minor)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Cardolan"/>
+       <property name="Site Path" value="{w}{w}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Special" value="Items may be played here even if the site is tapped."/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="b72a4da7-5fb8-3f4c-8114-dfc8e0d818a7" name="Zarak Dûm" size="SiteCard">
+       <property name="Auto Attack" value="Dragon - 1 strikes with 11 prowess"/>
+       <property name="Draw" value="2"/>
+       <property name="Draw Opponent" value="3"/>
+       <property name="Haven" value="Rivendell"/>
+       <property name="Playable" value="Items (minor, major)"/>
+       <property name="Rarity" value="U2"/>
+       <property name="Region" value="Angmar"/>
+       <property name="Site Path" value="{w}{s}"/>
+       <property name="Site Type" value="{R}"/>
+       <property name="Type" value="Hero Site"/>
+       <property name="Unique" value="yes"/>
+    </card>
+  </cards>
+</set>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	name="Middle-earth Collectible Card Game"
+	id="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2"
+	octgnVersion="3.4.225.0"
+	version="0.9.0.1"
+	scriptVersion ="3.1.0.2"
+	markersize="16"
+	tags="MECCG"
+	description="Middle-earth Collectible Card Game (MECCG) is an out-of-print collectible card game released by Iron Crown Enterprises in late 1995. It is the first CCG based on J.R.R. Tolkien's fictional universe of Middle-earth, with added content from ICE's Middle-earth Role Playing Game."
+	setsurl=""
+	gameurl="https://todo.com/todo/"
+	authors="Wlk"
+	iconurl="http://www.meccg.net/i/meccg.gif"
+	usetwosidedtable="True">
+	<scripts>
+		<script src="scripts/actions.py" />
+		<script src="scripts/map.py" />
+		<script src="scripts/converter.py" />
+	</scripts>
+	<events>
+		<event name="OnDeckLoaded" action="deckLoaded"/>
+		<event name="OnCardArrowTargeted" action="cardArrow" />
+	</events>
+	<proxygen definitionsrc="proxy/proxy.xml"/>
+	<phases>
+ 		<phase name="Untap Phase" icon="counters/Phase-Untap.png" />
+		<phase name="Organization Phase" icon="counters/Phase-Organization.png" />
+		<phase name="Long-event Phase" icon="counters/Phase-Long-Event.png" />
+		<phase name="Movement/Hazard Phase" icon="counters/Phase-Movement.png" />
+		<phase name="Site Phase" icon="counters/Phase-Site.png" />
+		<phase name="End-of-Turn Phase" icon="counters/Phase-EOT.png" />
+	</phases> 	
+	<globalvariables>
+	</globalvariables>
+	<card back="cards/metw-back.jpg" front="cards/metw-back.jpg" width="63" height="88" cornerRadius="4">
+		<property name="Type" type="String" hidden="False" ignoreText="False" />
+		<property name="Text" type="String" hidden="False" ignoreText="False" />
+		<property name="Class" type="String" hidden="False" ignoreText="False" />
+		<property name="Rarity" type="String" hidden="False" ignoreText="False" />
+		<property name="Unique" type="String" hidden="False" ignoreText="False" />
+		<property name="Body" type="String" hidden="False" ignoreText="False" />
+		<property name="Strikes" type="String" hidden="False" ignoreText="False" />
+		<property name="Subclass" type="String" hidden="False" ignoreText="False" />
+		<property name="Prowess" type="String" hidden="False" ignoreText="False" />
+		<property name="MP" type="String" hidden="False" ignoreText="False" />
+		<property name="Playable" type="String" hidden="False" ignoreText="False" />
+		<property name="Corruption" type="String" hidden="False" ignoreText="False" />
+		<property name="Home Site" type="String" hidden="False" ignoreText="False" />
+		<property name="Race" type="String" hidden="False" ignoreText="False" />
+		<property name="Mind" type="String" hidden="False" ignoreText="False" />
+		<property name="Skills" type="String" hidden="False" ignoreText="False" />
+		<property name="Influence" type="String" hidden="False" ignoreText="False" />
+		<property name="Agent" type="String" hidden="False" ignoreText="False" />
+		<property name="Spawn" type="String" hidden="False" ignoreText="False" />
+		<property name="Adjacent Regions" type="String" hidden="False" ignoreText="False" />
+		<property name="Region Type" type="String" hidden="False" ignoreText="False" />
+		<property name="Magic" type="String" hidden="False" ignoreText="False" />
+		<property name="Draw" type="String" hidden="False" ignoreText="False" />
+		<property name="Draw Opponent" type="String" hidden="False" ignoreText="False" />
+		<property name="Region" type="String" hidden="False" ignoreText="False" />
+		<property name="Haven" type="String" hidden="False" ignoreText="False" />
+		<property name="Auto Attack" type="String" hidden="False" ignoreText="False" />
+		<property name="Site Path" type="String" hidden="False" ignoreText="False" />
+		<property name="Site Type" type="String" hidden="False" ignoreText="False" />
+		<property name="Special" type="String" hidden="False" ignoreText="False" />
+		<property name="Haven1" type="String" hidden="False" ignoreText="False" />
+		<property name="Haven2" type="String" hidden="False" ignoreText="False" />
+		<property name="Adjacent" type="String" hidden="False" ignoreText="False" />
+		<property name="Specific" type="String" hidden="False" ignoreText="False" />
+		<property name="General Influence" type="String" hidden="False" ignoreText="False" />
+		<property name="Stage Points" type="String" hidden="False" ignoreText="False" />
+		<size name="SiteCard" width="63" height="88" back="cards/site-back.jpg" front="cards/site-back.jpg" cornerRadius="4"/>
+	</card>
+	<table name="Table" visibility="undefined" ordered="False" width="1150" height="536" background="background/background.jpg" backgroundStyle="uniformToFill">
+		<cardaction menu="Tap/Untap" default="True" shortcut="F7" execute="tapuntap" />
+		<cardaction menu="Wound/Heal" showIf="isCharacter" default="False" shortcut="F8" execute="woundheal" />
+		<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
+		<cardaction menu="Flip Card" default="False" shortcut="ctrl+F" execute="flipcard" />
+		<groupaction menu="Untap all" default="False" shortcut="ctrl+U" execute="untapall" />
+		<groupaction menu="Make a roll" default="False" shortcut="ctrl+R" execute="roll2D6" />
+		<groupaction menu="Next Phase" default="False" shortcut="tab" execute="nextphase" />
+		<cardactions menu="Add/Remove Token">
+			<cardaction menu="Add Red Token" default="False" shortcut="F1" execute="addRedToken" />
+			<cardaction menu="Add Green Token" default="False" shortcut="F2" execute="addGreenToken" />
+			<cardaction menu="Add Blue Token" default="False" shortcut="F3" execute="addBlueToken" />
+			<cardaction menu="Remove Red Token" default="False" shortcut="ctrl+F1" execute="subRedToken" />
+			<cardaction menu="Remove Green Token" default="False" shortcut="ctrl+F2" execute="subGreenToken" />
+			<cardaction menu="Remove Blue Token" default="False" shortcut="ctrl+F3" execute="subBlueToken" />
+		</cardactions>
+		<groupactions menu="Advanced">
+			<groupaction menu="Add cards from Collection" default="False" shortcut="ctrl+A" execute="createCard" />
+		</groupactions>
+		<groupactions menu="* DEBUG *">
+			<groupaction menu="Select Region" default="False" shortcut="ctrl+Q" execute="selectRegion" />
+			<groupaction menu="Create Map File" default="False" shortcut="" execute="createRegionMapFile" />
+			<groupaction menu="Convert GCCG Deck" default="False" shortcut="ctrl+G" execute="convertDeck" />
+		</groupactions>
+ 	</table>
+	<player summary="">
+		<group name="Hand" visibility="me" ordered="False" icon="groups/hand.png" viewState="expanded">
+			<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
+		</group>
+		<group name="Play Deck" visibility="none" ordered="True" icon="groups/player.png" viewState="pile">
+			<groupaction menu="Shuffle" default="False" shortcut="ctrl+W" execute="shuffle" />
+			<groupaction menu="Draw" default="True" shortcut="ctrl+D" execute="draw" />
+		</group>
+		<group name="Discard Pile" visibility="none" ordered="False" icon="groups/discard.png" collapsed="True">
+			<groupaction menu="Shuffle into Deck" default="False" execute="shufflepileintodeck" />
+		</group>
+		<group name="Location Deck" visibility="me" ordered="False" icon="groups/player.png" collapsed="True">
+			<groupaction menu="Look at sites" default="True" shortcut="ctrl+S" execute="lookAtLocationDeck" />
+		</group>
+		<group name="Sideboard" visibility="me" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
+			<groupaction menu="Look at siteboard" default="True" shortcut="ctrl+X" execute="lookAtSideboard" />
+		</group>
+		<group name="Out-of-play Pile" visibility="all" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
+		</group>
+		<group name="Marshalling Point Pile" visibility="all" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
+		</group>
+	</player>
+	<deck>
+ 		<section name="Pool" group="Hand" />
+		<section name="Characters" group="Play Deck" />
+		<section name="Resources" group="Play Deck" />
+		<section name="Hazards" group="Play Deck" />
+		<section name="Sites" group="Location Deck" />
+		<section name="Sideboard" group="Sideboard" />
+	</deck>
+</game>

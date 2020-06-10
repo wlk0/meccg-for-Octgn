@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+  <blocks>
+	<block type="text" id="name">
+		<location x="88" y="35" />
+		<text color="#000000" size="22" font="" />
+		<wordwrap width="291" height="32" align="center" />
+	</block>
+	<block type="text" id="name_white">
+		<location x="88" y="35" />
+		<text color="#FFFFFF" size="22" font="" />
+		<wordwrap width="291" height="32" align="center" />
+	</block>    <block type="text" id="description">
+		<location x="51" y="370" />
+		<text color="#000000" size="14" font="" />
+		<wordwrap height="143" width="314" />
+	</block>
+  </blocks>
+  <template src="proxy/proxy.png" default="True">
+    <matches>
+      <match name="Type" value="none" />
+    </matches>
+    <textblocks>
+	  <link block="name" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>
+  <template src="proxy/Region.jpg" default="False">
+    <matches>
+      <match name="Type" value="Region" />
+    </matches>
+    <textblocks>
+	  <link block="name" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>     
+  <template src="proxy/Hazard.jpg" default="False">
+    <matches>
+      <match name="Type" value="Hazard" />
+    </matches>
+    <textblocks>
+	  <link block="name_white" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>    
+	<template src="proxy/Fallen-Character-G.jpg" default="False">
+    <matches>
+      <match name="Type" value="Hero Character" />
+      <match name="Name" value="Gandalf" />
+    </matches>
+    <textblocks>
+	  <link block="name" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>
+  <template src="proxy/Hero_Character.jpg" default="False">
+    <matches>
+      <match name="Type" value="Hero Character" />
+    </matches>
+    <textblocks>
+	  <link block="name" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>
+  <template src="proxy/Hero_Item.jpg" default="False">
+    <matches>
+      <match name="Type" value="Hero Resource" />
+    </matches>
+    <textblocks>
+	  <link block="name" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>  
+  <template src="proxy/Hero_Site.jpg" default="False">
+    <matches>
+      <match name="Type" value="Hero Site" />
+    </matches>
+    <textblocks>
+	  <link block="name" separator="">
+	   <property name="Name" />
+	  </link>
+	  <link block="description" separator="&#10;&#10;">
+	   <property name="Text" />
+	  </link>
+    </textblocks>
+  </template>  
+
+</templates>

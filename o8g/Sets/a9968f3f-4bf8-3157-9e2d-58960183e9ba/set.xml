@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Promotional" id="a9968f3f-4bf8-3157-9e2d-58960183e9ba" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
+  <cards>
+    <card id="ccedebd3-07a7-33a6-92d9-868899f4c386" name="Fury of the Iron Crown">
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="1e6df58d-7459-3146-ba85-00ff9b28207e" name="Angmar Arises">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="2fae2942-2857-3c28-ae09-03d8d1dea1be" name="Never Seen Him">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="1abc1e9e-7643-33e1-8cf5-68947df91886" name="Neeker-breekers">
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{b}{w}{s}{d}{R}"/>
+       <property name="Prowess" value="7"/>
+       <property name="Rarity" value="P"/>
+       <property name="Strikes" value="-1"/>
+       <property name="Subclass" value="Animals"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="aaa16c65-eb5d-34b6-81c8-193e9907055c" name="Black Arrow">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="aa64148c-e253-3400-9967-295f537c0978" name="More Alert than Most">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="0f53c245-aa27-33c8-a63b-87489f735943" name="Ireful Flames">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="31d3da9b-7a75-34e7-8b29-8938f6c1666c" name="Stormcrow">
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="f3fff9e1-c18f-37e0-8b29-7837ee11e7cf" name="Fatty Bolger">
+       <property name="Body" value="8"/>
+       <property name="Corruption" value="+1"/>
+       <property name="Home Site" value="Bag End"/>
+       <property name="Influence" value="0"/>
+       <property name="Mind" value="3"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="1"/>
+       <property name="Race" value="Hobbit"/>
+       <property name="Rarity" value="P"/>
+       <property name="Skills" value="Scout"/>
+       <property name="Type" value="Hero Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="9b9021ed-04e7-3f74-8b05-82d204731c92" name="Bill Ferny">
+       <property name="Agent" value="yes"/>
+       <property name="Body" value="8"/>
+       <property name="Home Site" value="Bree, Cameth Brin"/>
+       <property name="Influence" value="1"/>
+       <property name="Mind" value="3"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="2"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="P"/>
+       <property name="Skills" value="Warrior/Scout"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="3410f00b-66bd-3760-9734-0564d99ad6ca" name="The Arkenstone">
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="3"/>
+       <property name="Influence" value="(+5)"/>
+       <property name="MP" value="3"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="8e05844c-5520-321a-830e-291f85fe0ef6" name="Deadly Dart">
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Minion Resource"/>
+    </card>
+    <card id="09ff985a-6d87-3c67-ae7d-84aecdab1aea" name="The Iron Crown">
+       <property name="Body" value="(+1)"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="5"/>
+       <property name="Influence" value="(+4)"/>
+       <property name="MP" value="4"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+  </cards>
+</set>

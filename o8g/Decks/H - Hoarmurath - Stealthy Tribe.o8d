@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="2" id="270f0a33-13f2-34b8-adf5-79b124122a2c">Barrow-wight</card>
+    <card qty="3" id="8711d7ba-9041-32bd-9cca-513b2ff82464">Chill Douser</card>
+    <card qty="1" id="5915cd2f-96ea-31a5-bc05-60e4de0bb8aa">Choking Shadows</card>
+    <card qty="3" id="997ea9f5-e23d-37d2-aa5c-5fe1a3b1d976">Doors of Night</card>
+    <card qty="1" id="30793cc3-196c-318b-8226-7966d8ce89ef">Exhalation of Decay</card>
+    <card qty="3" id="fba7895e-6dd4-3c8a-9d4d-0e288f4d851c">Ghouls</card>
+    <card qty="3" id="fb4ea9ca-47ad-32e6-bf45-0aedc7dc4ef8">Plague of Wights</card>
+    <card qty="1" id="e5e57ffe-0128-3d63-9103-58ae1e08e78e">Power Built by Waiting</card>
+    <card qty="3" id="db31f8d2-f500-338d-8090-02ffd43a4e4b">Stirring Bones</card>
+    <card qty="3" id="31ca9b52-d1a0-3299-8308-64f238261364">The Moon Is Dead</card>
+    <card qty="2" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="3" id="c81595b9-b5b2-329e-a7d0-302c94bd5d5f">Wisp of Pale Sheen</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="3" id="9aca0c94-295c-3396-8413-99be9da222df">Hoarmûrath the Ringwraith</card>
+    <card qty="2" id="6670065a-c4ea-37e2-b68f-06b40a5eb479">Ill-favoured Fellow</card>
+    <card qty="2" id="82e91db5-e927-36e8-873a-51395a7c2871">Orc Tracker</card>
+    <card qty="3" id="79ae9a99-c4c8-37fe-ac01-5023f88b207e">Sly Southerner</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="3" id="43a5f092-395e-3d9a-ad34-b34abd6bad70">A Nice Place to Hide</card>
+    <card qty="1" id="b929ac02-56e4-3b59-b32d-8795cd362278">Bade to Rule</card>
+    <card qty="3" id="27fa5714-a58c-3bff-9db5-0ba0e26d4588">Blasting Fire</card>
+    <card qty="2" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="1" id="ef821350-7062-38cd-b36a-db24aa226a5d">Great Lord of Goblin-gate</card>
+    <card qty="1" id="8db1b2e8-8bae-3f95-973b-da76b3ea542a">High Helm</card>
+    <card qty="2" id="07ff1d79-2950-3630-a05d-bf90d336bca7">Orc Quarrels</card>
+    <card qty="1" id="e582bc5a-daa1-36d4-9cba-331e4501f9c6">Orcs of Moria</card>
+    <card qty="3" id="a9f5f65a-cfd4-33d3-b580-9f28fcaf1dca">Records Unread</card>
+    <card qty="1" id="1f25afba-5ef2-334b-977d-afe99ba35af3">Sable Shield</card>
+    <card qty="1" id="237e3bc3-3d0b-35a5-8cb1-79297484d175">Scroll of Isildur</card>
+    <card qty="2" id="10b3e371-7757-3b79-a01b-c86d0bcbfa46">Snaga-hai</card>
+    <card qty="1" id="cec65b7f-98ef-3476-92fd-4fe6ab9ba069">Sneakin'</card>
+    <card qty="1" id="f583ff98-20b0-31d4-b074-672a7d8af238">Stinker</card>
+    <card qty="1" id="3410f00b-66bd-3760-9734-0564d99ad6ca">The Arkenstone</card>
+    <card qty="3" id="4949abc1-8ac6-3bec-b219-f6f3cfef32fc">Vile Fumes</card>
+    <card qty="3" id="1970c08f-6460-3b8d-8331-74a429934eb7">War-wolf</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="f22682bb-cd08-3843-b826-51915031e3f9">Gorbag</card>
+    <card qty="1" id="ad85181c-f128-320b-91b4-1246f3656d6c">Grishnákh</card>
+    <card qty="1" id="6670065a-c4ea-37e2-b68f-06b40a5eb479">Ill-favoured Fellow</card>
+    <card qty="1" id="be0276c6-5d97-374e-bbff-f57398779363">Lugdush</card>
+    <card qty="1" id="652c12a6-247a-3a32-a4c9-d28a916f4cde">Ufthak</card>
+    <card qty="1" id="ea14a5b4-bee7-38b0-91f7-b30158fbcf3d">Blazon of the Eye</card>
+    <card qty="1" id="d8f72ae4-e649-3079-bcb7-df23df863a8b">Strange Rations</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="3" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="2" id="9a2de19d-94c8-3a3d-b0b1-70e3af4d159e">Foolish Words</card>
+    <card qty="2" id="18514b88-fdd8-38f2-9d60-2a1a915d3e08">Ghosts</card>
+    <card qty="1" id="90012578-d6fc-3ec2-ae70-3bfc428fbd1c">Stench of Mordor</card>
+    <card qty="1" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="2" id="f3a1a8a0-18f8-3fea-9435-23ea3b06395e">Black Mace</card>
+    <card qty="1" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="1" id="02d20ef0-8dbe-3b3c-b513-6c6b7c95c172">Fell Rider</card>
+    <card qty="1" id="07ff1d79-2950-3630-a05d-bf90d336bca7">Orc Quarrels</card>
+    <card qty="1" id="838ae1ce-b5a1-37fa-a503-aa414dda233b">Orcs of Gundabad</card>
+    <card qty="2" id="d7e63140-997c-34df-9eff-aa631520187f">Piercing All Shadows</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="2" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="7aae9f52-10cf-3d92-b517-74bbcdd0a4de">Barad-dûr</card>
+    <card qty="1" id="229324ef-f0fb-38c9-aa37-bd3894c18308">Carn Dûm</card>
+    <card qty="1" id="06fe33e2-2b38-3cb0-b215-dfd54c5489dd">Caves of Ûlund</card>
+    <card qty="1" id="b25adb22-f5af-3213-bebf-91f763e3b242">Dead Marshes</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="a0b7a4c9-4e40-3f8d-bbcd-b13cbd0bc20d">Goblin-gate</card>
+    <card qty="1" id="738a3c1a-f0ca-3e0d-a9d1-e3feead77665">Minas Morgul</card>
+    <card qty="1" id="8fef7be1-598b-36e4-9e38-dbd7c65607e1">Moria</card>
+    <card qty="1" id="aacdd435-b3b9-3069-8270-313d08843217">Mount Doom</card>
+    <card qty="1" id="03191a71-7ab0-35e6-9abc-3e6ff46819ef">Mount Gram</card>
+    <card qty="1" id="360b4a21-ae91-3ec6-9907-563fba326f57">Mount Gundabad</card>
+    <card qty="1" id="fe395430-ff82-3fea-ad4c-411e22cfbb84">Sarn Goriwing</card>
+    <card qty="1" id="6c7d439a-c9ed-347b-a0bd-a04d89c84df4">Shelob's Lair</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
