@@ -55,6 +55,8 @@ def convertDeck(group, x=0, y=0):
 				if card.set == gccg2octgnset(ext):
 					f2.write('<card qty="{}" id="{}">{} ({})</card>\n'.format(count,cardid,cardid,card.set))
 					found = found + 1
+				else:
+					card.delete()
 			if not found == 1:
 				whisper('Error for {}({}): Found {} card'.format(name,ext,found))
 
