@@ -2,13 +2,10 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The White Hand" id="898e858b-64ae-31c8-a9f7-c77670124bb0" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
   <cards>
     <card id="8d90b9f8-88f7-3c80-af85-324f41d79b63" name="Alatar">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="General Influence" value="17"/>
        <property name="Home Site" value="Any non-&quot;Dragon's lair&quot; Ruins and Lairs in a Wilderness"/>
        <property name="Influence" value="10"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="7"/>
        <property name="Race" value="Fallen-wizard"/>
        <property name="Rarity" value="C4"/>
@@ -17,14 +14,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="45d21e68-6c0b-355b-aa51-aff703f784c8" name="Doeth (Durthak)">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="4"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="4"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="R2"/>
@@ -33,14 +27,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="eda4826c-f490-3e4e-a39f-0f507be132f7" name="Euog (Ulzog)">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="5"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="5"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="R2"/>
@@ -49,13 +40,10 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="ca4a4cca-c7f9-3d66-ae4e-b4aeb8486cdd" name="Gandalf">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="General Influence" value="18"/>
        <property name="Home Site" value="Any Free-hold"/>
        <property name="Influence" value="9"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="6"/>
        <property name="Race" value="Fallen-wizard"/>
        <property name="Rarity" value="C4"/>
@@ -64,14 +52,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="6670065a-c4ea-37e2-b68f-06b40a5eb479" name="Ill-favoured Fellow">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="3"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="2"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="C3"/>
@@ -79,14 +64,11 @@
        <property name="Type" value="Minion Character"/>
     </card>
     <card id="be0276c6-5d97-374e-bbff-f57398779363" name="Lugdush">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Isengard"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="4"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="5"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="U3"/>
@@ -95,13 +77,10 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="f0e77474-78f0-3319-91ef-8dc481d2d856" name="Pallando">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="General Influence" value="20"/>
        <property name="Home Site" value="The White Towers"/>
        <property name="Influence" value="7"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="5"/>
        <property name="Race" value="Fallen-wizard"/>
        <property name="Rarity" value="C4"/>
@@ -110,13 +89,10 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="8e81013f-f786-39ec-9417-f8d47905a033" name="Radagast">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="General Influence" value="22"/>
        <property name="Home Site" value="Rhosgobel"/>
        <property name="Influence" value="5"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="6"/>
        <property name="Race" value="Fallen-wizard"/>
        <property name="Rarity" value="C4"/>
@@ -125,13 +101,10 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="bf1cf131-744d-35c2-ad7e-20f5d724b4a0" name="Saruman">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="General Influence" value="15"/>
        <property name="Home Site" value="Isengard"/>
        <property name="Influence" value="12"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="6"/>
        <property name="Race" value="Fallen-wizard"/>
        <property name="Rarity" value="C4"/>
@@ -140,14 +113,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="79ae9a99-c4c8-37fe-ac01-5023f88b207e" name="Sly Southerner">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="2"/>
        <property name="MP" value="0"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="1"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="C3"/>
@@ -155,14 +125,11 @@
        <property name="Type" value="Minion Character"/>
     </card>
     <card id="6e16dc1e-a54a-3d1b-ac05-6041578036b0" name="Squint-eyed Brute">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="2"/>
        <property name="MP" value="0"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="3"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="C3"/>
@@ -170,14 +137,11 @@
        <property name="Type" value="Minion Character"/>
     </card>
     <card id="62dc282b-daed-3116-a532-2a19f6a3aa6e" name="Uglúk">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Isengard"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="5"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="5"/>
        <property name="Race" value="Orc"/>
        <property name="Rarity" value="R2"/>
@@ -186,7 +150,6 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="ea89d477-ccb8-3ddc-8095-75df6bbdcc20" name="Goblin-faces">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="-"/>
        <property name="Class" value="Creature"/>
        <property name="MP" value="1"/>
@@ -198,334 +161,249 @@
        <property name="Type" value="Hazard"/>
     </card>
     <card id="85a9f7ce-5bc3-3cda-851b-3ec94c7a6256" name="Blind to the West">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="460abe3e-0960-3d52-b94c-ca3f80d0e47d" name="Cast from the Order">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="90ede4da-a37b-3157-b3de-15b65b88ac83" name="Cruel Claw Perceived">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="c7d55a01-d502-3b51-ae83-adb432c39dbc" name="Echoes of the Song">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="bc00f223-b5fc-3569-9204-c10c0b78e955" name="Flotsam and Jetsam">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="2c59ee78-6f9c-3bc3-882a-e8801fcdce17" name="Fool's Bane">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="fe733f55-2e9d-333d-8a54-33d31a1da36b" name="Foul Tooth Unsheathed">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="f2b63f0b-e405-3d75-9f03-445211b5f766" name="Heart Grown Cold">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="c40abeb7-4dec-3181-a6fd-f4af7d9cdb27" name="In the Grip of Ambition">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2(3)"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="286e1352-aac8-3d53-9b6c-c667769f6255" name="Inner Rot">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1(*)"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="4cb403cd-33de-3d17-b7fe-5212fa2966b5" name="Ire of the East">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="f3cbee7d-1ce1-301c-ac0b-e32f0e3d6e95" name="Longing for the West">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="afcad069-1a86-38c0-82d9-740b22573c71" name="Mask Torn">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="e3bc4f98-2dad-31cc-8c10-caf272608a0f" name="Nature's Revenge">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="e57f7bc3-d2ff-3578-a8e7-367ec7052de5" name="Power Relinquished to Artifice">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="733c4e04-ada7-3e58-a110-a514315ae956" name="Rolled down to the Sea">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Type" value="Hazard"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="4f6ca578-2096-3ea5-aca6-0932f70046d7" name="Something Else at Work">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="9a40bb27-abb6-3c19-b34b-c4e8335f74fb" name="Whole Villages Roused">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="36e5bb72-f534-3ab0-8103-afd81dc97aa7" name="Will You Not Come Down?">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="e92920c1-161e-3473-879f-73260c19ce89" name="Noble Steed">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="8"/>
        <property name="Class" value="Ally"/>
        <property name="Mind" value="1"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="0"/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="8f07daaa-eb41-36a1-a546-869ca204a3c7" name="Promptings of Wisdom">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="73427996-0375-3dea-b4d0-e62609bc3a96" name="The White Council">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="137e16f0-b227-30ca-85bf-e12dc2c5193e" name="The White Wizard">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Type" value="Hero Resource"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="7ad48167-43ea-3dd1-829e-79e4590728f9" name="A Panoply of Wings">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="da848d68-9363-36c4-9da3-497e5f62610a" name="Beasts of the Wood">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="7fe85ff5-d023-34ea-af91-5be82f362165" name="Wild Horses">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="f6ff841c-2c1c-3d79-bfcb-71918dd8a968" name="Wild Hounds">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="56950f9f-668a-33b0-a3d9-40f9d0b7a064" name="The Black Council">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="5fb48c4e-3d09-3fa7-945c-cce05f1b4b18" name="Counterfeit">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Magic" value="Spirit-magic"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29" name="Crept Along Cleverly">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="08ad6b83-874b-372b-ae4b-89cdc4e22ed6" name="The Fiery Blade">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="cb1ece7c-e8cb-3649-9f57-f6614206ccac" name="Govern the Storms">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Sorcery"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="514869ec-d6d1-37a6-8061-106f4e52e85f" name="Open to the Summons">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="d7e63140-997c-34df-9eff-aa631520187f" name="Piercing All Shadows">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="3"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="dbb814e1-5402-3a4e-9f25-36af7935ea07" name="Poison of his Voice">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Spirit-magic"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="6516c6cb-4c50-35e8-be3a-d98eadf88b8a" name="Sojourn in Shadows">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Shadow-magic"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="02b14a02-2e75-3823-9fd2-dc1ee77ec846" name="White Light Broken">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Sorcery"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="27fa5714-a58c-3bff-9db5-0ba0e26d4588" name="Blasting Fire">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="e03f1be2-e649-321a-91ff-88b91871da96" name="Liquid Fire">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="bc53536f-f3b9-384e-92e3-cf10bb913f83" name="Mechanical Bow">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="-1"/>
        <property name="Class" value="Major Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="+2"/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="4949abc1-8ac6-3bec-b219-f6f3cfef32fc" name="Vile Fumes">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U4"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="d774ba99-1a2f-3dd9-8178-b6b1c9da8850" name="Deep Mines" size="SiteCard">
-       <property name="Auto Attack" value=""/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Region" value="Under-deeps"/>
        <property name="Site Type" value="{R}"/>
@@ -533,11 +411,8 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="09d071f1-f661-3c9d-8519-536a4eddc335" name="Isengard" size="SiteCard">
-       <property name="Auto Attack" value=""/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Region" value="Gap of Isen"/>
        <property name="Site Type" value="{H}"/>
@@ -545,11 +420,8 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="ae54422f-c674-38f5-9cdd-cd2ea0e9f5a6" name="Rhosgobel" size="SiteCard">
-       <property name="Auto Attack" value=""/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Region" value="Southern Mirkwood"/>
        <property name="Site Type" value="{H}"/>
@@ -558,11 +430,8 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="811ca85e-968a-3382-b5ea-e1761ac0f29d" name="The White Towers" size="SiteCard">
-       <property name="Auto Attack" value=""/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Region" value="Arthedain"/>
        <property name="Site Type" value="{H}"/>
@@ -570,275 +439,211 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="8d8e2653-7061-3234-a4e3-f59a3752194a" name="A Merrier World">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="b41551c4-af69-386d-8c61-81400bbdd40f" name="A New Ringlord">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="08344955-b38d-3507-9a11-b601c9390539" name="A Strident Spawn">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Stage Resource"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="224237a3-7ce2-357f-98e9-e235716b871e" name="An Untimely Brood">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="3ff99ce7-d06e-35a4-94ad-9c4298fac62d" name="Bad Company">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="f2b7fec6-ab35-3b61-8137-e624de81b601" name="Blind to All Else">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="cc019f80-0f0c-383c-988a-cb245ac40d8e" name="Delver's Harvest">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1349f2cb-07ce-348d-a7d9-a9be6f4e06a7" name="Double-dealing">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d6ffe7fb-3226-3aee-b094-b25ee4e7c2f6" name="Earth-eater">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="26a48302-5df7-3fb3-810d-b3d2c1d4697b" name="The Fortress of Isen">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="d24378d1-26ad-3eef-916c-fe4fcd319c01" name="Fortress of the Towers">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="8519cae1-8369-3011-91e4-177ce4fbcc3e" name="Gatherer of Loyalties">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="4e517844-84e3-316c-8c61-14489c5e53c2" name="Gnawed Ways">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="9896a27b-d107-3236-abeb-276382fb1234" name="Great Patron">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d6fddc66-c1d6-3d52-a5d0-66d298bc95f8" name="Great Ruse">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="b5549baa-f49e-30cc-9f26-22cdf2b44c0b" name="Guarded Haven">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d75c952d-91aa-3e86-af91-4324cf52ceef" name="Hidden Haven">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="83afa3f9-5656-34ed-942f-6b0a6aaea571" name="Legacy of Smiths">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="2b72dd2b-2ab7-3ccc-adeb-68d4bec5c202" name="Mischief in a Mean Way">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="9d3b515e-fec5-340f-8304-aa55b62586ef" name="Never Refuse">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d32a17cf-e31d-3dc7-a396-603da22abdc6" name="Plotting Ruin">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="5410cc31-02d4-3381-8c95-04d9b71b6308" name="Shameful Deeds">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="22e440fd-08d0-3c8a-a980-24cc8f8847b6" name="Spells Born of Discord">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="f17c2f12-8381-37c6-a511-d4e07bd0a637" name="Thrall of the Voice">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C4"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="c6e5ecba-8d2e-3367-86b1-2fa4c04b97b4" name="War-forges">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="05db4c5f-528d-3e9e-a3da-de58cb725aec" name="Wizard's Myrmidon">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="3190e105-be22-3129-a792-071d48ff5d5d" name="Wizard's Trove">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d8bb2b6c-4d1d-33b4-baeb-aaf57576b122" name="Greater Half-orcs">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Orc Faction"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="0ef75241-9f3d-3227-996a-990d005c7227" name="Half-orcs">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Orc Faction"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="79fce2da-75a9-3b68-b752-9cffde3d02dc" name="Keys of Orthanc">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="6224ef5c-ff16-3f78-b392-cf3990d1010e" name="Keys to the White Towers">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="2"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="29073f8a-aa46-3d04-b092-96647910528c" name="Bow of Alatar">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Alatar"/>
@@ -846,20 +651,16 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="4d2aa81e-94df-3cd9-8b0b-4a0bde4026f0" name="The Great Hunt">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>
        <property name="Specific" value="Alatar"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="bd641ebe-20dc-301e-a7f0-ae1f741fd179" name="Huntsman's Garb">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Alatar"/>
@@ -867,9 +668,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="8c94ff18-1c21-3e07-9caa-dbaf6541bd1e" name="Join the Hunt">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Alatar"/>
@@ -877,9 +676,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="bdf69be9-37d3-3717-9126-421a45950a65" name="Oromë's Warders">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>
        <property name="Specific" value="Alatar"/>
@@ -887,10 +684,8 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="b480a26d-32d5-3ae3-a70a-a108e7d89849" name="Squire of the Hunt">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="+1"/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="+1"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -899,28 +694,22 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="5062510c-2db2-354d-9337-a586617800c8" name="Await the Onset">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="5"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>
        <property name="Specific" value="Gandalf"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1de1e162-372b-3492-913b-6d5b930eaf63" name="Chambers in the Royal Court">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Gandalf"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1fd08052-ac4a-33aa-8b6a-758e0f4a80d5" name="Gandalf's Friend">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Gandalf"/>
@@ -928,9 +717,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="89493e51-bc9e-3806-982e-306078cae206" name="Give Welcome to the Unexpected">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Gandalf"/>
@@ -938,9 +725,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="658b85ad-42d2-381d-a13a-44f9c9855ed5" name="Grey Embassy">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="3"/>
        <property name="Specific" value="Gandalf"/>
@@ -948,10 +733,8 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="60a80dbb-f859-370a-86b1-e18f1f3a3b7a" name="The Grey Hat">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Gandalf"/>
@@ -959,9 +742,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="cc0a947c-93a6-39ef-a816-e03a2d51dc6c" name="Ring of Fire">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Gandalf"/>
@@ -969,18 +750,14 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="c8c56fce-9d09-3453-8829-3cd044356b21" name="Arcane School">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Pallando"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="470d4f72-24f6-3c63-9b46-526765af039c" name="Pallando's Apprentice">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Pallando"/>
@@ -988,10 +765,8 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="714b593d-f4e1-3aab-8989-746ef193b325" name="Pallando's Hood">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Pallando"/>
@@ -999,20 +774,16 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="d5b48fe7-a8c2-3123-9f78-9e30afeee323" name="Prophet of Doom">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="3"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>
        <property name="Specific" value="Pallando"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="daff138c-1b8e-3d10-8a92-a260b30be459" name="Stave of Pallando">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Pallando"/>
@@ -1020,9 +791,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="22e4e2d2-ac39-3b36-b98a-290a38fc8a5a" name="Truths of Doom">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
        <property name="Specific" value="Pallando"/>
@@ -1030,9 +799,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="bb80ae7b-2736-3b9f-9978-fad693644964" name="Friend of Secret Things">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Radagast"/>
@@ -1040,20 +807,16 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="716875b7-b48b-3f15-9cba-4049bc785841" name="Girdle of Radagast">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="5"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>
        <property name="Specific" value="Radagast"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="61e644c0-ff31-310f-93d4-db1abe4ffcc8" name="Glove of Radagast">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Radagast"/>
@@ -1061,13 +824,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="2fccdf37-bce4-3917-ac68-fd9394e37eaf" name="Master of Shapes">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="10"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="-2"/>
        <property name="General Influence" value="25"/>
        <property name="Influence" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="9"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
@@ -1075,9 +836,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="123467a4-f9b9-3907-a123-62344db182f3" name="Pocketed Robes">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Radagast"/>
@@ -1085,13 +844,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="fe0f3143-738d-32a4-8308-c574323f7bcd" name="Radagast's Black Bird">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="8"/>
        <property name="Class" value="Scout/Diplomat Ally"/>
        <property name="Influence" value="3"/>
        <property name="Mind" value="2"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="2"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -1100,13 +857,11 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="ab9003a9-96a9-3faf-a998-b17dfa930c11" name="Shifter of Hues">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="10"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="-2"/>
        <property name="General Influence" value="27"/>
        <property name="Influence" value="3"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="6"/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
@@ -1114,13 +869,11 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1e976380-1e2a-376c-9103-2ac45d706e33" name="Winged Change-master">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="9"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="-2"/>
        <property name="General Influence" value="19"/>
        <property name="Influence" value="8"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="3"/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
@@ -1128,9 +881,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="2e51893a-0b53-3db3-ab36-80abb32c1cfb" name="The Forge-master">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Saruman"/>
@@ -1138,10 +889,8 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="0ae81636-471e-3f2e-a589-d702bfe589e0" name="Many-coloured Robes">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
        <property name="Specific" value="Saruman"/>
@@ -1149,9 +898,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="08b6fe36-6268-34ed-9e43-75de4b772196" name="Man of Skill">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Saruman"/>
@@ -1159,20 +906,16 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="03a5f88c-842e-397b-afbd-cef7dd2353b7" name="Saruman's Machinery">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="4"/>
        <property name="Specific" value="Saruman"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="84e90c31-f9c9-3bca-8edd-dba91b87820d" name="Saruman's Ring">
-       <property name="Auto Attack" value=""/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
-       <property name="Playable" value=""/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
        <property name="Specific" value="Saruman"/>
@@ -1180,12 +923,10 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="10e60b4c-6cbb-3816-8c9c-4412ffbf421e" name="The White Hand">
-       <property name="Auto Attack" value=""/>
        <property name="Body" value="0"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Influence" value="+2"/>
        <property name="MP" value="6"/>
-       <property name="Playable" value=""/>
        <property name="Prowess" value="+1"/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>

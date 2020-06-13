@@ -4,7 +4,6 @@
     <card id="f67e1251-2ec4-392f-a3bb-940fdbd236b1" name="Anarin">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Moria"/>
        <property name="Influence" value="3"/>
        <property name="Mind" value="7"/>
@@ -19,7 +18,6 @@
     <card id="480e3be0-8afe-37a5-a5ce-ef2a48d4bc37" name="Baduila">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Goblin-gate, Mount Gundabad"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="8"/>
@@ -34,7 +32,6 @@
     <card id="5db0d740-588d-30a2-a92c-9d33d82bb903" name="Bill Ferny">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Bree, Cameth Brin"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="3"/>
@@ -49,7 +46,6 @@
     <card id="cb417ba8-51b5-3b59-96f4-0831e817afdc" name="Dâsakûn">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Easterling Camp, Variag Camp, Shrel-Kain"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="5"/>
@@ -64,7 +60,6 @@
     <card id="dd6e7a6f-dab8-3f7e-ad2b-b5ec0c077487" name="Deallus">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Dunnish Clan-hold, Bree, Cameth Brin"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="3"/>
@@ -79,7 +74,6 @@
     <card id="578f9283-2c30-32b7-ae8c-0373a94e6003" name="Drór">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Blue Mountain Dwarf-hold"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="4"/>
@@ -94,7 +88,6 @@
     <card id="dafbdddf-36ef-374c-98c3-a60713d37d5c" name="Elerína">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Carn Dûm, Mount Gram"/>
        <property name="Influence" value="3"/>
        <property name="Mind" value="8"/>
@@ -109,7 +102,6 @@
     <card id="91d0dfb9-4c99-39e1-b5a9-91921d86311d" name="Elwen">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Dol Amroth, Minas Tirith"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="5"/>
@@ -124,7 +116,6 @@
     <card id="dc530be1-08f5-38dc-be9e-e54db71a64f8" name="Eun">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Vale of Erech, Lond Galen"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="3"/>
@@ -139,7 +130,6 @@
     <card id="024a8af9-0e3d-3505-a115-ea5da904040f" name="Firiel">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Pelargir, Vale of Erech"/>
        <property name="Influence" value="3"/>
        <property name="Mind" value="6"/>
@@ -154,7 +144,6 @@
     <card id="f7a2fb08-3752-37b4-b1d4-3279a0613838" name="Fori the Beardless">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Iron Hill Dwarf-hold"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="4"/>
@@ -169,7 +158,6 @@
     <card id="332f9234-1d98-3871-8d97-9d1e1d6ccdce" name="Gergeli">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Shrel-Kain, Lake-town, Easterling Camp"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="5"/>
@@ -184,7 +172,6 @@
     <card id="0c5925dd-3005-37ec-813f-f1605c3f6d7c" name="Gisulf">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Woodmen-town, Lake-town, Dale"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="4"/>
@@ -199,7 +186,6 @@
     <card id="cbba5ec3-6a0a-3e55-b816-c1559574f073" name="Golodhros">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Minas Morgul, Cirith Ungol, Barad-dûr"/>
        <property name="Influence" value="4"/>
        <property name="Mind" value="9"/>
@@ -214,7 +200,6 @@
     <card id="28fc1265-cff5-3045-aca7-de0be4c51b20" name="The Grimburgoth">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Dol Guldur"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="8"/>
@@ -229,7 +214,6 @@
     <card id="46f43df8-5241-3c8e-9a51-2e45f879c6b3" name="Herion">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Lond Galen, Dol Amroth"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="3"/>
@@ -244,7 +228,6 @@
     <card id="762186fa-8a4a-3cdc-bbaa-79c1d4556a4f" name="Ivic">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Southron Oasis, Variag Camp, Pelargir"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="6"/>
@@ -259,7 +242,6 @@
     <card id="7e39a057-058a-36b9-b2fe-e831f902f991" name="Jûoma">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Lossadan Camp, Bree"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="3"/>
@@ -274,7 +256,6 @@
     <card id="95881b1d-2a1e-3741-8809-41c0023be5c9" name="Leamon">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Cameth Brin, Dunnish Clan-hold"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="3"/>
@@ -289,7 +270,6 @@
     <card id="911248df-9866-3c38-9487-408f11fc7081" name="Nimloth">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Thranduil's Halls, Sarn Goriwing"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="4"/>
@@ -304,7 +284,6 @@
     <card id="2c8bb587-ef98-36b8-8bef-bf1a21379a08" name="Ôm-buri-Ôm">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Drúadan Forest, Wose Passage-hold, Stone-circle"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="5"/>
@@ -319,7 +298,6 @@
     <card id="4b2eeda8-803a-324d-95a2-5b905f9be51c" name="Pôn-ora-Pôn">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Drúadan Forest, Wose Passage-hold, Stone-circle"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="5"/>
@@ -334,7 +312,6 @@
     <card id="15e052bc-87eb-3788-83c8-1deb3d953ebf" name="Râisha">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Variag Camp, Easterling Camp, Southron Oasis"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="5"/>
@@ -349,7 +326,6 @@
     <card id="9b83f1d3-6992-3180-9365-73dc36c29fc3" name="Súrion">
        <property name="Agent" value="yes"/>
        <property name="Body" value="7"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Minas Tirith, Pelargir"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="6"/>
@@ -364,7 +340,6 @@
     <card id="6db6823b-5871-354e-be71-059668c65ecf" name="Taladhan">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Sarn Goriwing, Dol Guldur"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="6"/>
@@ -379,7 +354,6 @@
     <card id="2d93934e-f5ac-3090-a7ef-f790030c5a88" name="Woffung">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Lake-town, Dale, Shrel-Kain"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="4"/>
@@ -394,7 +368,6 @@
     <card id="ba66978e-2456-3b9b-b226-6dcb0f201213" name="Wormtongue">
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Edoras, Dunharrow, Isengard"/>
        <property name="Influence" value="2"/>
        <property name="Mind" value="5"/>
@@ -409,7 +382,6 @@
     <card id="b01b6c0e-2240-37c9-bb41-f2991e1e6026" name="Lobelia Sackville-Baggins">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Bag End, Bree"/>
        <property name="Influence" value="1"/>
        <property name="Mind" value="3"/>
@@ -424,7 +396,6 @@
     <card id="2f279d0a-255f-3547-9175-1a83e3dead88" name="My Precious">
        <property name="Agent" value="yes"/>
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Mt. Doom, Shelob's Lair, Goblin-gate, Moria"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="4"/>
@@ -439,7 +410,6 @@
     <card id="8b9f1a10-3f26-3d98-9909-11f9e4389261" name="The Gem-deeps" size="SiteCard">
        <property name="Adjacent" value="Glittering Caves (0), The Pûkel-deeps (9), The Under-gates (6)"/>
        <property name="Auto Attack" value="(1st) Undead - 3 strikes with 9 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="3"/>
        <property name="Playable" value="Items (minor, major, gold ring)"/>
@@ -452,7 +422,6 @@
     </card>
     <card id="dab54988-3ae3-3d79-9ef6-9383a8340dfd" name="Haudh-in-Gwanûr" size="SiteCard">
        <property name="Auto Attack" value="Undead - 1 strike with 10 prowess; each character wounded must make a corruption check"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
        <property name="Haven" value="Edhellond"/>
@@ -466,7 +435,6 @@
     </card>
     <card id="c970bcce-34e4-3ed8-80fa-91ae5fc7628e" name="Hermit's Hill" size="SiteCard">
        <property name="Auto Attack" value="Men - 3 strike with 6 prowess"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="1"/>
        <property name="Haven" value="Lórien"/>
@@ -482,7 +450,6 @@
     <card id="a39ccf73-df2a-39ef-ab2a-745843f03503" name="The Iron-deeps" size="SiteCard">
        <property name="Adjacent" value="Carn Dûm (0), The Under-leas (6), The Under-vaults (7)"/>
        <property name="Auto Attack" value="(1st) Trolls - 3 strikes with 9 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins &amp; Lairs"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="4"/>
        <property name="Playable" value="Items (minor, major, greater)"/>
@@ -496,7 +463,6 @@
     <card id="339c5b7d-3446-3cdd-9688-566bf89eae64" name="The Pûkel-deeps" size="SiteCard">
        <property name="Adjacent" value="Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9)"/>
        <property name="Auto Attack" value="(1st) Pûkel-men - 2 strikes with 11 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="3"/>
        <property name="Playable" value="Items (minor, major, gold ring)"/>
@@ -510,7 +476,6 @@
     <card id="f5e5db70-0295-369f-8010-ef14741c0a8c" name="The Sulfur-deeps" size="SiteCard">
        <property name="Adjacent" value="Dol Guldur (0), The Under-courts (5), The Pûkel-deeps (9), The Under-gates (5), The Under-galleries (8)"/>
        <property name="Auto Attack" value="(1st) Trolls - 2 strikes with 9 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="4"/>
        <property name="Playable" value="Items (minor, major, greater)"/>
@@ -524,7 +489,6 @@
     <card id="86641e33-8eb1-3e24-818c-58618d8f8998" name="The Under-courts" size="SiteCard">
        <property name="Adjacent" value="Barad-dûr (0), The Sulfur-deeps (5), The Under-galleries (4)"/>
        <property name="Auto Attack" value="(1st) Trolls - 3 strikes with 10 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="4"/>
        <property name="Playable" value="Items (minor, major, greater)"/>
@@ -538,7 +502,6 @@
     <card id="fab85f89-91f8-3a31-89f7-e76de065b266" name="The Under-galleries" size="SiteCard">
        <property name="Adjacent" value="Any site in Ûdun (0), The Under-courts (4), The Sulfur-deeps (8)"/>
        <property name="Auto Attack" value="(1st) Trolls - 4 strikes with 9 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="4"/>
        <property name="Playable" value="Items (minor, major, greater)"/>
@@ -552,7 +515,6 @@
     <card id="fba28544-aed6-3111-bad5-3d23564bc397" name="The Under-gates" size="SiteCard">
        <property name="Adjacent" value="Moria (0), The Gem-deeps (6), The Sulfur-deeps (5), The Under-grottos (8), The Under-leas (6)"/>
        <property name="Auto Attack" value="(1st) Balrog - 2 strikes with 16 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins &amp; Lairs"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="3"/>
        <property name="Playable" value="Items (minor, major, greater, gold ring)"/>
@@ -566,7 +528,6 @@
     <card id="0cd1a418-fc1a-3014-9a69-92d0600e1ee0" name="The Under-grottos" size="SiteCard">
        <property name="Adjacent" value="Goblin-gate (0), The Under-leas (8), The Under-gates (8)"/>
        <property name="Auto Attack" value="(1st) Orcs - 4 strikes with 7 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="3"/>
        <property name="Playable" value="Items (minor, major, gold ring)"/>
@@ -580,7 +541,6 @@
     <card id="6b93f75d-cac7-3f27-9f55-0fd1137010c8" name="The Under-leas" size="SiteCard">
        <property name="Adjacent" value="Mount Gundabad (0), The Iron-deeps (6), The Under-grottos (8), The Under-gates (6), The Under-vaults (7)"/>
        <property name="Auto Attack" value="(1st) Orcs - 5 strikes with 7 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins &amp; Lairs"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="4"/>
        <property name="Playable" value="Items (minor, major, greater)"/>
@@ -594,7 +554,6 @@
     <card id="c23ca1f0-2161-35f9-ace0-3817e5fa1748" name="The Under-vaults" size="SiteCard">
        <property name="Adjacent" value="Mount Gram (0), The Iron-deeps (7), The Under-leas (7)"/>
        <property name="Auto Attack" value="(1st) Undead - 3 strikes with 8 prowess (2nd) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="3"/>
        <property name="Playable" value="Items (minor, major, gold ring)"/>
@@ -607,7 +566,6 @@
     </card>
     <card id="3622a5e6-f8c3-37f0-a697-85c8226f6c82" name="Urlurtsu Nurn" size="SiteCard">
        <property name="Auto Attack" value="Orcs - 4 strikes with 7 prowess"/>
-       <property name="Class" value=""/>
        <property name="Draw" value="3"/>
        <property name="Draw Opponent" value="5"/>
        <property name="Haven" value="Edhellond"/>
@@ -1422,7 +1380,6 @@
     </card>
     <card id="cadb916f-7fa1-3b98-807b-e5960678bbfd" name="Folco Boffin">
        <property name="Body" value="9"/>
-       <property name="Class" value=""/>
        <property name="Home Site" value="Bag End"/>
        <property name="Influence" value="0"/>
        <property name="Mind" value="3"/>
