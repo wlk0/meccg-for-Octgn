@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="3" id="b72702a5-0960-3082-ae62-288d60d73131">Alone and Unadvised</card>
+    <card qty="1" id="5d985632-5d1e-39df-bca2-39a25bae4ca2">Call of Home</card>
+    <card qty="3" id="8711d7ba-9041-32bd-9cca-513b2ff82464">Chill Douser</card>
+    <card qty="2" id="0a9f7c9d-2b2c-3bb3-a10b-1511d0f09006">Corsairs of Umbar</card>
+    <card qty="2" id="34b3d19a-8281-3e86-8c00-33d2ca6eb0ab">Dunlending Raiders</card>
+    <card qty="3" id="7bf14280-f6af-3407-8629-96035a17ec49">Durin's Folk</card>
+    <card qty="2" id="514e0c7e-07e6-35c6-84a2-204efe9dc75f">Faces of the Dead</card>
+    <card qty="3" id="fba7895e-6dd4-3c8a-9d4d-0e288f4d851c">Ghouls</card>
+    <card qty="3" id="5e242be9-c0b4-34fe-9ba7-df3184708b67">Left Behind</card>
+    <card qty="2" id="88d50209-b829-3fb5-8bd7-c12707c9b6d7">Lure of Expedience</card>
+    <card qty="3" id="e5f8f283-e80e-3319-ae0f-efe84a2cea7b">Lure of the Senses</card>
+    <card qty="1" id="b0c425f3-fc19-338c-80ed-951aca963383">Muster Disperses</card>
+    <card qty="2" id="c84d148e-d6ca-3950-9dfa-cbdfa907d8c6">Seized by Terror</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="e999901e-d9fd-3192-acb6-1de41d5d7ba8">Eradan</card>
+    <card qty="1" id="f22682bb-cd08-3843-b826-51915031e3f9">Gorbag</card>
+    <card qty="1" id="ad85181c-f128-320b-91b4-1246f3656d6c">Grishnákh</card>
+    <card qty="1" id="5877562a-28c8-3d91-95bc-3f32c1b701d7">Lagduf</card>
+    <card qty="1" id="42b7cdf5-ba83-303b-9895-56c9d8cd8956">Nevido Smôd</card>
+    <card qty="1" id="a1b7b3b8-5e74-3ea0-8dbd-7c4f6cf69d45">Odoacer</card>
+    <card qty="1" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="3" id="d3ddc2e3-7c47-3538-b8f4-07d1d063a6e0">Ûvatha the Ringwraith</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="3" id="43a5f092-395e-3d9a-ad34-b34abd6bad70">A Nice Place to Hide</card>
+    <card qty="3" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="3" id="3c65297e-a8cd-39a7-a587-42360c4c4bf4">Dark Tryst</card>
+    <card qty="3" id="58f87954-1847-3b75-af94-a9e47ca0e03f">Down Down to Goblin-town</card>
+    <card qty="1" id="8db1b2e8-8bae-3f95-973b-da76b3ea542a">High Helm</card>
+    <card qty="1" id="838ae1ce-b5a1-37fa-a503-aa414dda233b">Orcs of Gundabad</card>
+    <card qty="1" id="6a935303-8975-3e78-8b62-b8e82b049865">Orcs of Mirkwood</card>
+    <card qty="1" id="7085098b-aa11-36f8-8617-37d5d1986100">Palantír of Orthanc</card>
+    <card qty="1" id="54083fad-3c95-33ee-9250-6093439a7444">Regiment of Black Crows</card>
+    <card qty="1" id="1f25afba-5ef2-334b-977d-afe99ba35af3">Sable Shield</card>
+    <card qty="1" id="3410f00b-66bd-3760-9734-0564d99ad6ca">The Arkenstone</card>
+    <card qty="1" id="93648583-c26f-368d-8fe0-7ea5adb41d86">The Warg-king</card>
+    <card qty="2" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+    <card qty="3" id="40ebdee7-7e4e-3407-8d0e-406aa29ece13">War-warg</card>
+    <card qty="3" id="1970c08f-6460-3b8d-8331-74a429934eb7">War-wolf</card>
+    <card qty="2" id="775b9e21-3613-39af-8305-8a6b521172b1">Weigh All Things to a Nicety</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="707a0979-bb59-3bdb-90e4-708a6215201a">Dunlending Spy</card>
+    <card qty="1" id="21642231-6f74-323c-96c7-8f90643cb412">Jerrek</card>
+    <card qty="1" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="1" id="82e91db5-e927-36e8-873a-51395a7c2871">Orc Tracker</card>
+    <card qty="1" id="c24d8f59-44ec-31fb-8967-e5dc11eb33b7">Pon Opar</card>
+    <card qty="1" id="16fef5c6-4a86-32ec-b119-9ab989493f96">Uchel</card>
+    <card qty="1" id="bc4edd5c-6ccf-3c7e-b0a6-df79612ab719">Foul-smelling Paste</card>
+    <card qty="1" id="d8f72ae4-e649-3079-bcb7-df23df863a8b">Strange Rations</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="1" id="3443fb70-db2a-3715-b17e-68ad6d3dad0e">Arthadan Rangers</card>
+    <card qty="1" id="55f7c218-6da2-3829-a5e0-3d8b8740df3d">Bairanax Ahunt</card>
+    <card qty="1" id="270f0a33-13f2-34b8-adf5-79b124122a2c">Barrow-wight</card>
+    <card qty="1" id="2630ad34-eb42-3b08-80cc-6c16ee142ca4">Cave Worm</card>
+    <card qty="1" id="04d1dc4f-0c30-3d5c-bc00-b00eb6c30c86">Corpse-candle</card>
+    <card qty="1" id="92938a5c-49c2-3136-a43f-aa1e52969edb">Covetous Thoughts</card>
+    <card qty="1" id="30793cc3-196c-318b-8226-7966d8ce89ef">Exhalation of Decay</card>
+    <card qty="1" id="9a2de19d-94c8-3a3d-b0b1-70e3af4d159e">Foolish Words</card>
+    <card qty="1" id="69202c3d-42eb-3f5e-9df6-327932494398">Itangast Ahunt</card>
+    <card qty="2" id="23c93640-e891-3150-9484-fb11c176fed2">Black Rider</card>
+    <card qty="1" id="26d1c5a8-6da6-3184-9990-0319b86acbb3">Gifts as Given of Old</card>
+    <card qty="1" id="530074ca-5f59-39f4-9599-04f3873c3a94">Goblins of Goblin-gate</card>
+    <card qty="1" id="07ff1d79-2950-3630-a05d-bf90d336bca7">Orc Quarrels</card>
+    <card qty="1" id="e582bc5a-daa1-36d4-9cba-331e4501f9c6">Orcs of Moria</card>
+    <card qty="1" id="d7e63140-997c-34df-9eff-aa631520187f">Piercing All Shadows</card>
+    <card qty="1" id="3fa9f24a-a45c-32b6-9d2e-c2de7d3e18b0">Smaug Roused</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="1" id="4d12d281-e838-3c5d-afa1-4c6fe62550c5">Words of Menace and Deceit</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="7a7db2f4-58a9-38ed-9cda-cfe5d31b7588">Barrow-downs</card>
+    <card qty="1" id="229324ef-f0fb-38c9-aa37-bd3894c18308">Carn Dûm</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="a0b7a4c9-4e40-3f8d-bbcd-b13cbd0bc20d">Goblin-gate</card>
+    <card qty="1" id="24c507cc-965e-365f-b556-90adc738358c">Isengard</card>
+    <card qty="1" id="8fef7be1-598b-36e4-9e38-dbd7c65607e1">Moria</card>
+    <card qty="1" id="360b4a21-ae91-3ec6-9907-563fba326f57">Mount Gundabad</card>
+    <card qty="1" id="d52b0fbe-1b08-31cd-8858-bba3f68ab41f">Ost-in-Edhil</card>
+    <card qty="1" id="fe395430-ff82-3fea-ad4c-411e22cfbb84">Sarn Goriwing</card>
+    <card qty="1" id="7078f428-f262-3271-b5be-4815b5a71bf7">The Lonely Mountain</card>
+    <card qty="1" id="b8c36d7d-e5e3-3a43-b119-8347b3222956">The White Towers</card>
+    <card qty="1" id="38bf981e-7238-3ba7-8db6-60a001df83d8">Weathertop</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
