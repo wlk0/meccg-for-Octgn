@@ -2,6 +2,7 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The White Hand" id="898e858b-64ae-31c8-a9f7-c77670124bb0" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
   <cards>
     <card id="8d90b9f8-88f7-3c80-af85-324f41d79b63" name="Alatar">
+       <property name="Text" value="Unique. Hazards your companies defeat (even with *) are worth full kill marshalling points. If you have more than 7 stage points, all detainment attacks against your companies attack normally instead. If at one of his Wizardhavens when a hazard creature attacks one of your companies, he may immediately join that company. Alatar must face a strike from the creature (in all cases). Following all of the creature's attacks, Alatar must tap (if untapped) and make a corruption check."/>
        <property name="Body" value="9"/>
        <property name="General Influence" value="17"/>
        <property name="Home Site" value="Any non-&quot;Dragon's lair&quot; Ruins and Lairs in a Wilderness"/>
@@ -14,6 +15,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="45d21e68-6c0b-355b-aa51-aff703f784c8" name="Doeth (Durthak)">
+       <property name="Text" value="Unique. Half-orc. Discard on a body check result of 9."/>
        <property name="Body" value="9"/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
@@ -27,6 +29,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="eda4826c-f490-3e4e-a39f-0f507be132f7" name="Euog (Ulzog)">
+       <property name="Text" value="Unique. Half-orc. Leader. Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions."/>
        <property name="Body" value="9"/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="1"/>
@@ -40,6 +43,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="ca4a4cca-c7f9-3d66-ae4e-b4aeb8486cdd" name="Gandalf">
+       <property name="Text" value="Unique. Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to &quot;test&quot; a ring in his company."/>
        <property name="Body" value="9"/>
        <property name="General Influence" value="18"/>
        <property name="Home Site" value="Any Free-hold"/>
@@ -52,6 +56,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="6670065a-c4ea-37e2-b68f-06b40a5eb479" name="Ill-favoured Fellow">
+       <property name="Text" value="Half-orc. Discard on a body check result of 9."/>
        <property name="Body" value="9"/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
@@ -64,6 +69,7 @@
        <property name="Type" value="Minion Character"/>
     </card>
     <card id="be0276c6-5d97-374e-bbff-f57398779363" name="Lugdush">
+       <property name="Text" value="Unique. Uruk-hai. Discard on a body check result of 8."/>
        <property name="Body" value="8"/>
        <property name="Home Site" value="Isengard"/>
        <property name="Influence" value="0"/>
@@ -77,6 +83,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="f0e77474-78f0-3319-91ef-8dc481d2d856" name="Pallando">
+       <property name="Text" value="Unique. Can use spirit-magic. Your Man, Dwarf, Elf, Dúnadan, Hobbit, Orc, and Troll factions are each worth 2 marshalling points. You may keep one more card than normal in your hand."/>
        <property name="Body" value="9"/>
        <property name="General Influence" value="20"/>
        <property name="Home Site" value="The White Towers"/>
@@ -89,6 +96,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="8e81013f-f786-39ec-9417-f8d47905a033" name="Radagast">
+       <property name="Text" value="Unique. Your unique factions that are neither Man, Dwarf, Dúnadan, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness in his company's site path."/>
        <property name="Body" value="9"/>
        <property name="General Influence" value="22"/>
        <property name="Home Site" value="Rhosgobel"/>
@@ -101,6 +109,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="bf1cf131-744d-35c2-ad7e-20f5d724b4a0" name="Saruman">
+       <property name="Text" value="Unique. Can use sorcery. Your non-weapon/ non-armor/non-shield/non-helmet items are each worth full marshalling points. May tap to use a Palantír he bears. -1 to all corruption checks. At the beginning of your end-of-turn phase, you may tap Saruman to take one spell or sorcery card from your discard pile to your hand."/>
        <property name="Body" value="9"/>
        <property name="General Influence" value="15"/>
        <property name="Home Site" value="Isengard"/>
@@ -113,6 +122,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="79ae9a99-c4c8-37fe-ac01-5023f88b207e" name="Sly Southerner">
+       <property name="Text" value="Half-orc. Discard on a body check result of 9."/>
        <property name="Body" value="9"/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
@@ -125,6 +135,7 @@
        <property name="Type" value="Minion Character"/>
     </card>
     <card id="6e16dc1e-a54a-3d1b-ac05-6041578036b0" name="Squint-eyed Brute">
+       <property name="Text" value="Half-orc. Discard on a body check result of 9."/>
        <property name="Body" value="9"/>
        <property name="Home Site" value="Any Dark-hold"/>
        <property name="Influence" value="0"/>
@@ -137,6 +148,7 @@
        <property name="Type" value="Minion Character"/>
     </card>
     <card id="62dc282b-daed-3116-a532-2a19f6a3aa6e" name="Uglúk">
+       <property name="Text" value="Unique. Uruk-hai. Leader. Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions."/>
        <property name="Body" value="9"/>
        <property name="Home Site" value="Isengard"/>
        <property name="Influence" value="0"/>
@@ -150,6 +162,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="ea89d477-ccb8-3ddc-8095-75df6bbdcc20" name="Goblin-faces">
+       <property name="Text" value="Orcs. Men. Three strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses)."/>
        <property name="Body" value="-"/>
        <property name="Class" value="Creature"/>
        <property name="MP" value="1"/>
@@ -161,46 +174,55 @@
        <property name="Type" value="Hazard"/>
     </card>
     <card id="85a9f7ce-5bc3-3cda-851b-3ec94c7a6256" name="Blind to the West">
+       <property name="Text" value="Targets and cancels one hero short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="460abe3e-0960-3d52-b94c-ca3f80d0e47d" name="Cast from the Order">
+       <property name="Text" value="Playable on a Fallen-wizard. Make a roll and add the Fallen-wizard's stage points. If the result is less than 16, discard this card. Otherwise, place this card with the Fallen- wizard. The Fallen-wizard's player must use minion sites for Border-holds, Free-holds, and hero Havens. Also, the Fallen-wizard's company is overt."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R2"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="90ede4da-a37b-3157-b3de-15b65b88ac83" name="Cruel Claw Perceived">
+       <property name="Text" value="Playable on a Wizard, Fallen-wizard, or Ringwraith. His general influence is modified by -1. If he is a Fallen-wizard, this modifier is instead: -9 if his stage points (SPs) exceed 20, -7 if his SPs exceed 15, -5 if his SPs exceed 10, or -3 if his SPs exceed 5 (use the first modifier that applies). Additionally, the Fallen-wizard's hand size is reduced by 1 if his SPs exceed 10, and by 1 more if his SPs exceed 20. Cannot be duplicated on a given character. Discard when any play deck is exhausted."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="c7d55a01-d502-3b51-ae83-adb432c39dbc" name="Echoes of the Song">
+       <property name="Text" value="If your opponent has more than one stage card and 4 or more stage points, he must discard one stage card of his choice. Alternatively, force a target character to make a corruption check. Remove this card from the game."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="bc00f223-b5fc-3569-9204-c10c0b78e955" name="Flotsam and Jetsam">
+       <property name="Text" value="If a player has 15 or fewer cards in his play deck (20 or fewer if a Fallen-wizard), all effects are automatically canceled which allow him to search through or look at any portion of his play deck or discard pile outside of the normal sequence of play. Discard when any play deck is exhausted. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="2c59ee78-6f9c-3bc3-882a-e8801fcdce17" name="Fool's Bane">
+       <property name="Text" value="Playable on a Fallen-wizard. Influence checks he makes against hero resources are modified by: -9 if his stage points (SPs) exceed 18, -7 if his SPs exceed 12, -5 if his SPs exceed 7, -3 if his SPs exceed 3, or -1 if his SPs exceed 0 (use the first modifier that applies). Additionally, his Elf characters and Elf factions are each worth 0 marshalling points in all cases. Cannot be duplicated on a given Fallen-wizard. Discard when any play deck is exhausted."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="fe733f55-2e9d-333d-8a54-33d31a1da36b" name="Foul Tooth Unsheathed">
+       <property name="Text" value="Playable if your opponent is a Fallen-wizard. If your opponent has 7 or more stage points and is not Alatar, hazards his companies defeat (while this card is in play) without an asterisk [*] are worth no marshalling points. This card overrides any conflicting resources."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="f2b63f0b-e405-3d75-9f03-445211b5f766" name="Heart Grown Cold">
+       <property name="Text" value="Fallen-wizard players must use minion site cards for hero Havens. If a Fallen-wizard has more than 4 stage points, his player must also use minion site cards for Free- holds. If a Fallen-wizard has more than 7 stage points, his player must also use minion site cards for Border-holds."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="c40abeb7-4dec-3181-a6fd-f4af7d9cdb27" name="In the Grip of Ambition">
+       <property name="Text" value="Corruption. Playable on a Fallen-wizard or a Wizard. He receives 1 corruption point (CP). If he is a Fallen-wizard, he receives 2 stage points. If he has more than 7 stage points, he receives an additional stage point. Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll - if this result is greater than 8, discard this card."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="C3"/>
@@ -208,6 +230,7 @@
        <property name="Type" value="Hazard"/>
     </card>
     <card id="286e1352-aac8-3d53-9b6c-c667769f6255" name="Inner Rot">
+       <property name="Text" value="Corruption. Playable on a Wizard or a Fallen-wizard. He receives 1 corruption point (CP). If he is a Fallen-wizard, he receives 2 stage points and the CPs received are instead: 4 CPs if his stage points (SPs) exceed 18, 3 CPs if his SPs exceed 11, 2 CPs if his SPs exceed 5, 1 CP if his SPs exceed 0 (use the first that applies). The target makes a corruption check whenever his controlling player plays a stage card. Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll - if this result is greater than 6, discard this card."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1(*)"/>
        <property name="Rarity" value="R3"/>
@@ -215,54 +238,64 @@
        <property name="Type" value="Hazard"/>
     </card>
     <card id="4cb403cd-33de-3d17-b7fe-5212fa2966b5" name="Ire of the East">
+       <property name="Text" value="Targets and cancels one minion short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="f3cbee7d-1ce1-301c-ac0b-e32f0e3d6e95" name="Longing for the West">
+       <property name="Text" value="Corruption. Playable on a Wizard or a Fallen-wizard. He receives 2 corruption points and makes a corruption check at the end of his untap phase if not at a Haven (or Wizardhaven). Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll - if this result is greater than 6, discard this card."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="2"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="afcad069-1a86-38c0-82d9-740b22573c71" name="Mask Torn">
+       <property name="Text" value="Fallen-wizards may not bring characters with more than 4 mind into play. If a Fallen-wizard has more than 9 stage points, he may not bring characters with more than 3 mind into play. Discard when any play deck is exhausted."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="e3bc4f98-2dad-31cc-8c10-caf272608a0f" name="Nature's Revenge">
+       <property name="Text" value="Playable on a site in a Wilderness that normally is a Border-hold or a Shadow-hold, or on a non-protected Wizardhaven in a Wilderness. All versions of the site become Ruins and Lairs and each gains an additional automatic- attack: Animals - each character faces 1 strike with 7 prowess. Discard this card when the site is discarded or returned to its location deck."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="e57f7bc3-d2ff-3578-a8e7-367ec7052de5" name="Power Relinquished to Artifice">
+       <property name="Text" value="Playable on a Wizard, Fallen-wizard, or Ringwraith. His prowess and direct influence are each modified by -1. If he is a Fallen-wizard, these modifiers are instead: -5 if his stage points (SPs) exceed 20, -4 if his SPs exceed 15, -3 if his SPs exceed 10, -2 if his SPs exceed 5 (use the first modifier that applies). For Alatar and Radagast, reduce the modifier to 0 for prowess and double it for direct influence. Cannot be duplicated on a given character. Discard when any play deck is exhausted."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="733c4e04-ada7-3e58-a110-a514315ae956" name="Rolled down to the Sea">
+       <property name="Text" value="Unique. Opponent must discard a ring from his hand or from one of his companies if available. If no rings are available as such, he must reveal his hand to you."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="R2"/>
        <property name="Type" value="Hazard"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="4f6ca578-2096-3ea5-aca6-0932f70046d7" name="Something Else at Work">
+       <property name="Text" value="Playable on a character. Any influence check he makes is modified by -1 and any test for a gold ring in his company is modified by -1. If he is a Fallen-wizard, these modifiers are both instead: -4 if his stage points (SPs) exceed 14, -3 if his SPs exceed 9, -2 if his SPs exceed 4, -1 is his SPs exceed 0 (use the first modifier that applies). Cannot be duplicated on a given character. Discard when any play deck is exhausted."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="9a40bb27-abb6-3c19-b34b-c4e8335f74fb" name="Whole Villages Roused">
+       <property name="Text" value="Playable on a hero Border-hold or Free-hold . The site has the automatic- attacks indicated on the corresponding minion site card (detainment against hero companies) but with +2 prowess. Alternatively, playable on a minion Shadow-hold or Dark-hold. The site has the automatic-attacks indicated on the corresponding hero site card (detainment against overt companies) but with +2 prowess."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="36e5bb72-f534-3ab0-8103-afd81dc97aa7" name="Will You Not Come Down?">
+       <property name="Text" value="Playable on a Fallen-wizard at a Wizardhaven . Your opponent must choose to either: discard from play enough stage cards (of his choice) to reduce his stage point total below 7 or to receive 4 stage points. Cannot be duplicated on a given Fallen-wizard."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="e92920c1-161e-3473-879f-73260c19ce89" name="Noble Steed">
+       <property name="Text" value="Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself."/>
        <property name="Body" value="8"/>
        <property name="Class" value="Ally"/>
        <property name="Mind" value="1"/>
@@ -272,18 +305,21 @@
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="8f07daaa-eb41-36a1-a546-869ca204a3c7" name="Promptings of Wisdom">
+       <property name="Text" value="Light Enchantment. Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="2"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="73427996-0375-3dea-b4d0-e62609bc3a96" name="The White Council">
+       <property name="Text" value="Playable during your organization phase in your marshalling point pile if your Wizard is in a Haven and you have more marshalling points than your opponent. Your opponent must be a Fallen-wizard or a Wizard. Cannot be duplicated on a given turn."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="137e16f0-b227-30ca-85bf-e12dc2c5193e" name="The White Wizard">
+       <property name="Text" value="Unique. Playable on a Wizard with Sacrifice of Form. +2 to his direct influence, +1 to all of his corruption checks. Discard if Saruman is in play as an opposing Wizard."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="2"/>
        <property name="Rarity" value="R2"/>
@@ -291,87 +327,102 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="7ad48167-43ea-3dd1-829e-79e4590728f9" name="A Panoply of Wings">
+       <property name="Text" value="Playable at any tapped or untapped non-Haven, non-Shadow-hold, non-Dark- hold site in a Wilderness if the influence check is greater than 11. Standard Modifications: if Radagast is your Wizard (+3). Discard this faction to make information playable at such a site."/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="C3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="da848d68-9363-36c4-9da3-497e5f62610a" name="Beasts of the Wood">
+       <property name="Text" value="Playable at any tapped or untapped non-Haven, non-Darkhaven, non-Dark-hold site in Woodland Realm, Western Mirkwood, Heart of Mirkwood, Southern Mirkwood, Fangorn, or Cardolan if the influence check is greater than 11. Standard Modifications: if Radagast is your Wizard (+3). Tap this faction to cancel an attack keyed by name to one of the regions listed above. May also be used as a minion resource card that is only playable by a character in a covert company."/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="C3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="7fe85ff5-d023-34ea-af91-5be82f362165" name="Wild Horses">
+       <property name="Text" value="Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor if the influence check is greater than 11. Standard Modifications: Men with home sites in the regions listed above (+3). Tap this faction to allow any company with one of the regions listed above in its site path to move up to 1 additional region."/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="f6ff841c-2c1c-3d79-bfcb-71918dd8a968" name="Wild Hounds">
+       <property name="Text" value="Playable at any tapped or untapped Ruins and Lairs in a Wilderness if the influence check is greater than 11. Standard Modifications: if Radagast is your Wizard (+3). Discard this faction to cancel an automatic-attack at a Ruins and Lairs or an attack keyed to Wilderness or Ruins and Lairs. May also be used as a minion resource card that is only playable by a character in a covert company."/>
        <property name="Class" value="Animal Faction"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="56950f9f-668a-33b0-a3d9-40f9d0b7a064" name="The Black Council">
+       <property name="Text" value="Playable during your organization phase in your marshalling points pile if your Ringwraith is in a Darkhaven and you have more marshalling points than your opponent and your opponent is a Ringwraith. Cannot be duplicated on a given turn."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="5fb48c4e-3d09-3fa7-945c-cce05f1b4b18" name="Counterfeit">
+       <property name="Text" value="Magic. Spirit-magic. Playable on an Orc character in a spirit-magic using character's company. The Orc is considered to be a Half-orc for all purposes. Unless he is a Ringwraith, the spirit-magic using character makes a corruption check modified by -3. Discard if the Orc character is in a company that does not contain a spirit-magic using character."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Magic" value="Spirit-magic"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29" name="Crept Along Cleverly">
+       <property name="Text" value="Ranger only. Cancels a Wolf, Animal, Spider, Dragon, Drake, or Undead attack against a ranger's company."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="08ad6b83-874b-372b-ae4b-89cdc4e22ed6" name="The Fiery Blade">
+       <property name="Text" value="Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body (-2 body and -2 prowess against The Witch- king). Discard The Fiery Blade after a strike against the Ringwraith fails or if the Ringwraith has Morgul-blade. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="cb1ece7c-e8cb-3649-9f57-f6614206ccac" name="Govern the Storms">
+       <property name="Text" value="Magic. Sorcery. Cancel all hazard effects for the rest of the turn that: force a sorcery-using character's company to return to its site of origin or would tap its current or new site. Unless he is a Ringwraith, the sorcery using character makes a corruption check modified by -4."/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Sorcery"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="514869ec-d6d1-37a6-8061-106f4e52e85f" name="Open to the Summons">
+       <property name="Text" value="Playable on a minion company. One agent minion may be played with target company at a Darkhaven - place this card with the agent. -1 to his mind to a minimum of 1. This card may be played with a starting company in lieu of a minor item. When played as such, reveal it when starting companies are determined as if it were a character. Cannot be duplicated on a given character."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="d7e63140-997c-34df-9eff-aa631520187f" name="Piercing All Shadows">
+       <property name="Text" value="Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="3"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="dbb814e1-5402-3a4e-9f25-36af7935ea07" name="Poison of his Voice">
+       <property name="Text" value="Magic. Spirit-magic. Playable on a hazard permanent-event on a character in a spirit-magic-using character's company. Discard target hazard. Alternatively, playable on a spirit-magic-using Fallen-wizard. -6 to his stage points (to a minimum of 3) for the rest of the turn. Unless the spirit-magic- user is a Ringwraith, he makes a corruption check modified by -3."/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Spirit-magic"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="6516c6cb-4c50-35e8-be3a-d98eadf88b8a" name="Sojourn in Shadows">
+       <property name="Text" value="Magic. Shadow-magic. Playable before strikes are assigned on a character facing an attack in a shadow-magic using character's company. Target character cannot be assigned a strike from the attack. Unless he is a Ringwraith, the shadow-magic using character makes a corruption check modified by -4."/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Shadow-magic"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="02b14a02-2e75-3823-9fd2-dc1ee77ec846" name="White Light Broken">
+       <property name="Text" value="Magic. Sorcery. Playable on a sorcery-using character. All of his corruption checks are modified by +2 for the rest of the turn. Alternatively, playable on a sorcery-using Fallen-wizard. -4 to his stage points (to a minimum of 3) for the rest of the turn. Unless the sorcery-using character is a Ringwraith, he makes a corruption check."/>
        <property name="Class" value="Short-event"/>
        <property name="Magic" value="Sorcery"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="27fa5714-a58c-3bff-9db5-0ba0e26d4588" name="Blasting Fire">
+       <property name="Text" value="Technology. Playable at a tapped or untapped Shadow-hold, Dark-hold, or a site with a Dwarf automatic-attack. Discard to cancel all automatic-attacks at a site against the bearer's company, any influence attempts against factions at the site this turn are modified by +2."/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
@@ -379,6 +430,7 @@
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="e03f1be2-e649-321a-91ff-88b91871da96" name="Liquid Fire">
+       <property name="Text" value="Technology. Playable at a tapped or untapped Shadow-hold, Dark-hold, or a site with a Dwarf automatic-attack. Discard to cause all strikes from all attacks of a non- Dragon, non-Nazgûl, non-Balrog creature keyed to a site to fail (resulting body checks for the creature are modified by -2)."/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
@@ -386,6 +438,7 @@
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="bc53536f-f3b9-384e-92e3-cf10bb913f83" name="Mechanical Bow">
+       <property name="Text" value="Weapon. Technology. -1 to bearer's body. Warrior only: +2 prowess to a maximum of 8; -1 to the body of any strike its bearer faces if he taps to face the strike."/>
        <property name="Body" value="-1"/>
        <property name="Class" value="Major Item"/>
        <property name="Corruption" value="1"/>
@@ -395,6 +448,7 @@
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="4949abc1-8ac6-3bec-b219-f6f3cfef32fc" name="Vile Fumes">
+       <property name="Text" value="Technology. Playable at a tapped or untapped Shadow-hold, Dark-hold, or a site with a Dwarf automatic-attack. Discard during the site phase at a Border- hold or Shadow- hold to make all versions of the site Ruins and Lairs. Its normal automatic-attacks are replaced with: Gas - each character faces 1 strike with 7 prowess (cannot be canceled). Keep Vile Fumes with the site until the site is discarded or returned to its location deck."/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="1"/>
@@ -402,6 +456,7 @@
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="d774ba99-1a2f-3dd9-8178-b6b1c9da8850" name="Deep Mines" size="SiteCard">
+       <property name="Text" value="A company may move to this site only from one of your protected Wizardhavens and only if you have more than 6 stage points. The protected Wizardhaven is the surface site for Deep Mines (i.e., the sites are adjacent and the movement roll required to move between them is 0). You receive the three stage points if any of your companies are at the site. May be duplicated in location deck. Cannot be duplicated on a given Wizardhaven."/>
        <property name="Draw" value="1"/>
        <property name="Draw Opponent" value="2"/>
        <property name="Rarity" value="C3"/>
@@ -411,6 +466,7 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="09d071f1-f661-3c9d-8519-536a4eddc335" name="Isengard" size="SiteCard">
+       <property name="Text" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
        <property name="Rarity" value="C3"/>
@@ -420,6 +476,7 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="ae54422f-c674-38f5-9cdd-cd2ea0e9f5a6" name="Rhosgobel" size="SiteCard">
+       <property name="Text" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
        <property name="Rarity" value="C3"/>
@@ -430,6 +487,7 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="811ca85e-968a-3382-b5ea-e1761ac0f29d" name="The White Towers" size="SiteCard">
+       <property name="Text" value=""/>
        <property name="Draw" value="2"/>
        <property name="Draw Opponent" value="2"/>
        <property name="Rarity" value="C4"/>
@@ -439,12 +497,14 @@
        <property name="Type" value="Fallen-wizard Site"/>
     </card>
     <card id="8d8e2653-7061-3234-a4e3-f59a3752194a" name="A Merrier World">
+       <property name="Text" value="Playable if you have more than 7 stage points. Hazards your companies defeat (for which you otherwise get 1 MP) are each worth full kill marshalling points. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="b41551c4-af69-386d-8c61-81400bbdd40f" name="A New Ringlord">
+       <property name="Text" value="Playable on your Fallen-wizard if he has The One Ring at one of your Wizardhavens. Only one A New Ringlord may be played in a given turn. Make a roll during each of your end-of-turn phases if your Fallen-wizard is bearing The One Ring and is at a Ruins and Lairs where Information is playable. Add 1 for each A New Ringlord you have in play. If the result is less than 6, your fallen-Wizard is eliminated. If the result is greater than 9, you win the game."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="R3"/>
@@ -452,6 +512,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="08344955-b38d-3507-9a11-b601c9390539" name="A Strident Spawn">
+       <property name="Text" value="Unique. Playable if you are Pallando or Saruman and have 6 or more stage points and a protected Wizardhaven. Each of your Half-orcs requires one less point of influence to control. During your organization phase, you may take one Half- orc character from your discard pile to your hand. You may play Half-orc characters at your Wizardhavens, and even if your Fallen-wizard is not there. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -460,6 +521,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="224237a3-7ce2-357f-98e9-e235716b871e" name="An Untimely Brood">
+       <property name="Text" value="Playable if you are Radagast or Alatar and have 6 or more stage points and a protected Wizardhaven. One non-unique ally with a mind of 1 is playable at one of your tapped or untapped protected Wizardhavens each of your site phases. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="C3"/>
@@ -467,36 +529,42 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="3ff99ce7-d06e-35a4-94ad-9c4298fac62d" name="Bad Company">
+       <property name="Text" value="You may play Orc and Troll characters and include them in your starting company. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="f2b7fec6-ab35-3b61-8137-e624de81b601" name="Blind to All Else">
+       <property name="Text" value="Your ring items are each worth full marshalling points. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="cc019f80-0f0c-383c-988a-cb245ac40d8e" name="Delver's Harvest">
+       <property name="Text" value="Playable during the site phase if one of your companies enters the Deep Mines site."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="U3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1349f2cb-07ce-348d-a7d9-a9be6f4e06a7" name="Double-dealing">
+       <property name="Text" value="Playable on a site. If the site is a minion site, you may play appropriate hero resources there. If the site is a hero site, you may play appropriate minion resources there. Discard when this site is discarded or returned to your location deck."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d6ffe7fb-3226-3aee-b094-b25ee4e7c2f6" name="Earth-eater">
+       <property name="Text" value="Technology. Playable during the site phase if one of your companies enters the Deep Mines site and you have more Delver's Harvest cards in play than you have Earth- eater cards. Tap Earth-eater to take a minion non-unique weapon/armor/shield/helmet major item from your sideboard or discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="R3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="26a48302-5df7-3fb3-810d-b3d2c1d4697b" name="The Fortress of Isen">
+       <property name="Text" value="Unique. May not be a starting stage card. Playable if you are Alatar, Pallando, or Saruman. Playable on Isengard. Isengard is protected. Other Fallen-wizards may not use the Wizardhaven card for Isengard. Cards that give marshalling points are not playable at the site by your opponent in all cases. Discard this card when the site is discarded or returned to its location deck."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="3"/>
@@ -504,6 +572,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="d24378d1-26ad-3eef-916c-fe4fcd319c01" name="Fortress of the Towers">
+       <property name="Text" value="Unique. May not be a starting stage card. Playable if you are Alatar, Pallando, or Saruman. Playable on The White Towers. The White Towers is protected. Other Fallen- wizards may not use the Wizardhaven card for The White Towers. Cards that give marshalling points are not playable at the site by your opponent in all cases. Discard this card when the site is discarded or returned to its location deck."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="3"/>
@@ -511,24 +580,28 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="8519cae1-8369-3011-91e4-177ce4fbcc3e" name="Gatherer of Loyalties">
+       <property name="Text" value="Playable if you have more than 3 stage points. Your unique factions are each worth 2 marshalling points. If you are Alatar, your unique Dragon factions are each worth 4 marshalling points. If you are Pallando, your unique factions normally worth 3 or more marshalling points are each worth 3 marshalling points. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="4e517844-84e3-316c-8c61-14489c5e53c2" name="Gnawed Ways">
+       <property name="Text" value="Playable on one of your Deep Mines sites. The Deep Mines site is now adjacent to an Under-deeps site of your choice whose surface site is in a region containing or adjacent to the region containing the Deep Mines surface site. The movement number required to move between these two Under-deeps sites is (7). This card may also be played as a hazard on one of your opponent's Deep Mines sites. Discard this card when Deep Mines is discarded or returned to its location deck. Cannot be duplicated on a given Deep Mines site."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="9896a27b-d107-3236-abeb-276382fb1234" name="Great Patron">
+       <property name="Text" value="Your characters and allies that normally give 2 or more marshalling points are each worth 2 marshalling points. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d6fddc66-c1d6-3d52-a5d0-66d298bc95f8" name="Great Ruse">
+       <property name="Text" value="Playable during the site phase on a Shadow-hold or Dark-hold hero site if you have an overt company there. Replace the hero site card with the corresponding minion site card. Discard when this site is discarded or returned to your location deck."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -536,6 +609,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="b5549baa-f49e-30cc-9f26-22cdf2b44c0b" name="Guarded Haven">
+       <property name="Text" value="Playable on one of your Wizardhavens other than Isengard, The White Towers, or Rhosgobel. The site is protected. Cards that give marshalling points are not playable at the site by your opponent in all cases. Cannot be duplicated on a given site."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -543,18 +617,21 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d75c952d-91aa-3e86-af91-4324cf52ceef" name="Hidden Haven">
+       <property name="Text" value="Playable on a non-Dragon's lair Ruins and Lairs in a Wilderness, Border-land, or Shadow-land ; the site must normally be a Ruins and Lairs. This site becomes one of your Wizardhavens and loses all automatic-attacks. Nothing is considered playable as written on the site card. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="83afa3f9-5656-34ed-942f-6b0a6aaea571" name="Legacy of Smiths">
+       <property name="Text" value="Playable if you have more than 6 stage points. Your non-ring items are each worth full marshalling points. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="2b72dd2b-2ab7-3ccc-adeb-68d4bec5c202" name="Mischief in a Mean Way">
+       <property name="Text" value="Playable during the site phase on a Border-hold site if you have 10 or more stage points. This site becomes one of your Wizardhavens and loses all automatic-attacks. Nothing is considered playable as written on the site. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="2"/>
        <property name="Rarity" value="R3"/>
@@ -562,54 +639,63 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="9d3b515e-fec5-340f-8304-aa55b62586ef" name="Never Refuse">
+       <property name="Text" value="All corruption checks by your non-Wizard characters caused by your magic cards are modified by +2."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d32a17cf-e31d-3dc7-a396-603da22abdc6" name="Plotting Ruin">
+       <property name="Text" value="Playable if you have more than 7 stage points. You must use minion site cards for Hero Havens, Free-holds and Border-holds."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="3"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="5410cc31-02d4-3381-8c95-04d9b71b6308" name="Shameful Deeds">
+       <property name="Text" value="Playable if you are not Alatar and have more than 6 stage points. Hazards with an asterisk [*] attack your companies normally, not as detainment. Such hazards your companies defeat while this card is in play give you full kill marshalling points. You receive no kill marshalling points from other hazards if this card is in play. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="22e440fd-08d0-3c8a-a980-24cc8f8847b6" name="Spells Born of Discord">
+       <property name="Text" value="Your Fallen-wizard may use sorcery, spirit-magic, and shadow-magic. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="f17c2f12-8381-37c6-a511-d4e07bd0a637" name="Thrall of the Voice">
+       <property name="Text" value="Instead of a normal character, during your organization phase you may bring into play one character (including a minion agent) with up to a 6 mind. Place this card with the character. -1 to his mind to a minimum of 1. Such a character may also be in your starting company."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C4"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="c6e5ecba-8d2e-3367-86b1-2fa4c04b97b4" name="War-forges">
+       <property name="Text" value="Playable on one of your protected Wizardhavens (not by Radagast). You may tap War-forges to make an additional non-hoard, non-unique minor item playable at this site this turn (if the site is tapped or not). The item may be taken from your discard pile or sideboard. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="05db4c5f-528d-3e9e-a3da-de58cb725aec" name="Wizard's Myrmidon">
+       <property name="Text" value="Playable on one of your non-Fallen-wizard characters. +1 to his direct influence. The character requires 3 points of influence to control and may only be controlled by general influence or a Fallen-wizard. Cannot be duplicated by a given player."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="C3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="3190e105-be22-3129-a792-071d48ff5d5d" name="Wizard's Trove">
+       <property name="Text" value="You may play The White Tree at one of your Wizardhavens if Sapling of the White Tree is stored there. Place Wizard's Trove with The White Tree - which is worth full marshalling points. Your Wizardhaven becomes protected. Ignore the text of The White Tree. Alternatively, you may store one miscellaneous marshalling point card at one of your Wizardhavens. Any reference to the site where the card can normally be stored are transferred instead to the Wizardhaven. Place Wizard's Trove with the stored card - which is worth full marshalling points."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="d8bb2b6c-4d1d-33b4-baeb-aaf57576b122" name="Greater Half-orcs">
+       <property name="Text" value="Playable at one of your protected Wizardhavens (if tapped or untapped) if you have A Strident Spawn and Half-orcs in play and if the influence check is greater than 11."/>
        <property name="Class" value="Orc Faction"/>
        <property name="MP" value="2"/>
        <property name="Rarity" value="R3"/>
@@ -617,6 +703,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="0ef75241-9f3d-3227-996a-990d005c7227" name="Half-orcs">
+       <property name="Text" value="Playable at one of your protected Wizardhavens (if tapped or untapped) if you have A Strident Spawn in play and if the influence check is greater than 9."/>
        <property name="Class" value="Orc Faction"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -624,6 +711,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="79fce2da-75a9-3b68-b752-9cffde3d02dc" name="Keys of Orthanc">
+       <property name="Text" value="Unique. Playable at Minas Tirith. During your organization phase, you may: take The Fortress of Isen card from your play deck or discard pile to your hand or discard The Fortress of Isen card if in play by another player. Reshuffle your play deck if searched."/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="2"/>
@@ -633,6 +721,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="6224ef5c-ff16-3f78-b392-cf3990d1010e" name="Keys to the White Towers">
+       <property name="Text" value="Unique. Playable at Barrow-downs. During your organization phase, you may: take the Fortress of the Towers card from your play deck or discard pile to your hand or discard the Fortress of the Towers card if in play by another player. Reshuffle your play deck if searched."/>
        <property name="Class" value="Special Item"/>
        <property name="Corruption" value="1"/>
        <property name="MP" value="2"/>
@@ -642,6 +731,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="29073f8a-aa46-3d04-b092-96647910528c" name="Bow of Alatar">
+       <property name="Text" value="Unique. Alatar specific. Place this card on Alatar if he is in play. If on Alatar, you may tap Bow of Alatar to allow him to face a strike from an attack against his company regardless of the attack's normal capabilities and his status. If such a strike fails, the attack's body is reduced by 1."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="R2"/>
@@ -651,6 +741,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="4d2aa81e-94df-3cd9-8b0b-4a0bde4026f0" name="The Great Hunt">
+       <property name="Text" value="Alatar specific. Playable if you are Alatar and have at least 12 stage points. Your opponent reveals cards one at a time from his play deck or his discard pile (your choice). Any hazard creature revealed immediately attacks Alatar's company. This process stops when 5 creatures or all cards of the deck (or pile) have been revealed. Reshuffle play deck if used. Thereafter, your opponent discards face-up. Whenever your opponent discards a creature during your turn, you may choose to have it attack Alatar's company instead. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="R2"/>
@@ -659,6 +750,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="bd641ebe-20dc-301e-a7f0-ae1f741fd179" name="Huntsman's Garb">
+       <property name="Text" value="Unique. Alatar specific. Place this card on Alatar if he is in play. If on Alatar, you may tap Huntsman's Garb during your end-of-turn phase to take Risky Blow, True Fána, or The Hunt from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -668,6 +760,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="8c94ff18-1c21-3e07-9caa-dbaf6541bd1e" name="Join the Hunt">
+       <property name="Text" value="Unique. Alatar specific. Your weapon/shield/ armor/helmet items in Alatar's company are each worth full marshalling points. Your allies with a prowess attribute in Alatar's company are each worth full marshalling points."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -676,6 +769,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="bdf69be9-37d3-3717-9126-421a45950a65" name="Oromë's Warders">
+       <property name="Text" value="Unique. Alatar specific. Playable on Alatar if Join the Hunt is in play. Your weapon/shield/armor/helmet items are each worth full marshalling points. Your allies with a prowess attribute are each worth full marshalling points. Your Elf factions are each worth 2 marshalling points."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="3"/>
@@ -684,6 +778,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="b480a26d-32d5-3ae3-a70a-a108e7d89849" name="Squire of the Hunt">
+       <property name="Text" value="Unique. Alatar specific. Warrior only. Playable on one of your warrior characters at one of your Wizardhavens (or in your starting company). +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Alatar."/>
        <property name="Body" value="+1"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Prowess" value="+1"/>
@@ -694,6 +789,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="5062510c-2db2-354d-9337-a586617800c8" name="Await the Onset">
+       <property name="Text" value="Gandalf specific. Playable if you are Gandalf and have at least: 12 stage points, two protected Wizardhavens, 4 factions, and 6 characters. Each faction you play after Await the Onset is worth 1 marshalling point regardless of other cards in play (place these factions under Await the Onset). Each of your marshalling point cards in a company not in one of your Wizardhavens when the game ends is worth 1 marshalling point regardless of other cards in play. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="5"/>
        <property name="Rarity" value="R2"/>
@@ -702,6 +798,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1de1e162-372b-3492-913b-6d5b930eaf63" name="Chambers in the Royal Court">
+       <property name="Text" value="Gandalf specific. Playable on one of your hero Free-hold sites in play. This site becomes a Wizardhaven for your companies, loses all automatic- attacks against your companies, and is one of Gandalf's home sites. Nothing is considered playable as written on the site card. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise. Cannot be duplicated on a given site."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
@@ -709,6 +806,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1fd08052-ac4a-33aa-8b6a-758e0f4a80d5" name="Gandalf's Friend">
+       <property name="Text" value="Unique. Gandalf specific. Playable on one of your characters at one of your Wizardhavens (or in your starting company). +2 to his direct influence. This character requires 1 point of influence to control and may only be controlled by general influence or Gandalf."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
@@ -717,6 +815,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="89493e51-bc9e-3806-982e-306078cae206" name="Give Welcome to the Unexpected">
+       <property name="Text" value="Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
@@ -725,6 +824,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="658b85ad-42d2-381d-a13a-44f9c9855ed5" name="Grey Embassy">
+       <property name="Text" value="Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, your unique hero factions normally worth 2 or fewer marshalling points are each worth 2 marshalling points. If on Gandalf, your unique hero factions normally worth 3 or more marshalling points are each worth 3 marshalling points."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="3"/>
@@ -733,6 +833,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="60a80dbb-f859-370a-86b1-e18f1f3a3b7a" name="The Grey Hat">
+       <property name="Text" value="Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, you may tap The Grey Hat during your end-of-turn phase to take New Friendship, Wizard's Test, or Hobbit-lore from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -742,6 +843,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="cc0a947c-93a6-39ef-a816-e03a2d51dc6c" name="Ring of Fire">
+       <property name="Text" value="Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, you may tap Ring of Fire during your organization phase to take Narya from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R2"/>
        <property name="Stage Points" value="2"/>
@@ -750,6 +852,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="c8c56fce-9d09-3453-8829-3cd044356b21" name="Arcane School">
+       <property name="Text" value="Pallando specific. Sage only. Playable on a non-Hobbit, non-Dwarf sage at one of your Wizardhavens (or in your starting company). The character may use sorcery, spirit- magic, and shadow-magic. Cannot be duplicated on a given character."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="R3"/>
        <property name="Stage Points" value="1"/>
@@ -757,6 +860,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="470d4f72-24f6-3c63-9b46-526765af039c" name="Pallando's Apprentice">
+       <property name="Text" value="Unique. Pallando specific. Sage only. Playable on a non-Hobbit, non-Dwarf sage character at one of your Wizardhavens (or in your starting company). +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Pallando. This character may tap to use a Palantír he bears."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -765,6 +869,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="714b593d-f4e1-3aab-8989-746ef193b325" name="Pallando's Hood">
+       <property name="Text" value="Unique. Pallando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Pallando's Hood during your end-of-turn phase to take Gifts as Given of Old, Wizard's Voice, or Eyes of Mandos from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -774,6 +879,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="d5b48fe7-a8c2-3123-9f78-9e30afeee323" name="Prophet of Doom">
+       <property name="Text" value="Pallando specific. Playable if you are Pallando and have at least 12 stage points and 5 factions in play. Pallando need not be at the appropriate site when making an influence attempt on an opponent's resource or character. Such an influence check is modified by half (rounded up) of Pallando's unused general influence (to a maximum of 10) instead of his unused direct influence. Subtract from the attempt the number of regions between Pallando's site and the site where the influence attempt would normally be made. Discard if you have fewer than 5 factions in play. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="3"/>
        <property name="Rarity" value="R2"/>
@@ -782,6 +888,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="daff138c-1b8e-3d10-8a92-a260b30be459" name="Stave of Pallando">
+       <property name="Text" value="Unique. Pallando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Stave of Pallando during your end-of-turn phase to take a faction from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="R2"/>
@@ -791,6 +898,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="22e4e2d2-ac39-3b36-b98a-290a38fc8a5a" name="Truths of Doom">
+       <property name="Text" value="Unique. Pallando specific. Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="4"/>
@@ -799,6 +907,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="bb80ae7b-2736-3b9f-9978-fad693644964" name="Friend of Secret Things">
+       <property name="Text" value="Unique. Radagast specific. Your companies with a company size of 2 or less may play allies at tapped sites."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -807,6 +916,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="716875b7-b48b-3f15-9cba-4049bc785841" name="Girdle of Radagast">
+       <property name="Text" value="Radagast specific. Playable on one of your protected Wizardhavens if you are Radagast and have at least 12 SP and 6 allies and/or unique factions in play (the factions must be playable at sites in the Wizardhaven's region or adjacent regions). The Wizardhaven's region and all adjacent regions become Wilderness. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="5"/>
        <property name="Rarity" value="R2"/>
@@ -815,6 +925,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="61e644c0-ff31-310f-93d4-db1abe4ffcc8" name="Glove of Radagast">
+       <property name="Text" value="Unique. Radagast specific. Place this card on Radagast if he is in play. Any non-unique ally with 1 mind (a copy of which he does not already control) is considered playable with Radagast at his site. This ally may be taken from your discard pile or hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="R2"/>
@@ -824,6 +935,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="2fccdf37-bce4-3917-ac68-fd9394e37eaf" name="Master of Shapes">
+       <property name="Text" value="Radagast specific. Shapeshifter. Place this card on Radagast if he is in play. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Warrior/Ranger. Radagast's prowess is only modified by -1 when not tapping to face a strike. Radagast may bear, but may not use items."/>
        <property name="Body" value="10"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="-2"/>
@@ -836,6 +948,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="123467a4-f9b9-3907-a123-62344db182f3" name="Pocketed Robes">
+       <property name="Text" value="Unique. Radagast specific. Place this card on Radagast if he is in play. If on Radagast, you may tap Pocketed Robes during your end-of-turn phase to take Crept Along Cleverly, Wizard's River-horses, or Herb-lore from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="1"/>
@@ -844,6 +957,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="fe0f3143-738d-32a4-8308-c574323f7bcd" name="Radagast's Black Bird">
+       <property name="Text" value="Unique. Radagast specific. Playable at one of your Wizardhavens. You may return Radagast's Black Bird to your hand: during your organization phase or if its controlling character leaves active play. Radagast may play this ally at any site (tapped or untapped) and need not tap himself or the site to do so. This ally may attempt to influence factions as if he were a character. He may cancel a strike directed against him - tapping afterwards if not already tapped."/>
        <property name="Body" value="8"/>
        <property name="Class" value="Scout/Diplomat Ally"/>
        <property name="Influence" value="3"/>
@@ -857,6 +971,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="ab9003a9-96a9-3faf-a998-b17dfa930c11" name="Shifter of Hues">
+       <property name="Text" value="Radagast specific. Shapeshifter. Place this card on Radagast if he is in play. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Warrior/Diplomat. Radagast may not move. You may keep one more card than normal in your hand. Radagast can tap give +2 to the corruption checks of the characters in one company through your next organization phase (this company must be moving with at least one Wilderness in their site path). Radagast may bear, but may not use, items."/>
        <property name="Body" value="10"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="-2"/>
@@ -869,6 +984,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="1e976380-1e2a-376c-9103-2ac45d706e33" name="Winged Change-master">
+       <property name="Text" value="Radagast specific. Shapeshifter. Place this card on Radagast if he is in play. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Scout/Diplomat. If no other characters or allies (except his Black Bird) are in his company: Radagast may move to a new site with no region card maximum, he has no site path, and he is considered to move through no regions. Radagast may bear, but may not use, items."/>
        <property name="Body" value="9"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="-2"/>
@@ -881,6 +997,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="2e51893a-0b53-3db3-ab36-80abb32c1cfb" name="The Forge-master">
+       <property name="Text" value="Unique. Saruman specific. Playable on a non-Hobbit sage character or a Man. +1 to his direct influence. The character requires 2 points of influence to control and may only be controlled by general influence or Saruman. If at a Wizardhaven during your organization phase, you may tap this character to place a non-unique weapon/armor/ shield/helmet minor item with any character at The Forge-master's site. The recipient need not tap to receive this item, and the item may be taken from your discard pile, sideboard, or hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -889,6 +1006,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="0ae81636-471e-3f2e-a589-d702bfe589e0" name="Many-coloured Robes">
+       <property name="Text" value="Unique. Saruman specific. Place this card on Saruman if he is in play. If on Saruman, he may tap during his end-of-turn phase to take Ringlore, Lordly Presence, or First of the Order from his discard pile to his hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="U3"/>
@@ -898,6 +1016,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="08b6fe36-6268-34ed-9e43-75de4b772196" name="Man of Skill">
+       <property name="Text" value="Unique. Saruman specific. Your permanent-events that require a site where Information is playable are each worth 2 marshalling points."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="U3"/>
        <property name="Stage Points" value="2"/>
@@ -906,6 +1025,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="03a5f88c-842e-397b-afbd-cef7dd2353b7" name="Saruman's Machinery">
+       <property name="Text" value="Saruman specific. Playable, if you are Saruman, on your protected Isengard or your protected The White Towers. One Technology item is playable at the site during your site phase whether the site is tapped or untapped. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site."/>
        <property name="Class" value="Permanent-event"/>
        <property name="MP" value="1"/>
        <property name="Rarity" value="R3"/>
@@ -914,6 +1034,7 @@
        <property name="Type" value="Stage Resource"/>
     </card>
     <card id="84e90c31-f9c9-3bca-8edd-dba91b87820d" name="Saruman's Ring">
+       <property name="Text" value="Unique. Saruman specific. Place this card on Saruman if he is in play. If on Saruman, you may tap Saruman's Ring during your end-of-turn phase to take a ring item (other than The One Ring) from your discard pile to your hand."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="R2"/>
@@ -923,6 +1044,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="10e60b4c-6cbb-3816-8c9c-4412ffbf421e" name="The White Hand">
+       <property name="Text" value="Saruman specific. Playable on Saruman if he has the following in play: at least 12 stage points, at least 3 factions, A Strident Spawn, and Saruman's Machinery. Cannot be duplicated."/>
        <property name="Body" value="0"/>
        <property name="Class" value="Permanent-event"/>
        <property name="Influence" value="+2"/>

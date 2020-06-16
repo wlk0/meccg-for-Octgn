@@ -2,22 +2,26 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Promotional" id="a9968f3f-4bf8-3157-9e2d-58960183e9ba" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
   <cards>
     <card id="ccedebd3-07a7-33a6-92d9-868899f4c386" name="Fury of the Iron Crown">
+       <property name="Text" value="Unique. May not be played if The Iron Crown is in play. The prowess of one strike of an attack by an Orc, Troll, Man, or Nazgul creature is increased by +4. After the attack is resolved, if the creature is not a Nazgul: the creature is removed from play (defender receives the marshalling points); and, in addition, if the defender has The Iron Crown in his hand, he may immediately play it with a character in the defending company."/>
        <property name="Class" value="Short-event"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hazard"/>
        <property name="Unique" value="yes"/>
     </card>
     <card id="1e6df58d-7459-3146-ba85-00ff9b28207e" name="Angmar Arises">
+       <property name="Text" value="Any creature that can be keyed to a Shadow-land {s} may be keyed to Forochel, Arthedain, Gundabad, or Rhudaur. Any creature that can be keyed to a Dark-domain {d} may be keyed to Angmar or Gundabad. Discard this card when a creature keyed to one of these regions (not to the region symbol) is defeated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="2fae2942-2857-3c28-ae09-03d8d1dea1be" name="Never Seen Him">
+       <property name="Text" value="Playable on an agent. Target agent may take an extra agent action (which does not count against the hazard limit) each time he normally takes an agent action. Cannot be duplicated on a given agent."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="1abc1e9e-7643-33e1-8cf5-68947df91886" name="Neeker-breekers">
+       <property name="Text" value="Animals. Does not effect Wizards. Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped intstead - no body checks are made."/>
        <property name="Body" value="-"/>
        <property name="Class" value="Creature"/>
        <property name="MP" value="1"/>
@@ -29,27 +33,32 @@
        <property name="Type" value="Hazard"/>
     </card>
     <card id="aaa16c65-eb5d-34b6-81c8-193e9907055c" name="Black Arrow">
+       <property name="Text" value="Warrior only. Tap Black Arrow to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard it if its bearer is not a Man."/>
        <property name="Class" value="Minor Item"/>
        <property name="Corruption" value="1"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="aa64148c-e253-3400-9967-295f537c0978" name="More Alert than Most">
+       <property name="Text" value="The number of strikes of any attack that chooses defending characters is reduced by one (to a minimum of one) - by two if Gates of Morning is in play. Discard when such attack is defeated. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hero Resource"/>
     </card>
     <card id="0f53c245-aa27-33c8-a63b-87489f735943" name="Ireful Flames">
+       <property name="Text" value="Affects the following sites: The Loney Mountain, Irerock, Zarak Dum, and Gold Hill. For any item to be played at one of these sites, its player must remove an item in his hand from play that would itself be playable at the site. Cannot be revealed as an on-guard card. Discard Ireful Flames when any play deck is exhausted."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="31d3da9b-7a75-34e7-8b29-8938f6c1666c" name="Stormcrow">
+       <property name="Text" value="The direct influence of each Wizard is reduced by 2 (by 4 if Doors of Night is in play). Discard all resource permanent-events that have been played on each company with a Wizard (i.e., on the company as a whole, not individual characters, e.g., Fellowship). No such cards may be played on each Wizard's company. Discard this card when any play deck is exhausted. Cannot be duplicated."/>
        <property name="Class" value="Permanent-event"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Hazard"/>
     </card>
     <card id="f3fff9e1-c18f-37e0-8b29-7837ee11e7cf" name="Fatty Bolger">
+       <property name="Text" value="Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another hobbit in his company."/>
        <property name="Body" value="8"/>
        <property name="Corruption" value="+1"/>
        <property name="Home Site" value="Bag End"/>
@@ -64,6 +73,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="9b9021ed-04e7-3f74-8b05-82d204731c92" name="Bill Ferny">
+       <property name="Text" value="Unique."/>
        <property name="Agent" value="yes"/>
        <property name="Body" value="8"/>
        <property name="Home Site" value="Bree, Cameth Brin"/>
@@ -78,6 +88,7 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="3410f00b-66bd-3760-9734-0564d99ad6ca" name="The Arkenstone">
+       <property name="Text" value="Unique. +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all non-follower cards he controls)."/>
        <property name="Class" value="Greater Item"/>
        <property name="Corruption" value="3"/>
        <property name="Influence" value="(+5)"/>
@@ -87,12 +98,14 @@
        <property name="Unique" value="yes"/>
     </card>
     <card id="8e05844c-5520-321a-830e-291f85fe0ef6" name="Deadly Dart">
+       <property name="Text" value="Scout only. Tap Deadly Dart to give -1 body and -1 strike (to a minimum of one) to an automatic-attack or to a hazard creature keyed to a site. Tap its bearer or discard Deadly Dart when it is tapped. May also be used as a hero resource (i.e., included in a Wizard's deck), but may not be included with a hero starting company."/>
        <property name="Class" value="Minor Item"/>
        <property name="Corruption" value="2"/>
        <property name="Rarity" value="P"/>
        <property name="Type" value="Minion Resource"/>
     </card>
     <card id="09ff985a-6d87-3c67-ae7d-84aecdab1aea" name="The Iron Crown">
+       <property name="Text" value="Unique. Whenever bearer makes an influence check, he must also make a corruption check. If the bearer is not a Hobbit: he receives +1 to body to a maximum of 10; he receives +4 to direct influence; and he may tap The Iron Crown to cancel an attack by Orcs, Trolls, or Men against his company."/>
        <property name="Body" value="(+1)"/>
        <property name="Class" value="Greater Item"/>
        <property name="Corruption" value="5"/>
