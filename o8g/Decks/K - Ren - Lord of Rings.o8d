@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="1" id="4bacb616-76ea-3496-8f3e-792bcfb67858">Arouse Defenders</card>
+    <card qty="1" id="3443fb70-db2a-3715-b17e-68ad6d3dad0e">Arthadan Rangers</card>
+    <card qty="1" id="c8ed0ab3-71aa-3154-b443-e6e7bd67f7d5">Awaken Defenders</card>
+    <card qty="2" id="49cb88e2-ccd2-3d5f-bb46-52200df70e46">Awaken Minions</card>
+    <card qty="3" id="997ea9f5-e23d-37d2-aa5c-5fe1a3b1d976">Doors of Night</card>
+    <card qty="3" id="4029ed5d-a2fa-3d90-8799-976a1fc75fb6">FEAR! FIRE! FOES!</card>
+    <card qty="2" id="aa28bb3e-99ac-338d-8f94-0ac48bc310e5">Fell Winter</card>
+    <card qty="1" id="18514b88-fdd8-38f2-9d60-2a1a915d3e08">Ghosts</card>
+    <card qty="3" id="790dcb62-1214-3863-b8e5-7dbff54e9316">Incite Denizens</card>
+    <card qty="1" id="88cef47b-ae1e-3185-b4c9-2d9c298e0fcb">Nameless Thing</card>
+    <card qty="3" id="18d0354f-4e03-3675-9a8b-7d260f5d5e42">Sellswords Between Charters</card>
+    <card qty="3" id="144ee162-271f-3d9c-a504-3b6de701bfca">Slayer</card>
+    <card qty="3" id="82faa0fb-52e2-3869-a096-372fd0281c48">True Fire-drake</card>
+    <card qty="3" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="01cf8312-d6cd-3f49-9f2e-1f4de2adedee">Asternak</card>
+    <card qty="1" id="e999901e-d9fd-3192-acb6-1de41d5d7ba8">Eradan</card>
+    <card qty="1" id="6d62300a-6552-3118-a1fe-d165a8ecd035">Hador</card>
+    <card qty="1" id="21642231-6f74-323c-96c7-8f90643cb412">Jerrek</card>
+    <card qty="1" id="c7c96bb9-6f07-3b91-8233-309f1ce21878">Luitprand</card>
+    <card qty="1" id="9d9cd12b-de2f-3871-a78a-702f49c09f04">Mîonid</card>
+    <card qty="1" id="a1b7b3b8-5e74-3ea0-8dbd-7c4f6cf69d45">Odoacer</card>
+    <card qty="1" id="c24d8f59-44ec-31fb-8967-e5dc11eb33b7">Pon Opar</card>
+    <card qty="3" id="6b5751cf-9f4c-3f35-a446-2101468ae61a">Ren the Ringwraith</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="2" id="cf905294-0790-3e48-852a-bb87434f7ea9">Bright Gold Ring</card>
+    <card qty="2" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="3" id="3c65297e-a8cd-39a7-a587-42360c4c4bf4">Dark Tryst</card>
+    <card qty="1" id="ef86d741-a37b-3f30-8883-3ac1377ea34d">Dwarven Ring of Thélor's Tribe</card>
+    <card qty="2" id="8a6c9f49-13aa-39be-a27d-9d10cc28b907">Gold Ring that Sauron Fancies</card>
+    <card qty="2" id="bb97da9f-fe58-3cd3-ad6e-1151cf4dc101">Minor Ring</card>
+    <card qty="3" id="d233e5de-8a86-33c0-ae90-4b94be4cbca7">Not Slay Needlessly</card>
+    <card qty="2" id="07ff1d79-2950-3630-a05d-bf90d336bca7">Orc Quarrels</card>
+    <card qty="1" id="7085098b-aa11-36f8-8617-37d5d1986100">Palantír of Orthanc</card>
+    <card qty="1" id="237e3bc3-3d0b-35a5-8cb1-79297484d175">Scroll of Isildur</card>
+    <card qty="2" id="23c1c9ed-200f-37d9-bf7e-f16e042b4ca9">Secrets of Their Forging</card>
+    <card qty="2" id="4102636c-a3f2-3cb4-98a4-5d81ef373196">Test of Fire</card>
+    <card qty="1" id="ada62d5a-f319-3664-a098-1b285891f9a3">The Oracle's Ring</card>
+    <card qty="2" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+    <card qty="3" id="1970c08f-6460-3b8d-8331-74a429934eb7">War-wolf</card>
+    <card qty="1" id="61ab1b8a-517a-3426-9347-76c253fca007">Woodmen</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="578f9283-2c30-32b7-ae8c-0373a94e6003">Drór</card>
+    <card qty="1" id="3fd87e3d-1636-36e1-b048-3dc438e911a0">Gulla</card>
+    <card qty="1" id="a39e6e41-9795-328f-bf64-48eb24b1b105">Layos</card>
+    <card qty="1" id="9b83f1d3-6992-3180-9365-73dc36c29fc3">Súrion</card>
+    <card qty="2" id="514869ec-d6d1-37a6-8061-106f4e52e85f">Open to the Summons</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="1" id="2630ad34-eb42-3b08-80cc-6c16ee142ca4">Cave Worm</card>
+    <card qty="1" id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2">Eärcaraxë Ahunt</card>
+    <card qty="1" id="93b361c0-a288-395e-ab49-aeef324fc9b1">Foolish Words</card>
+    <card qty="1" id="69202c3d-42eb-3f5e-9df6-327932494398">Itangast Ahunt</card>
+    <card qty="1" id="b863d96a-2bcb-3dc7-b971-a3ff02bb7ab7">Lost in Free-domains</card>
+    <card qty="1" id="b0c425f3-fc19-338c-80ed-951aca963383">Muster Disperses</card>
+    <card qty="1" id="9c414e83-cc7b-331d-8b7c-e73a558bbd60">New Moon</card>
+    <card qty="1" id="e57ec7c6-dcdc-3936-bc43-9aa2336af04f">Withered Lands</card>
+    <card qty="1" id="b929ac02-56e4-3b59-b32d-8795cd362278">Bade to Rule</card>
+    <card qty="1" id="cfa1ba0f-b869-339e-9a34-3483e3e45e22">Bold Thrust</card>
+    <card qty="1" id="26d1c5a8-6da6-3184-9990-0319b86acbb3">Gifts as Given of Old</card>
+    <card qty="1" id="bb97da9f-fe58-3cd3-ad6e-1151cf4dc101">Minor Ring</card>
+    <card qty="1" id="d7e63140-997c-34df-9eff-aa631520187f">Piercing All Shadows</card>
+    <card qty="1" id="5433b411-9a6a-3368-8cad-f7a238a7492d">Rumor of the One</card>
+    <card qty="1" id="d8a7065b-72ca-31a9-8ddd-5b32eb1f8975">Southrons</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="1" id="36e61658-7f84-3133-a976-705a748f746c">Swift Strokes</card>
+    <card qty="1" id="69b7dc50-80a1-3b2b-b9c5-92332e229c76">Trifling Ring</card>
+    <card qty="1" id="77912b34-fb80-334e-b5d3-89e7f057e691">Variags of Khand</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="aa7c6087-05c4-3ef9-8eb3-c38880273b5b">Amon Hen</card>
+    <card qty="1" id="bf76e3d4-bcf6-3cb5-a8c7-f1d41e969e76">Bandit Lair</card>
+    <card qty="1" id="caecac3e-92cf-39d0-b459-07185f04ce37">Beorn's House</card>
+    <card qty="1" id="865116c3-4b90-3107-a1ac-00a7b1bef4f6">Dimrill Dale</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="77258cc3-1957-3b83-81b9-45428cdb4075">Edoras</card>
+    <card qty="1" id="423d77aa-3e93-331e-9610-c62c85acece5">Gladden Fields</card>
+    <card qty="1" id="24c507cc-965e-365f-b556-90adc738358c">Isengard</card>
+    <card qty="1" id="738a3c1a-f0ca-3e0d-a9d1-e3feead77665">Minas Morgul</card>
+    <card qty="1" id="8fef7be1-598b-36e4-9e38-dbd7c65607e1">Moria</card>
+    <card qty="1" id="d521227c-8a25-3397-b9c7-18ed5209f2d6">Southron Oasis</card>
+    <card qty="1" id="7b992fa5-40e9-3e82-8900-8a5f7ff21a22">Variag Camp</card>
+    <card qty="1" id="061c0e26-43ca-3231-954a-41f19244d15f">Woodmen-town</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

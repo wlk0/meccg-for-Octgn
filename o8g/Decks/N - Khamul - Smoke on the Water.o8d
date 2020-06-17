@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="3" id="8711d7ba-9041-32bd-9cca-513b2ff82464">Chill Douser</card>
+    <card qty="3" id="7a44d71f-f8cb-38f8-90af-4dfc0caaebe8">Enchanted Stream</card>
+    <card qty="2" id="30793cc3-196c-318b-8226-7966d8ce89ef">Exhalation of Decay</card>
+    <card qty="3" id="9a2de19d-94c8-3a3d-b0b1-70e3af4d159e">Foolish Words</card>
+    <card qty="3" id="1abc1e9e-7643-33e1-8cf5-68947df91886">Neeker-breekers</card>
+    <card qty="3" id="de6ea4ac-6691-3814-b171-df0cea388b87">River</card>
+    <card qty="2" id="44850f96-0f45-3053-9a78-f16c9e6f5d34">Shut Yer Mouth</card>
+    <card qty="3" id="144ee162-271f-3d9c-a504-3b6de701bfca">Slayer</card>
+    <card qty="3" id="31ca9b52-d1a0-3299-8308-64f238261364">The Moon Is Dead</card>
+    <card qty="3" id="c81595b9-b5b2-329e-a7d0-302c94bd5d5f">Wisp of Pale Sheen</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="3" id="bf08de3e-cb8b-3ec2-ab81-1c5cb0cd22b1">Khamûl the Ringwraith</card>
+    <card qty="1" id="5877562a-28c8-3d91-95bc-3f32c1b701d7">Lagduf</card>
+    <card qty="1" id="0d81c9a0-0e75-3c7c-bb9e-219321245d89">Muzgash</card>
+    <card qty="2" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="2" id="82e91db5-e927-36e8-873a-51395a7c2871">Orc Tracker</card>
+    <card qty="1" id="e541a98e-5cae-3561-a6da-54d74c8459a4">Orc Veteran</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="1" id="a6b3b0be-8c74-3251-9a20-8b55b3897d35">Blackbole</card>
+    <card qty="3" id="cfa1ba0f-b869-339e-9a34-3483e3e45e22">Bold Thrust</card>
+    <card qty="3" id="847d1e3c-be72-3934-abd8-78b9cb7ca453">Broad-headed Spear</card>
+    <card qty="3" id="0aeed231-ab16-334c-b216-83fe50460513">Burning Rick, Cot, and Tree</card>
+    <card qty="3" id="3c65297e-a8cd-39a7-a587-42360c4c4bf4">Dark Tryst</card>
+    <card qty="2" id="02d20ef0-8dbe-3b3c-b513-6c6b7c95c172">Fell Rider</card>
+    <card qty="1" id="0c3cd77c-84d8-3ed1-b1f1-40fb664a6f9d">Forced March</card>
+    <card qty="1" id="79415d18-d3e6-3986-9427-8fc15bdbcf75">Grey Mountain Goblins</card>
+    <card qty="1" id="8db1b2e8-8bae-3f95-973b-da76b3ea542a">High Helm</card>
+    <card qty="2" id="8b707789-f2c8-34c8-b137-e4c83af83c1a">I'll Be At Your Heels</card>
+    <card qty="1" id="838ae1ce-b5a1-37fa-a503-aa414dda233b">Orcs of Gundabad</card>
+    <card qty="1" id="1f25afba-5ef2-334b-977d-afe99ba35af3">Sable Shield</card>
+    <card qty="1" id="ea6d66b9-0c01-33c7-988e-07fc41de975e">Smoke on the Wind</card>
+    <card qty="3" id="36e61658-7f84-3133-a976-705a748f746c">Swift Strokes</card>
+    <card qty="2" id="cfae5e81-c3eb-3411-a0e9-ece27eebd078">Under His Blow</card>
+    <card qty="2" id="775b9e21-3613-39af-8305-8a6b521172b1">Weigh All Things to a Nicety</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="5a578b54-66ca-39b4-814a-4a7d41ee3082">Lieutenant of Angmar</card>
+    <card qty="1" id="e541a98e-5cae-3561-a6da-54d74c8459a4">Orc Veteran</card>
+    <card qty="1" id="63d34b87-7c8a-3696-aadc-b49143f6869b">Shagrat</card>
+    <card qty="1" id="1b1dab44-e756-3c41-b1b4-073234c71d47">Troll Lout</card>
+    <card qty="1" id="bc4edd5c-6ccf-3c7e-b0a6-df79612ab719">Foul-smelling Paste</card>
+    <card qty="1" id="3501f0be-253b-3520-b84a-5ea1e5103060">Orders from Lugbúrz</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="b72702a5-0960-3082-ae62-288d60d73131">Alone and Unadvised</card>
+    <card qty="1" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="1" id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2">Eärcaraxë Ahunt</card>
+    <card qty="1" id="69202c3d-42eb-3f5e-9df6-327932494398">Itangast Ahunt</card>
+    <card qty="1" id="b863d96a-2bcb-3dc7-b971-a3ff02bb7ab7">Lost in Free-domains</card>
+    <card qty="1" id="42eabe0f-64ed-3da2-948f-0cba747e3694">Searching Eye</card>
+    <card qty="1" id="f3a1a8a0-18f8-3fea-9435-23ea3b06395e">Black Mace</card>
+    <card qty="1" id="02d20ef0-8dbe-3b3c-b513-6c6b7c95c172">Fell Rider</card>
+    <card qty="1" id="0c3cd77c-84d8-3ed1-b1f1-40fb664a6f9d">Forced March</card>
+    <card qty="1" id="26d1c5a8-6da6-3184-9990-0319b86acbb3">Gifts as Given of Old</card>
+    <card qty="1" id="99774b24-6552-37c8-a4f3-785de2defe58">I'll Report You</card>
+    <card qty="1" id="bc53536f-f3b9-384e-92e3-cf10bb913f83">Mechanical Bow</card>
+    <card qty="1" id="6a935303-8975-3e78-8b62-b8e82b049865">Orcs of Mirkwood</card>
+    <card qty="1" id="d7e63140-997c-34df-9eff-aa631520187f">Piercing All Shadows</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="2" id="e8eed917-0e38-3d51-a853-3455115072ff">The Ring Leaves Its Mark</card>
+    <card qty="1" id="cfae5e81-c3eb-3411-a0e9-ece27eebd078">Under His Blow</card>
+    <card qty="1" id="1970c08f-6460-3b8d-8331-74a429934eb7">War-wolf</card>
+    <card qty="1" id="61ab1b8a-517a-3426-9347-76c253fca007">Woodmen</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="3939bd8b-93a1-37b5-b1ac-960e5e508e13">Buhr Widu</card>
+    <card qty="1" id="5a9d0ad6-13c6-375f-b04c-6bce8e9089be">Cameth Brin</card>
+    <card qty="1" id="229324ef-f0fb-38c9-aa37-bd3894c18308">Carn Dûm</card>
+    <card qty="1" id="b25adb22-f5af-3213-bebf-91f763e3b242">Dead Marshes</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="3d88510e-2efb-3653-9d04-ccd1c0e600ab">Eagles' Eyrie</card>
+    <card qty="1" id="8662a4b1-1e14-3278-b4c8-1f8dc24fbe0f">Gondmaeglom</card>
+    <card qty="1" id="24c507cc-965e-365f-b556-90adc738358c">Isengard</card>
+    <card qty="1" id="8fef7be1-598b-36e4-9e38-dbd7c65607e1">Moria</card>
+    <card qty="1" id="360b4a21-ae91-3ec6-9907-563fba326f57">Mount Gundabad</card>
+    <card qty="1" id="ba2a23c6-0792-35f8-9d83-e72dd93d5bf7">Raider-hold</card>
+    <card qty="1" id="fe395430-ff82-3fea-ad4c-411e22cfbb84">Sarn Goriwing</card>
+    <card qty="1" id="577ad752-3cce-3fcb-9f8d-a4ebee3f0d9d">Shrel-Kain</card>
+    <card qty="1" id="061c0e26-43ca-3231-954a-41f19244d15f">Woodmen-town</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
