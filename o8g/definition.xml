@@ -4,7 +4,7 @@
 	name="Middle-earth Collectible Card Game"
 	id="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2"
 	octgnVersion="3.4.225.0"
-	version="0.9.0.3"
+	version="0.9.0.4"
 	scriptVersion ="3.1.0.2"
 	markersize="16"
 	tags="MECCG"
@@ -76,8 +76,9 @@
 	<table name="Table" visibility="undefined" ordered="False" width="1150" height="536" background="background/background.jpg" backgroundStyle="uniformToFill">
 		<cardaction menu="Tap/Untap" default="True" shortcut="F7" execute="tapuntap" />
 		<cardaction menu="Wound/Heal" showIf="isCharacter" default="False" shortcut="F8" execute="woundheal" />
-		<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
 		<cardaction menu="Flip Card" default="False" shortcut="ctrl+F" execute="flipcard" />
+		<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
+		<cardaction menu="Remove from game" default="False" shortcut="" execute="removefromgame" />
 		<groupaction menu="Untap all" default="False" shortcut="ctrl+U" execute="untapall" />
 		<groupaction menu="Make a roll" default="False" shortcut="ctrl+R" execute="roll2D6" />
 		<groupaction menu="Next Phase" default="False" shortcut="tab" execute="nextphase" />
@@ -93,31 +94,35 @@
 			<groupaction menu="Add cards from Collection" default="False" shortcut="ctrl+A" execute="createCard" />
 		</groupactions>
 		<groupactions menu="* DEBUG *">
-			<groupaction menu="Select Region" default="False" shortcut="ctrl+Q" execute="selectRegion" />
+			<groupaction menu="Select Region" default="False" shortcut="" execute="selectRegion" />
 			<groupaction menu="Create Map File" default="False" shortcut="" execute="createRegionMapFile" />
-			<groupaction menu="Convert GCCG Deck" default="False" shortcut="ctrl+G" execute="convertDeck" />
+			<groupaction menu="Convert GCCG Deck" default="False" shortcut="" execute="convertDeck" />
 		</groupactions>
  	</table>
 	<player summary="">
 		<group name="Hand" visibility="me" ordered="False" icon="groups/hand.png" viewState="expanded">
 			<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
+			<cardaction menu="Play face down" default="False" shortcut="" execute="playfacedown" />
 		</group>
 		<group name="Play Deck" visibility="none" ordered="True" icon="groups/player.png" viewState="pile">
 			<groupaction menu="Shuffle" default="False" shortcut="ctrl+W" execute="shuffle" />
 			<groupaction menu="Draw" default="True" shortcut="ctrl+D" execute="draw" />
 		</group>
-		<group name="Discard Pile" visibility="none" ordered="False" icon="groups/discard.png" collapsed="True">
+		<group name="Discard Pile" visibility="me" ordered="False" icon="groups/discard.png" collapsed="True">
 			<groupaction menu="Shuffle into Deck" default="False" execute="shufflepileintodeck" />
 		</group>
-		<group name="Location Deck" visibility="me" ordered="False" icon="groups/player.png" collapsed="True">
-			<groupaction menu="Look at sites" default="True" shortcut="ctrl+S" execute="lookAtLocationDeck" />
+		<group name="Location Deck" visibility="me" ordered="False" icon="groups/sites.png" collapsed="True">
+			<groupaction menu="Look at Location Deck" default="True" shortcut="ctrl+S" execute="lookAtLocationDeck" />
+			<groupaction menu="Add sites from collection" default="False" shortcut="ctrl+Q" execute="createSite" />
 		</group>
 		<group name="Sideboard" visibility="me" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
 			<groupaction menu="Look at siteboard" default="True" shortcut="ctrl+X" execute="lookAtSideboard" />
 		</group>
-		<group name="Out-of-play Pile" visibility="all" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
+		<group name="FW Sideboard" visibility="me" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
 		</group>
-		<group name="Marshalling Point Pile" visibility="all" ordered="False" icon="groups/player-sideboard.png" collapsed="True">
+		<group name="Out-of-play Pile" visibility="all" ordered="False" icon="groups/discard.png" collapsed="True">
+		</group>
+		<group name="Marshalling Point Pile" visibility="all" ordered="False" icon="groups/player.png" collapsed="True">
 		</group>
 	</player>
 	<deck>
@@ -127,5 +132,6 @@
 		<section name="Hazards" group="Play Deck" />
 		<section name="Sites" group="Location Deck" />
 		<section name="Sideboard" group="Sideboard" />
+		<section name="FW Sideboard" group="FW Sideboard" />
 	</deck>
 </game>

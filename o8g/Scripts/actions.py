@@ -20,6 +20,12 @@ def discard(card, x=0, y=0):
 	else:
 		card.moveTo(card.owner.piles['Discard Pile'])
 
+def playfacedown(card, x=0, y=0):
+	card.moveToTable(x,y,True)
+
+def removefromgame(card, x=0, y=0):
+	card.delete()
+
 def shufflepileintodeck(group):
 	mute()
 	for c in group:
@@ -69,6 +75,13 @@ def flipcard(card, x = 0, y = 0):
 def createCard(group=None, x=0, y=0):
 	cardID, quantity = askCard()
 	cards = table.create(cardID, x, y, quantity, True)
+
+def createSite(group=None, x=0, y=0):
+	notify("{} searches for a site in collection".format(me))
+	cardID, quantity = askCard({"Type":["Hero Site","Minion Site","Balrog Site","Fallen-wizard Site"]})
+	if cardID != None:
+		site = me.piles['Location Deck'].create(cardID, 1)
+		site.moveToTable(x,y,True)
 
 def isCharacter(cards,x=0,y=0):
 	for c in cards:
