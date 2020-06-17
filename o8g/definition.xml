@@ -4,7 +4,7 @@
 	name="Middle-earth Collectible Card Game"
 	id="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2"
 	octgnVersion="3.4.225.0"
-	version="0.9.0.4"
+	version="0.9.0.5"
 	scriptVersion ="3.1.0.2"
 	markersize="16"
 	tags="MECCG"
@@ -82,6 +82,7 @@
 		<groupaction menu="Untap all" default="False" shortcut="ctrl+U" execute="untapall" />
 		<groupaction menu="Make a roll" default="False" shortcut="ctrl+R" execute="roll2D6" />
 		<groupaction menu="Next Phase" default="False" shortcut="tab" execute="nextphase" />
+		<groupaction menu="Previous Phase" default="False" shortcut="ctrl+tab" execute="previousphase" />
 		<cardactions menu="Add/Remove Token">
 			<cardaction menu="Add Red Token" default="False" shortcut="F1" execute="addRedToken" />
 			<cardaction menu="Add Green Token" default="False" shortcut="F2" execute="addGreenToken" />
@@ -91,7 +92,8 @@
 			<cardaction menu="Remove Blue Token" default="False" shortcut="ctrl+F3" execute="subBlueToken" />
 		</cardactions>
 		<groupactions menu="Advanced">
-			<groupaction menu="Add cards from Collection" default="False" shortcut="ctrl+A" execute="createCard" />
+			<groupaction menu="Add sites from collection" default="False" shortcut="ctrl+Q" execute="createSite" />
+			<groupaction menu="Add cards from collection" default="False" shortcut="ctrl+A" execute="createCard" />
 		</groupactions>
 		<groupactions menu="* DEBUG *">
 			<groupaction menu="Select Region" default="False" shortcut="" execute="selectRegion" />

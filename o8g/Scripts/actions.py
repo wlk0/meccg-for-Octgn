@@ -106,6 +106,15 @@ def nextphase(group, x=0, y=0):
 	else:
 		setPhase(phaseId+1)
 
+def previousphase(group, x=0, y=0):
+	if turnNumber() == 0:
+		nextTurn()
+		setPhase(1)
+		return
+	phaseName, phaseId = currentPhase()
+	if phaseId > 1:
+		setPhase(phaseId-1)
+
 def lookAtLocationDeck(group, x = 0, y = 0):
 	me.piles['Location Deck'].lookAt(-1, True)
 
