@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Characters" shared="False">
+    <card qty="3" id="bf1cf131-744d-35c2-ad7e-20f5d724b4a0">Saruman</card>
+    <card qty="1" id="878ef131-55c6-3e76-810c-2d761c274bdc">Annalena</card>
+    <card qty="1" id="efd3006a-d872-3f12-a830-1befd0a2a2ef">Baugúr</card>
+    <card qty="1" id="6ba55189-aa5e-3c95-9777-0871f23a29aa">Dorelas</card>
+    <card qty="1" id="a39e6e41-9795-328f-bf64-48eb24b1b105">Layos</card>
+    <card qty="1" id="93186697-4627-3e4f-8757-7f30470f625e">Vôteli</card>
+    <card qty="2" id="6670065a-c4ea-37e2-b68f-06b40a5eb479">Ill-favoured Fellow</card>
+  </section>
+  <section name="Hazards" shared="False">
+    <card qty="2" id="b0a6f67a-d46f-302d-aa6d-0ab5fed00f5d">Ambusher</card>
+    <card qty="1" id="55f7c218-6da2-3829-a5e0-3d8b8740df3d">Bairanax Ahunt</card>
+    <card qty="2" id="51235da8-abab-3374-be1f-d9f0fcd9a990">Barrow-wight</card>
+    <card qty="2" id="ac07e95b-35d8-3796-8ef1-24abcbc61339">Cave-drake</card>
+    <card qty="2" id="0a9f7c9d-2b2c-3bb3-a10b-1511d0f09006">Corsairs of Umbar</card>
+    <card qty="1" id="69202c3d-42eb-3f5e-9df6-327932494398">Itangast Ahunt</card>
+    <card qty="2" id="831ede4a-35f6-32a6-9155-886d37390c34">Old Man Willow</card>
+    <card qty="1" id="e60663dd-baf6-3fbc-894c-35acd1926248">Orc-watch</card>
+    <card qty="2" id="23b17c76-a261-388d-b9c5-2017ed896a89">Slayer</card>
+    <card qty="2" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="1" id="6ae1f130-e895-3c75-a46e-a5e7017b5f45">Eyes of the Shadow</card>
+    <card qty="2" id="93b361c0-a288-395e-ab49-aeef324fc9b1">Foolish Words</card>
+    <card qty="1" id="92d50c34-461f-3b37-8b7d-b8a7b550f206">No Way Forward</card>
+    <card qty="1" id="e5e57ffe-0128-3d63-9103-58ae1e08e78e">Power Built by Waiting</card>
+    <card qty="1" id="aa3ef451-6000-353e-9257-5b49c4b5fe05">Redoubled Force</card>
+    <card qty="3" id="99191db1-a1e7-3e49-817d-651bbaa6c582">River</card>
+    <card qty="1" id="4bd68b27-051d-3d7b-8db5-736cea6b0693">Troll-purse</card>
+    <card qty="3" id="2b16eb12-a502-3c63-ad6b-bdcbfc5d3a6b">Twilight</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="1" id="5febd799-b0f9-317f-b8f3-54d64e4cf26c">Misty Mountain Wargs</card>
+    <card qty="1" id="9e27ef9d-7b26-3a3d-a470-cd9e0e23e0a5">Stone Trolls</card>
+    <card qty="2" id="44dc16db-b5a3-37a3-b652-779faad0c14e">That Ain't No Secret</card>
+    <card qty="3" id="1349f2cb-07ce-348d-a7d9-a9be6f4e06a7">Double-dealing</card>
+    <card qty="1" id="d24378d1-26ad-3eef-916c-fe4fcd319c01">Fortress of the Towers</card>
+    <card qty="1" id="8519cae1-8369-3011-91e4-177ce4fbcc3e">Gatherer of Loyalties</card>
+    <card qty="1" id="9896a27b-d107-3236-abeb-276382fb1234">Great Patron</card>
+    <card qty="1" id="b5549baa-f49e-30cc-9f26-22cdf2b44c0b">Guarded Haven</card>
+    <card qty="1" id="08b6fe36-6268-34ed-9e43-75de4b772196">Man of Skill</card>
+    <card qty="1" id="2e51893a-0b53-3db3-ab36-80abb32c1cfb">The Forge-master</card>
+    <card qty="1" id="26a48302-5df7-3fb3-810d-b3d2c1d4697b">The Fortress of Isen</card>
+    <card qty="1" id="05db4c5f-528d-3e9e-a3da-de58cb725aec">Wizard's Myrmidon</card>
+    <card qty="2" id="3d957334-3558-3a0c-98f8-c82a2734df13">Dark Quarrels</card>
+    <card qty="2" id="3c65297e-a8cd-39a7-a587-42360c4c4bf4">Dark Tryst</card>
+    <card qty="2" id="8654d2e0-45c0-3172-b7ee-53a89dc6377a">Hall of Fire</card>
+    <card qty="2" id="04c8bdfc-32f5-31b9-a10e-6fa9f653c4d0">Hide in Dark Places</card>
+    <card qty="1" id="eff41b38-69d7-3f32-90dd-8a5a7bfd0db6">Horns, Horns, Horns</card>
+    <card qty="2" id="88a4b5f0-0a5c-3aba-89df-bec988dfb63c">Rebuild the Town</card>
+    <card qty="2" id="6f05293b-431d-3409-86b6-8662b021d5b7">Smoke Rings</card>
+    <card qty="2" id="775b9e21-3613-39af-8305-8a6b521172b1">Weigh All Things to a Nicety</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="8d1bb240-bd46-3989-a64d-8d97cb4eec31">Balin</card>
+    <card qty="1" id="4ac1547b-5e12-3e82-b417-f01fd8a03a82">Ettenmoors</card>
+    <card qty="1" id="d75c952d-91aa-3e86-af91-4324cf52ceef">Hidden Haven</card>
+    <card qty="1" id="f6a37896-b29a-33af-8b82-9f6837e81c74">Troll-chief</card>
+    <card qty="1" id="ea14a5b4-bee7-38b0-91f7-b30158fbcf3d">Blazon of the Eye</card>
+    <card qty="1" id="ddbe4f3e-ad7b-35f4-b7e0-e95d960f7626">Celeborn</card>
+    <card qty="1" id="3e957f57-2478-328d-9a04-4e9cf639faaf">Wacho</card>
+    <card qty="2" id="f17c2f12-8381-37c6-a511-d4e07bd0a637">Thrall of the Voice</card>
+    <card qty="1" id="d0e35c60-5791-3576-b275-7ea706de5074">Dagger of Westernesse</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="407dae4d-8136-3c89-a355-e77bfc5daf6a">A Chance Meeting</card>
+    <card qty="2" id="27fa5714-a58c-3bff-9db5-0ba0e26d4588">Blasting Fire</card>
+    <card qty="1" id="eff41b38-69d7-3f32-90dd-8a5a7bfd0db6">Horns, Horns, Horns</card>
+    <card qty="1" id="3c8ab203-a704-309b-b1dc-64586e002297">Marvels Told</card>
+    <card qty="2" id="98ad8c1d-5d07-345e-a441-c90f5e967505">Noble Hound</card>
+    <card qty="2" id="cd11dc16-d768-33e8-816c-1d339852f6c0">Schwertmeister</card>
+    <card qty="2" id="4949abc1-8ac6-3bec-b219-f6f3cfef32fc">Vile Fumes</card>
+    <card qty="1" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+    <card qty="2" id="c27753b0-a882-34e9-ada8-049b66ab6e11">When I Know Anything</card>
+    <card qty="2" id="320fb7d7-75a3-3f95-841e-8335d759fd6f">When You Know More</card>
+    <card qty="1" id="aee78bac-8b1d-3222-8e24-09dfc7470c81">Woses of the Eryn Vorn</card>
+    <card qty="1" id="08344955-b38d-3507-9a11-b601c9390539">A Strident Spawn</card>
+    <card qty="3" id="0ef75241-9f3d-3227-996a-990d005c7227">Half-orcs</card>
+    <card qty="1" id="03a5f88c-842e-397b-afbd-cef7dd2353b7">Saruman's Machinery</card>
+    <card qty="1" id="10e60b4c-6cbb-3816-8c9c-4412ffbf421e">The White Hand</card>
+    <card qty="1" id="b72702a5-0960-3082-ae62-288d60d73131">Alone and Unadvised</card>
+    <card qty="1" id="72507ec5-6ec8-3a1c-ae9c-c79e148eef9f">Lost in Free-domains</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="184838b5-11f9-3fe7-8071-e5399a1c4d20">Bree</card>
+    <card qty="1" id="09d071f1-f661-3c9d-8519-536a4eddc335">Isengard</card>
+    <card qty="1" id="b515e102-2f76-3150-9150-fd9207e3a957">Mount Gram</card>
+    <card qty="1" id="811ca85e-968a-3382-b5ea-e1761ac0f29d">The White Towers</card>
+    <card qty="1" id="8ccb4b64-167f-375f-a845-0f71e04636d4">The Worthy Hills</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

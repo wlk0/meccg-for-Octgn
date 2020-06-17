@@ -10,6 +10,7 @@ def gccg2octgnset(set):
 	if set == 'WH': return 'The White Hand'
 	if set == 'BA': return 'The Balrog'
 	if set == 'PR': return 'Promotional'
+	if set == 'PRde': return 'Promotional german'
 	return set
 
 def convertDeck(group, x=0, y=0):
@@ -32,15 +33,17 @@ def convertDeck(group, x=0, y=0):
 			elif section == 'Sites':
 				f2.write('</section>\n<section name="Sites" shared="False">\n')
 
-		m = re.match(r'^# (Hazard|Hero Character|Minion Character|Hero Resource|Minion Resource) \(\d+\)$', line)
+		m = re.match(r'^# (Hazard|Hero Character|Minion Character|Fallen-wizard Character|Hero Resource|Minion Resource) \(\d+\)$', line)
 		if m:
 			subsection = m.group(1)			
 			if section == 'Deck' and subsection == 'Hazard':
 				f2.write('<section name="Hazards" shared="False">\n')
-			elif section == 'Deck' and subsection in ['Hero Character','Minion Character']:
+			elif section == 'Deck' and subsection in ['Hero Character','Minion Character','Fallen-wizard Character']:
 				f2.write('</section>\n<section name="Characters" shared="False">\n')
 			elif section == 'Deck' and subsection in ['Hero Resource','Minion Resource']:
 				f2.write('</section>\n<section name="Resources" shared="False">\n')
+#			else:
+#				whisper("Warning: ignoring section '{}' sub '{}'".format(section, subsection))
 
 		m = re.match(r'^(\d+) (.*) \((.*)\)$', line)
 		if m:
