@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Promotional german" id="cb6d7567-5bbc-33c3-9ca6-5bf1522b1128" gameId="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2" gameVersion="2.3.6.0" version="1.0.0">
+  <cards>
+    <card id="efd3006a-d872-3f12-a830-1befd0a2a2ef" name="Baugúr">
+       <property name="Text" value="Unique. Half-orc. Agent. Leader. Discard on a body check result of 8. +2 direct influence against Orcs and Orc factions. Agent only: May not move to Free-holds {f} and Border-holds {b}."/>
+       <property name="Agent" value="yes"/>
+       <property name="Body" value="8"/>
+       <property name="Home Site" value="Isengard"/>
+       <property name="Influence" value="1"/>
+       <property name="Mind" value="4"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="4"/>
+       <property name="Race" value="Orc"/>
+       <property name="Rarity" value="P"/>
+       <property name="Skills" value="Warrior"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="d7f5e7fe-dcac-3a92-a36a-32d58c87ea1a" name="Freca">
+       <property name="Text" value="Unique. Agent. +1 direct influence against the Riders of Rohan and Dunlendings factions."/>
+       <property name="Agent" value="yes"/>
+       <property name="Body" value="8"/>
+       <property name="Home Site" value="Edoras, Dunnish Clan-hold"/>
+       <property name="Influence" value="2"/>
+       <property name="Mind" value="5"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="4"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="P"/>
+       <property name="Skills" value="Warrior/Diplomat"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="efd667f8-c6bc-33cd-ac1f-8a5c8662cff2" name="Wolf">
+       <property name="Text" value="Unique. Agent. +2 direct influence against the Dunlendings faction."/>
+       <property name="Agent" value="yes"/>
+       <property name="Body" value="7"/>
+       <property name="Home Site" value="Edoras, Dunnish Clan-hold"/>
+       <property name="Influence" value="2"/>
+       <property name="Mind" value="4"/>
+       <property name="MP" value="1"/>
+       <property name="Prowess" value="3"/>
+       <property name="Race" value="Man"/>
+       <property name="Rarity" value="P"/>
+       <property name="Skills" value="Warrior/Diplomat"/>
+       <property name="Type" value="Minion Character"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="dd89359f-fca4-38e0-b8b2-8983aa0e466e" name="Zirperkirper">
+       <property name="Text" value="Animals. Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped intstead - no body checks are made."/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Creature"/>
+       <property name="MP" value="1"/>
+       <property name="Playable" value="{b}{w}{s}{d}{R}"/>
+       <property name="Prowess" value="7"/>
+       <property name="Rarity" value="P"/>
+       <property name="Strikes" value="1"/>
+       <property name="Subclass" value="Animals"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="6fb2d99e-45ea-3131-834c-c7a1cd06c9dc" name="Schwarzer Pfeil">
+       <property name="Text" value="Warrior only. Tap Black Arrow to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard it if its bearer is not a Man."/>
+       <property name="Class" value="Minor Item"/>
+       <property name="Corruption" value="1"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="31c8c5f6-06ca-385f-8398-4b5303e24f7d" name="Der Arkenstein">
+       <property name="Text" value="Unique. +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all non-follower cards he controls)."/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="3"/>
+       <property name="Influence" value="(+5)"/>
+       <property name="MP" value="3"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Minion Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="02542951-d094-3e33-844b-cf1511f259ad" name="Die Eiserne Krone">
+       <property name="Text" value="Unique. Whenever bearer makes an influence check, he must also make a corruption check. If the bearer is not a Hobbit: he receives +1 to body to a maximum of 10; he receives +4 to direct influence; and he may tap The Iron Crown to cancel an attack by Orcs, Trolls, or Men against his company."/>
+       <property name="Body" value="(+1)"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="5"/>
+       <property name="Influence" value="(+4)"/>
+       <property name="MP" value="4"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="5e777e36-ccd5-3aea-b433-2eb1f74b98c0" name="Das Pack vor der Tuer">
+       <property name="Text" value="Playable if Doors of Night are in play. Each non-unique Animal, Spider and Wolf creature may be played in Border-lands {b}, Border-holds {B} or Ruins &amp; Lairs {R}. The creature must be playable in a non-Coastal Sea {c} region."/>
+       <property name="Class" value="Long-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+    <card id="fc856cc0-f192-318c-8143-c69afe8ffcbb" name="Das Wueten der Eisernen Krone">
+       <property name="Text" value="Unique. Only playable if Die Eiserne Krone (The Iron Crown) is not in play. The prowness of a strike against Orcs, Trolls, Men or Nazgûl are modified by +4. If the Target Creature are not a Nazgûl, the Creature is to discard from the game (The defender get the MPs). The Defender can also play the Die Eiserne Krone (The Iron Crown) from his hand at once."/>
+       <property name="Class" value="Short-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="cd11dc16-d768-33e8-816c-1d339852f6c0" name="Schwertmeister">
+       <property name="Text" value="Sage only. Playable on an untapped sage at an untapped site where Information is playable during site phase. Tap the site and the sage. Gives the sage warrior skill. If the sage is already a warrior, he can use two weapons (both modifiers count). If he uses two weapons, he can not use a shield. Cannot be duplicated on a given character."/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="MP" value="1"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="2714c1ec-4bef-3269-b0d2-83c2066c1e4e" name="Zwergenaxt">
+       <property name="Text" value="Weapon. Warrior only. +2 prowess (to a maximum of 7); +3 prowess if held by a Dwarf (to a maximum of 8)."/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Major Item"/>
+       <property name="Corruption" value="2"/>
+       <property name="MP" value="2"/>
+       <property name="Prowess" value="++2 (+3)"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+    </card>
+    <card id="8a12f545-1126-33a1-92c7-c4773834365a" name="Horn der Herausforderung">
+       <property name="Text" value="Unique. Hoard item. +2 direct influence. A stored Reforging may be placed with this item to &quot;restore&quot; it. Once restored, Horn der Herausforderung gives 3 MP and 2 CP. If its bearer is the first to face a strike, that character may choose to face all strikes of an attack. The character faces a separate strike sequence for each strike."/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="1 (2)"/>
+       <property name="Influence" value="++2"/>
+       <property name="MP" value="1 (3)"/>
+       <property name="Prowess" value="++2 (+3)"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="c567b2e5-c14a-3976-a6b2-77deff57a61b" name="Ringil">
+       <property name="Text" value="Unique. Hoard item. Weapon. +1 body. Warrior only: +1 prowess (to a maximum of 8). A stored Reforging may be placed with this item to &quot;restore&quot; it. Once restored, Ringil gives 4 MP, 3 CP and +5 prowess (to a maximum of 11)."/>
+       <property name="Body" value="-"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="2 (3)"/>
+       <property name="MP" value="2 (4)"/>
+       <property name="Prowess" value="(+1) (+5)"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="399a113f-1b89-3434-911a-381cf242e287" name="Belegennon">
+       <property name="Text" value="Unique. Hoard item. Armor. +1 body (to a maximum of 9). A stored Reforging may be placed with this item to &quot;restore&quot; it. Once restored, Belegennon gives 4 MP and 3 CP. Warrior only (restored): If bearer chooses not to tap against a strike, he receives no prowess penalty."/>
+       <property name="Body" value="++1"/>
+       <property name="Class" value="Greater Item"/>
+       <property name="Corruption" value="2 (3)"/>
+       <property name="MP" value="2 (4)"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hero Resource"/>
+       <property name="Unique" value="yes"/>
+    </card>
+    <card id="0575849d-2dc6-3e9f-b60f-fa41fe1d0522" name="Flammen des Zorns">
+       <property name="Text" value="Affects the following sites: The Loney Mountain, Irerock, Zarak Dûm, and Gold Hill. For any item to be played at one of these sites, its player must remove an item in his hand from play that would itself be playable at the site. Cannot be revealed as an on-guard card. Discard Ireful Flames when any play deck is exhausted."/>
+       <property name="Class" value="Permanent-event"/>
+       <property name="Rarity" value="P"/>
+       <property name="Type" value="Hazard"/>
+    </card>
+  </cards>
+</set>
