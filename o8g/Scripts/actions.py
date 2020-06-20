@@ -50,7 +50,7 @@ def tapuntap(card, x = 0, y = 0):
 
 def woundheal(card, x = 0, y = 0):
 	mute()
-	if not card.Type in ['Hero Character','Minion Character','Fallen-wizard Character']: return
+	if not card.Type in ['Hero Character','Minion Character','Balrog Character','Fallen-wizard Character']: return
 	if card.orientation == Rot180:
 		card.orientation = Rot90
 		notify("{} heals '{}'".format(me, card))
@@ -85,7 +85,7 @@ def createSite(group=None, x=0, y=0):
 
 def isCharacter(cards,x=0,y=0):
 	for c in cards:
-		if not c.Type in ['Hero Character','Minion Character','Fallen-wizard Character']:
+		if not c.Type in ['Hero Character','Minion Character','Balrog Character','Fallen-wizard Character']:
 			return False
 	return True
 
