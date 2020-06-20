@@ -4,7 +4,7 @@
 	name="Middle-earth Collectible Card Game"
 	id="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2"
 	octgnVersion="3.4.225.0"
-	version="0.9.0.7"
+	version="0.9.0.8"
 	scriptVersion ="3.1.0.2"
 	markersize="16"
 	tags="MECCG"
@@ -100,11 +100,13 @@
 			<groupaction menu="Save Table State..." default="False" execute="saveTable" />
 			<groupaction menu="Load Table State..." default="False" execute="loadTable" />
 		</groupactions>
+		<!--
 		<groupactions menu="* DEBUG *">
 			<groupaction menu="Select Region" default="False" shortcut="" execute="selectRegion" />
 			<groupaction menu="Create Map File" default="False" shortcut="" execute="createRegionMapFile" />
 			<groupaction menu="Convert GCCG Deck" default="False" shortcut="" execute="convertDeck" />
 		</groupactions>
+		-->
 	</table>
 	<player summary="">
 		<group name="Hand" visibility="me" ordered="False" icon="groups/hand.png" viewState="expanded">

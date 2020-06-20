@@ -58,7 +58,7 @@ def woundheal(card, x = 0, y = 0):
 		card.orientation = Rot180
 		notify("{} wounds '{}'".format(me, card))
 
-def untapall(group=table):
+def untapall(group=table, x = 0, y = 0):
 	mute()
 	for card in group:
 		if card.controller == me and card.orientation == Rot90:
