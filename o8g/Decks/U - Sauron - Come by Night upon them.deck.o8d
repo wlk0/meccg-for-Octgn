@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="3f77e236-60c7-3683-8bf9-cf2e7ed2e399">Ambusher</card>
+    <card qty="3" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="1" id="55f7c218-6da2-3829-a5e0-3d8b8740df3d">Bairanax Ahunt</card>
+    <card qty="1" id="270f0a33-13f2-34b8-adf5-79b124122a2c">Barrow-wight</card>
+    <card qty="3" id="8711d7ba-9041-32bd-9cca-513b2ff82464">Chill Douser</card>
+    <card qty="3" id="997ea9f5-e23d-37d2-aa5c-5fe1a3b1d976">Doors of Night</card>
+    <card qty="1" id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2">Eärcaraxë Ahunt</card>
+    <card qty="1" id="88cef47b-ae1e-3185-b4c9-2d9c298e0fcb">Nameless Thing</card>
+    <card qty="1" id="631357e6-a558-32e7-88cd-6994373585ab">Nobody's Friend</card>
+    <card qty="2" id="d8dd77ad-e57d-3622-982e-265be1ff0e77">Peril Returned</card>
+    <card qty="3" id="d6bb48dd-e8c3-3156-b73e-bedef0d9e7a5">Rain-drake</card>
+    <card qty="3" id="82faa0fb-52e2-3869-a096-372fd0281c48">True Fire-drake</card>
+    <card qty="3" id="82cbefe0-c867-37fe-85d4-7216a59b3a89">Twilight</card>
+    <card qty="3" id="e57ec7c6-dcdc-3936-bc43-9aa2336af04f">Withered Lands</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="01cf8312-d6cd-3f49-9f2e-1f4de2adedee">Asternak</card>
+    <card qty="1" id="cb417ba8-51b5-3b59-96f4-0831e817afdc">Dâsakûn</card>
+    <card qty="1" id="6ba55189-aa5e-3c95-9777-0871f23a29aa">Dorelas</card>
+    <card qty="1" id="9d9cd12b-de2f-3871-a78a-702f49c09f04">Mîonid</card>
+    <card qty="1" id="c24d8f59-44ec-31fb-8967-e5dc11eb33b7">Pon Opar</card>
+    <card qty="1" id="f5cf7515-bacf-33cd-a4d5-9925ed1bb222">Tros Hesnef</card>
+    <card qty="1" id="2d93934e-f5ac-3090-a7ef-f790030c5a88">Woffung</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="3" id="847d1e3c-be72-3934-abd8-78b9cb7ca453">Broad-headed Spear</card>
+    <card qty="1" id="1854121b-1ac4-3cf1-8b62-cad99d6a75cd">Come By Night Upon Them</card>
+    <card qty="3" id="3c65297e-a8cd-39a7-a587-42360c4c4bf4">Dark Tryst</card>
+    <card qty="1" id="f0ccc6fa-2cd5-3ae5-b6b9-ec00f31bb400">Easterlings</card>
+    <card qty="1" id="2686f5dc-14a1-3884-a582-a55b3278e272">Faithless Steward</card>
+    <card qty="2" id="26d1c5a8-6da6-3184-9990-0319b86acbb3">Gifts as Given of Old</card>
+    <card qty="1" id="4dfaef17-cace-30c9-ad98-e07f730cdcd4">Great Bats</card>
+    <card qty="1" id="8db1b2e8-8bae-3f95-973b-da76b3ea542a">High Helm</card>
+    <card qty="3" id="d233e5de-8a86-33c0-ae90-4b94be4cbca7">Not Slay Needlessly</card>
+    <card qty="1" id="1f25afba-5ef2-334b-977d-afe99ba35af3">Sable Shield</card>
+    <card qty="3" id="12cec527-6b9b-31f9-b10a-68c767985d46">Secret Book</card>
+    <card qty="1" id="d8a7065b-72ca-31a9-8ddd-5b32eb1f8975">Southrons</card>
+    <card qty="1" id="7666a050-0565-3691-9b8d-6f63bd443b69">The Lidless Eye</card>
+    <card qty="1" id="77912b34-fb80-334e-b5d3-89e7f057e691">Variags of Khand</card>
+    <card qty="1" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+    <card qty="3" id="1970c08f-6460-3b8d-8331-74a429934eb7">War-wolf</card>
+    <card qty="3" id="775b9e21-3613-39af-8305-8a6b521172b1">Weigh All Things to a Nicety</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="e999901e-d9fd-3192-acb6-1de41d5d7ba8">Eradan</card>
+    <card qty="1" id="42b7cdf5-ba83-303b-9895-56c9d8cd8956">Nevido Smôd</card>
+    <card qty="1" id="fd8b49c4-c08a-3426-abc8-fc499557c818">Orc Captain</card>
+    <card qty="1" id="e541a98e-5cae-3561-a6da-54d74c8459a4">Orc Veteran</card>
+    <card qty="1" id="15e052bc-87eb-3788-83c8-1deb3d953ebf">Râisha</card>
+    <card qty="1" id="ea14a5b4-bee7-38b0-91f7-b30158fbcf3d">Blazon of the Eye</card>
+    <card qty="1" id="514869ec-d6d1-37a6-8061-106f4e52e85f">Open to the Summons</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="b72702a5-0960-3082-ae62-288d60d73131">Alone and Unadvised</card>
+    <card qty="1" id="aa28bb3e-99ac-338d-8f94-0ac48bc310e5">Fell Winter</card>
+    <card qty="1" id="9a2de19d-94c8-3a3d-b0b1-70e3af4d159e">Foolish Words</card>
+    <card qty="1" id="fda7844a-7980-343f-af19-61c53273b38c">Long Winter</card>
+    <card qty="1" id="b863d96a-2bcb-3dc7-b971-a3ff02bb7ab7">Lost in Free-domains</card>
+    <card qty="1" id="f0bb0a62-06d2-3f13-aa83-7a3c74959e69">Lure of Nature</card>
+    <card qty="1" id="9c414e83-cc7b-331d-8b7c-e73a558bbd60">New Moon</card>
+    <card qty="3" id="0aeed231-ab16-334c-b216-83fe50460513">Burning Rick, Cot, and Tree</card>
+    <card qty="1" id="9f09b1c5-f36b-362a-bfe4-3886dfd2ee29">Crept Along Cleverly</card>
+    <card qty="3" id="6e14be77-0006-3f3c-9838-b3b54ce36820">Eye Never Sleeping</card>
+    <card qty="1" id="490cb73f-320b-3004-8c74-5ee060a64236">Haradrim</card>
+    <card qty="1" id="bac440f0-7847-31c4-9344-6af0378117a3">Nûriags</card>
+    <card qty="1" id="07ff1d79-2950-3630-a05d-bf90d336bca7">Orc Quarrels</card>
+    <card qty="1" id="8447ffd7-25fc-37dd-adc5-ec389a896b5e">Sudden Call</card>
+    <card qty="3" id="26095167-94de-31ec-a9df-c9e42c822e89">The Dark Power</card>
+    <card qty="1" id="0bb3f169-258d-3320-b106-b14aea39dc66">Voices of Malice</card>
+    <card qty="1" id="34ae9d51-66e1-3d5d-bdd9-2a895418584f">Wain-easterlings</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="7aae9f52-10cf-3d92-b517-74bbcdd0a4de">Barad-dûr</card>
+    <card qty="1" id="3939bd8b-93a1-37b5-b1ac-960e5e508e13">Buhr Widu</card>
+    <card qty="1" id="aa01ff4a-4544-392e-b786-b3eb2726f7d4">Dol Guldur</card>
+    <card qty="1" id="1dc2bd8a-af40-332a-b7c7-c9fdc0643b03">Easterling Camp</card>
+    <card qty="1" id="80d6eee6-3d63-3815-85b8-7f497f9b858a">Gobel Mírlond</card>
+    <card qty="1" id="738a3c1a-f0ca-3e0d-a9d1-e3feead77665">Minas Morgul</card>
+    <card qty="1" id="aacdd435-b3b9-3069-8270-313d08843217">Mount Doom</card>
+    <card qty="1" id="6667816e-1acd-3076-9080-995e0a0c1411">Nûrniag Camp</card>
+    <card qty="1" id="ba2a23c6-0792-35f8-9d83-e72dd93d5bf7">Raider-hold</card>
+    <card qty="1" id="fe395430-ff82-3fea-ad4c-411e22cfbb84">Sarn Goriwing</card>
+    <card qty="1" id="577ad752-3cce-3fcb-9f8d-a4ebee3f0d9d">Shrel-Kain</card>
+    <card qty="1" id="d521227c-8a25-3397-b9c7-18ed5209f2d6">Southron Oasis</card>
+    <card qty="1" id="7b992fa5-40e9-3e82-8900-8a5f7ff21a22">Variag Camp</card>
+  </section>
+  <section name="FW Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

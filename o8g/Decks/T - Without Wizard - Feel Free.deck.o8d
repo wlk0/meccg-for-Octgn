@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Hazards" shared="False">
+    <card qty="2" id="b0a6f67a-d46f-302d-aa6d-0ab5fed00f5d">Ambusher</card>
+    <card qty="3" id="99a61f84-d169-3317-9134-6b32a89fd53e">An Unexpected Outpost</card>
+    <card qty="2" id="51235da8-abab-3374-be1f-d9f0fcd9a990">Barrow-wight</card>
+    <card qty="3" id="8711d7ba-9041-32bd-9cca-513b2ff82464">Chill Douser</card>
+    <card qty="1" id="0a9f7c9d-2b2c-3bb3-a10b-1511d0f09006">Corsairs of Umbar</card>
+    <card qty="1" id="34b3d19a-8281-3e86-8c00-33d2ca6eb0ab">Dunlending Raiders</card>
+    <card qty="3" id="507ba878-d3cd-3e4c-a4a4-cca40c54c3c8">Ent in Search of the Entwives</card>
+    <card qty="3" id="93b361c0-a288-395e-ab49-aeef324fc9b1">Foolish Words</card>
+    <card qty="2" id="039b6a2e-9853-34a5-a255-1f9c81d80b4e">Muster Disperses</card>
+    <card qty="3" id="44850f96-0f45-3053-9a78-f16c9e6f5d34">Shut Yer Mouth</card>
+    <card qty="2" id="749ce146-a405-3c59-81d0-b6b6070cefd1">Stormcrow</card>
+    <card qty="2" id="d0915690-614e-30a1-9dc5-257b53290871">Tookish Blood</card>
+    <card qty="3" id="2b16eb12-a502-3c63-ad6b-bdcbfc5d3a6b">Twilight</card>
+  </section>
+  <section name="Characters" shared="False">
+    <card qty="1" id="adfbdc49-38ae-30e6-949d-e0d0efec2cd8">Boromir II</card>
+    <card qty="1" id="cadb916f-7fa1-3b98-807b-e5960678bbfd">Folco Boffin</card>
+    <card qty="1" id="9afda8fe-ae3f-35e2-a7bf-3039de9b7f10">Forlong</card>
+    <card qty="1" id="c3a52705-7ac5-3541-8b33-9016f5ed065d">Haldir</card>
+    <card qty="1" id="6af21a6e-c425-34c0-a001-6eeddbe36147">Ioreth</card>
+    <card qty="1" id="207ee26e-868c-396f-a594-dbaadd2b537e">Kíli</card>
+    <card qty="1" id="5b0dc57c-d1ce-335f-893c-21f4d0dcb8a8">Legolas</card>
+    <card qty="1" id="1a2f9db9-3952-30e0-b914-5cdf076f971f">Théoden</card>
+    <card qty="1" id="ee97a9bf-4612-3ff4-97dd-5dbb59b398ec">Éomer</card>
+    <card qty="1" id="08e87f4b-093a-3a5d-9c52-c2c4d9b051de">Óin</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="1" id="407dae4d-8136-3c89-a355-e77bfc5daf6a">A Chance Meeting</card>
+    <card qty="3" id="f9dd389b-06a0-3ae2-a31a-f5a04c25fa1d">Await the Advent of Allies</card>
+    <card qty="1" id="ac4111b6-d8f9-3706-9b80-fc72bdfa1ff6">Bill the Pony</card>
+    <card qty="1" id="a776d0f9-073a-309a-a1b2-4fdee1f2d0e0">Blue Mountain Dwarves</card>
+    <card qty="2" id="c79b065e-5aad-3924-a822-aa586fe86454">Crown of Flowers</card>
+    <card qty="3" id="3d957334-3558-3a0c-98f8-c82a2734df13">Dark Quarrels</card>
+    <card qty="3" id="6992088d-57e5-384d-a324-1a96913171ff">Gates of Morning</card>
+    <card qty="1" id="0157e26e-7c34-3015-80a7-29a5e90241f2">Glamour of Surpassing Excellance</card>
+    <card qty="1" id="eff41b38-69d7-3f32-90dd-8a5a7bfd0db6">Horns, Horns, Horns</card>
+    <card qty="1" id="62f06f49-7788-32b3-960b-032ea9dd0d4d">Houses of Healing</card>
+    <card qty="1" id="4fd39660-ccfb-3622-b966-dae6a9d32d0e">Mistress Lobelia</card>
+    <card qty="2" id="14e6b50e-244f-3bab-a361-d5c96bce73ca">Muster</card>
+    <card qty="1" id="c88018bb-38fa-398b-b17c-a2b7a7474f40">Palantír of Minas Tirith</card>
+    <card qty="1" id="091acc90-ceab-3fcb-a0c2-618c9134c40b">Riders of Rohan</card>
+    <card qty="2" id="eed172f6-ab0d-31c3-9e8d-2a885a025c77">Saw Further and Deeper</card>
+    <card qty="3" id="6f05293b-431d-3409-86b6-8662b021d5b7">Smoke Rings</card>
+    <card qty="2" id="1e1f97e4-e81c-32dc-a63c-0f796073baf0">The Sun Unveiled</card>
+    <card qty="1" id="767f9388-4d82-3e40-80da-61d6000f6e49">Wood-elves</card>
+  </section>
+  <section name="Pool" shared="False">
+    <card qty="1" id="080f29fe-54a9-3666-9c25-3a2742c82128">Galdor</card>
+    <card qty="1" id="f42bb480-fea6-3c2b-a30f-256b585384ca">Robin Smallburrow</card>
+    <card qty="1" id="a5e4ee32-b15c-3f9f-a368-321035e087bf">Thráin II</card>
+    <card qty="1" id="d0e35c60-5791-3576-b275-7ea706de5074">Dagger of Westernesse</card>
+    <card qty="1" id="1e57e8f8-fbd3-34a8-95e7-8dff313d055e">Elf-stone</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="24a64ab1-f40c-339f-a612-c8fd8c792d61">Call of Home</card>
+    <card qty="1" id="2dcf72d7-60f7-3a4a-881a-82a161b1f8f2">Eärcaraxë Ahunt</card>
+    <card qty="1" id="69202c3d-42eb-3f5e-9df6-327932494398">Itangast Ahunt</card>
+    <card qty="1" id="b97ca7bc-faa3-3956-91c2-41259f67fc5b">Marsh-drake</card>
+    <card qty="1" id="d6bb48dd-e8c3-3156-b73e-bedef0d9e7a5">Rain-drake</card>
+    <card qty="1" id="18d0354f-4e03-3675-9a8b-7d260f5d5e42">Sellswords Between Charters</card>
+    <card qty="1" id="23b17c76-a261-388d-b9c5-2017ed896a89">Slayer</card>
+    <card qty="1" id="efeae89b-cd15-3e3d-bdc9-9ceb38febdef">Times Are Evil</card>
+    <card qty="1" id="d1664504-63b8-31b3-a643-360f868bb208">Align Palantír</card>
+    <card qty="1" id="561f51e7-c119-3a6b-8f6f-16175dfde7b5">Alliance of Free Peoples</card>
+    <card qty="1" id="96bf0d71-e088-3a0d-85aa-851645c0b311">Durin's Axe</card>
+    <card qty="1" id="0474c9e6-2c11-3506-a4f4-32894fd96c41">Forewarned Is Forearmed</card>
+    <card qty="1" id="d1b5e63c-38cc-3c1b-b57d-ab08754f3630">Glamdring</card>
+    <card qty="1" id="ffb382d9-9b6a-3293-940a-b54d2d8a7bcf">Halfling Strength</card>
+    <card qty="1" id="eff41b38-69d7-3f32-90dd-8a5a7bfd0db6">Horns, Horns, Horns</card>
+    <card qty="1" id="6e1de3ba-eb8e-3e6f-8a26-14b0571aa79b">Knights of Dol Amroth</card>
+    <card qty="1" id="2fdb44be-8033-328b-b3a3-58185dc861cf">Men of Lebennin</card>
+    <card qty="1" id="ee238def-7704-3546-a91a-5644ddfc4f54">Nenseldë the Wingild</card>
+    <card qty="1" id="7c0594d2-60c8-3371-a7cc-209b10d2cba9">Red Arrow</card>
+    <card qty="1" id="1e1f97e4-e81c-32dc-a63c-0f796073baf0">The Sun Unveiled</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="0876c2b2-2489-34b3-875d-5a4953cb0d4c">Bag End</card>
+    <card qty="1" id="fb68984d-74c7-3a49-b439-0ffa2be4a8cb">Barrow-downs</card>
+    <card qty="1" id="0e2d9b5c-389c-3ab5-8146-001efa1aeba3">Blue Mountain Dwarf-hold</card>
+    <card qty="1" id="5209d8c1-969b-34dd-b049-b6ea89c8efe9">Buhr Widu</card>
+    <card qty="1" id="f40a9f93-a201-37a0-b43a-506335e52bd6">Dol Amroth</card>
+    <card qty="1" id="a269508d-b7ea-388f-a86f-bb26d6d5fe2f">Edoras</card>
+    <card qty="1" id="03053679-0770-30c7-90b9-fb27774dc952">Grey Havens</card>
+    <card qty="1" id="bfcd06cd-ff98-388d-88e3-61ac8b5277f7">Himring</card>
+    <card qty="1" id="be7fac88-0512-3bbd-b0db-9aaac823d5d4">Lórien</card>
+    <card qty="1" id="35800f3e-4ab7-3a71-828a-2a1cb3f47566">Minas Tirith</card>
+    <card qty="1" id="dcf89140-e1b4-359e-99c6-0f5766a4f0c1">Pelargir</card>
+    <card qty="1" id="3290e6eb-6680-3ef4-b34e-8b0a9f520aa9">Raider-hold</card>
+    <card qty="1" id="c4effd35-d128-3b79-b788-200f633c8e06">Rivendell</card>
+    <card qty="1" id="9ffd61be-3c92-37fe-bc2a-6426191b3cdb">Sarn Goriwing</card>
+    <card qty="1" id="56fe3361-9ad9-33ee-bca9-ebc83c1bc41c">Thranduil's Halls</card>
+  </section>
+  <section name="FW Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
