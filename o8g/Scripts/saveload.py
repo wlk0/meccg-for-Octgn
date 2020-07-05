@@ -100,12 +100,8 @@ def saveTable(group, x=0, y=0):
 	# loop each player
 	tab['players'] = [serializePlayer(pl) for pl in players]
 
-	filename = wd("meccg-savegame.json")
-	filename = filename.replace('GameDatabase\\1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2','Decks')
-	whisper(filename)
-	filename = askString('Please input the path to save the game state', filename)
-
-	if filename == None:
+	filename = saveFileDlg('Select the file to save the game state', '', 'All files (*.*)|*.*')
+	if filename == None or filename == '':
 		return
 
 	with open(filename, 'w+') as f:
@@ -116,13 +112,10 @@ def saveTable(group, x=0, y=0):
 def loadTable(group, x=0, y=0):	
 	mute()
 
-	filename = wd("meccg-savegame.json")
-	filename = filename.replace('GameDatabase\\1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2','Decks')
-	filename = askString('Please provide the file path to load the table states', filename)
-	
-	if filename == None:
+	filename = openFileDlg('Select the file to load the table states', '', 'All files (*.*)|*.*')
+	if filename == None or filename == '':
 		return
-	
+
 	with open(filename, 'r') as f:
 		tab = json().DeserializeObject(f.read())
 		

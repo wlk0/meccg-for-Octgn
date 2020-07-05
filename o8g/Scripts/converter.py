@@ -15,7 +15,9 @@ def gccg2octgnset(set):
 
 def convertDeck(group, x=0, y=0):
 	mute()
-	filename = askString("Path to convert (.dck) ?","")
+	filename = saveFileDlg('Select the deck to convert', '', 'All files (*.*)|*.*')
+	if filename == None or filename == '':
+		return
 	f = open(filename, 'r')
 	f2 = open(filename + ".o8d", 'w')
 	whisper("Starting conversion")
