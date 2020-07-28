@@ -50,7 +50,7 @@ def tapuntap(card, x = 0, y = 0):
 
 def woundheal(card, x = 0, y = 0):
 	mute()
-	if not card.Type in ['Hero Character','Minion Character','Balrog Character','Fallen-wizard Character']: return
+	if not(isCharacter(card) or isAlly(card) or isAgent(card)): return
 	if card.orientation == Rot180:
 		card.orientation = Rot90
 		notify("{} heals '{}'".format(me, card))
@@ -83,9 +83,18 @@ def createSite(group=None, x=0, y=0):
 		site = me.piles['Location Deck'].create(cardID, 1)
 		site.moveToTable(x,y,True)
 
-def isCharacter(cards,x=0,y=0):
+def isCharacter(c):
+	return c.Type in ['Hero Character','Minion Character','Balrog Character','Fallen-wizard Character']
+
+def isAlly(c):
+	return c.Type in ['Hero Resource','Minion Resource','Stage Resource'] and c.properties['Class'].find("Ally") >= 0
+
+def isAgent(c):
+	return c.properties['Agent'] == 'yes'
+
+def isWoundable(cards,x=0,y=0):
 	for c in cards:
-		if not c.Type in ['Hero Character','Minion Character','Balrog Character','Fallen-wizard Character']:
+		if not(isCharacter(c) or isAlly(c) or isAgent(c)):
 			return False
 	return True
 

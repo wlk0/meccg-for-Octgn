@@ -4,7 +4,7 @@
 	name="Middle-earth Collectible Card Game"
 	id="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2"
 	octgnVersion="3.4.225.0"
-	version="0.9.0.9"
+	version="0.9.0.10"
 	scriptVersion ="3.1.0.2"
 	markersize="16"
 	tags="MECCG"
@@ -76,7 +76,7 @@
 	</card>
 	<table name="Table" visibility="undefined" ordered="False" width="1150" height="536" background="background/background.jpg" backgroundStyle="uniformToFill">
 		<cardaction menu="Tap/Untap" default="True" shortcut="F7" execute="tapuntap" />
-		<cardaction menu="Wound/Heal" showIf="isCharacter" default="False" shortcut="F8" execute="woundheal" />
+		<cardaction menu="Wound/Heal" showIf="isWoundable" default="False" shortcut="F8" execute="woundheal" />
 		<cardaction menu="Flip Card" default="False" shortcut="ctrl+F" execute="flipcard" />
 		<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
 		<cardaction menu="Remove from game" default="False" shortcut="" execute="removefromgame" />
