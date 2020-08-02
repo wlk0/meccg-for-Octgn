@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Pool" shared="False" />
+  <section name="Characters" shared="False" />
+  <section name="Resources" shared="False" />
+  <section name="Hazards" shared="False">
+    <card qty="1" id="faa1fe4c-0c8c-3ca4-8372-9fcb50085d53">"Tom" (Tûma)</card>
+    <card qty="2" id="3b50447b-6241-3fdd-a2a3-61c7f7c8c61d">Cave-drake</card>
+    <card qty="1" id="1e32c8ad-c746-3f04-98f5-a6271a11dd9b">Dire Wolves</card>
+    <card qty="1" id="7efe33dc-e6b4-379b-a2ea-8f535b853125">Giant</card>
+    <card qty="1" id="76d334fd-42d4-3ee4-a537-caa299238705">Giant Spiders</card>
+    <card qty="1" id="9f4f5d6d-1f9c-38b3-a0a7-c18400e49359">Hobgoblins</card>
+    <card qty="1" id="5a3599a9-1523-31dd-bf28-32c6f9058401">Land-drake</card>
+    <card qty="1" id="56dc412c-a37f-37bf-a01d-9b92e429b735">Lesser Spiders</card>
+    <card qty="2" id="a94df530-8de9-32a8-a378-fc13e5afa3a5">Orc-raiders</card>
+    <card qty="2" id="7f21dbef-b6a0-3c83-b913-5a0428b57b4d">Orc-warriors</card>
+    <card qty="1" id="10f1f45a-b6b7-3dab-add1-618f534ddbed">Stirring Bones</card>
+    <card qty="2" id="eae02022-0e33-38d4-8df8-d8100b5ffb3b">Wargs</card>
+    <card qty="1" id="c24e8983-d7f5-35e7-8691-3530a6ff9bd5">Abductor</card>
+    <card qty="1" id="b0a6f67a-d46f-302d-aa6d-0ab5fed00f5d">Ambusher</card>
+    <card qty="2" id="e33e5cd1-e163-3049-9585-d71d493325f9">Brigands</card>
+    <card qty="1" id="144ee162-271f-3d9c-a504-3b6de701bfca">Slayer</card>
+    <card qty="2" id="836e6552-dbdd-3c86-8a88-33b3a4e0a863">Wolves</card>
+    <card qty="1" id="fbeeff1f-388e-3f88-bb39-5cc864a2c175">"Bert" (Bûrat)</card>
+    <card qty="1" id="6ae06a59-bcd7-3a69-a5a7-16f7b7ba2e17">Adûnaphel</card>
+    <card qty="1" id="aecfdded-86c9-325e-8656-a4a734bb025d">Ghosts</card>
+    <card qty="1" id="695636c1-73a9-3f77-93cc-205a2335e6fa">Ghouls</card>
+    <card qty="1" id="7b50fb5a-ceaa-302e-af3c-3a60782ecf92">Half-trolls of Far Harad</card>
+    <card qty="1" id="d42636a8-0f26-36ca-ac20-5f8b15d564d3">Marsh-drake</card>
+    <card qty="1" id="b6cff3ea-94be-3424-8cd6-bacdf620993e">Orc-guard</card>
+    <card qty="2" id="997ea9f5-e23d-37d2-aa5c-5fe1a3b1d976">Doors of Night</card>
+    <card qty="1" id="5e367bd6-60af-3b80-b564-d51c2f841d7e">Doubled Vigilance</card>
+    <card qty="1" id="3dac649c-d172-3825-9497-f47d8ed96ffb">Earth-tremors</card>
+    <card qty="1" id="aa28bb3e-99ac-338d-8f94-0ac48bc310e5">Fell Winter</card>
+    <card qty="1" id="88cef47b-ae1e-3185-b4c9-2d9c298e0fcb">Nameless Thing</card>
+    <card qty="1" id="65135b1c-a6e2-3945-b67b-5b29aafb6150">Pierced by Many Wounds</card>
+    <card qty="1" id="4b527d27-9b93-3d7b-9114-1f601f119b25">Rank upon Rank</card>
+    <card qty="1" id="aa3ef451-6000-353e-9257-5b49c4b5fe05">Redoubled Force</card>
+    <card qty="1" id="b01ec992-1b3f-3c77-966e-0d9470a720fb">Wake of War</card>
+  </section>
+  <section name="Sites" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="FW Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

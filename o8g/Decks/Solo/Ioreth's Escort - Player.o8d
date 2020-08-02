@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1fe65646-3ee1-4dce-9a60-d33a7c3ce9f2">
+  <section name="Pool" shared="False">
+    <card qty="1" id="6af21a6e-c425-34c0-a001-6eeddbe36147">Ioreth</card>
+    <card qty="1" id="953f4990-7e1f-337a-93c5-7867e7140bdb">Elven Cloak</card>
+    <card qty="1" id="32879b3b-7f7c-3f2b-84ef-434ade32603f">Faramir</card>
+    <card qty="1" id="9b1972ba-d635-3824-bc3b-44eeb9934881">Athelas</card>
+    <card qty="1" id="adfbdc49-38ae-30e6-949d-e0d0efec2cd8">Boromir II</card>
+    <card qty="1" id="d0e35c60-5791-3576-b275-7ea706de5074">Dagger of Westernesse</card>
+    <card qty="1" id="32c5b8d7-081b-34e8-b554-779fffdb94ae">Brand</card>
+    <card qty="1" id="93186697-4627-3e4f-8757-7f30470f625e">Vôteli</card>
+    <card qty="1" id="1a2f9db9-3952-30e0-b914-5cdf076f971f">Théoden</card>
+    <card qty="1" id="2e854ba7-2b94-36ef-bd02-7d5bcccddca7">Imrahil</card>
+  </section>
+  <section name="Resources" shared="False">
+    <card qty="2" id="9b1972ba-d635-3824-bc3b-44eeb9934881">Athelas</card>
+    <card qty="3" id="75d25f6c-b3ce-37c8-9604-3f45dba76282">Block</card>
+    <card qty="1" id="17d9d842-35d9-3096-b18c-4276122bd45c">Bridge</card>
+    <card qty="2" id="cebe7740-bc18-31bd-a89f-3178755c661d">Cram</card>
+    <card qty="2" id="3d957334-3558-3a0c-98f8-c82a2734df13">Dark Quarrels</card>
+    <card qty="1" id="b66906a4-c560-32df-9c14-c7cf24fe1cb0">Dwarven Light-stone</card>
+    <card qty="1" id="0474c9e6-2c11-3506-a4f4-32894fd96c41">Forewarned Is Forearmed</card>
+    <card qty="2" id="6992088d-57e5-384d-a324-1a96913171ff">Gates of Morning</card>
+    <card qty="1" id="6b5f6296-7af0-3da9-b38e-571fb37c87ea">Gwaihir</card>
+    <card qty="1" id="8654d2e0-45c0-3172-b7ee-53a89dc6377a">Hall of Fire</card>
+    <card qty="4" id="a26bec0e-f40d-347b-9487-271c7297d80d">Healing Herbs</card>
+    <card qty="3" id="1499e5f8-45d9-31f4-81c1-e7618e61948b">Many Foes He Fought</card>
+    <card qty="1" id="1818b616-cc57-32df-a634-28f561446d79">Many Turns and Doublings</card>
+    <card qty="1" id="dc9b7ecc-5a1b-3d25-a508-f2691ff462eb">Master of Esgaroth</card>
+    <card qty="2" id="952819cf-4973-31c7-8092-9b44a176816e">More Sense than You</card>
+    <card qty="1" id="98ad8c1d-5d07-345e-a441-c90f5e967505">Noble Hound</card>
+    <card qty="1" id="fa7411b3-b2db-3094-92e6-a1bf9732dd07">Orcrist</card>
+    <card qty="1" id="b5489606-f11a-3394-bb22-b896e9c2b3e5">Secret Passage</card>
+    <card qty="1" id="2d5140fa-115c-3b76-b391-6646fa83bd71">Secret Ways</card>
+    <card qty="1" id="b4c843e2-121f-32a4-95df-4a2cb0056dad">Shield of Iron-bound Ash</card>
+    <card qty="1" id="46f69e69-0c7a-3221-8adc-583792d6039c">Sword of Gondolin</card>
+    <card qty="1" id="12c67525-790d-3b81-8217-726521ef95e6">Torque of Hues</card>
+    <card qty="1" id="a191b59f-1f42-3830-adf2-b3b2f001f407">Warm Now Be Heart and Limb</card>
+  </section>
+  <section name="Sites" shared="False">
+    <card qty="1" id="5209d8c1-969b-34dd-b049-b6ea89c8efe9">Buhr Widu</card>
+    <card qty="1" id="f8aa588d-4dba-3fdd-a353-02b15e8aa0fc">Dale</card>
+    <card qty="1" id="5f11449d-1577-3d9c-a01d-586e06b5541d">Dead Marshes</card>
+    <card qty="1" id="f40a9f93-a201-37a0-b43a-506335e52bd6">Dol Amroth</card>
+    <card qty="1" id="3ae048d4-2e06-3f4a-8871-fccb0934d9d5">Dunharrow</card>
+    <card qty="1" id="864f1ba7-8ecb-3adf-acfd-c4e1c0aad278">Eagles' Eyrie</card>
+    <card qty="4" id="630ca88d-2967-3fec-9f2e-107905cf78d2">Edhellond</card>
+    <card qty="1" id="a269508d-b7ea-388f-a86f-bb26d6d5fe2f">Edoras</card>
+    <card qty="1" id="db434c02-8e15-38bc-b897-80c545e60e41">Glittering Caves</card>
+    <card qty="4" id="03053679-0770-30c7-90b9-fb27774dc952">Grey Havens</card>
+    <card qty="4" id="be7fac88-0512-3bbd-b0db-9aaac823d5d4">Lórien</card>
+    <card qty="1" id="b731f42d-d6c7-3eb6-8cb9-d00674eaaa43">Lossadan Camp</card>
+    <card qty="1" id="35800f3e-4ab7-3a71-828a-2a1cb3f47566">Minas Tirith</card>
+    <card qty="1" id="b515e102-2f76-3150-9150-fd9207e3a957">Mount Gram</card>
+    <card qty="1" id="daa584f5-e00e-3598-bd1a-9c850729065d">Mount Gundabad</card>
+    <card qty="4" id="c4effd35-d128-3b79-b788-200f633c8e06">Rivendell</card>
+    <card qty="1" id="8b9f1a10-3f26-3d98-9909-11f9e4389261">The Gem-deeps</card>
+    <card qty="1" id="339c5b7d-3446-3cdd-9688-566bf89eae64">The Pûkel-deeps</card>
+    <card qty="1" id="6b93f75d-cac7-3f27-9f55-0fd1137010c8">The Under-leas</card>
+    <card qty="1" id="c23ca1f0-2161-35f9-ace0-3817e5fa1748">The Under-vaults</card>
+  </section>
+  <section name="Characters" shared="False" />
+  <section name="Hazards" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="FW Sideboard" shared="False" />
+  <notes><![CDATA[IORETH'S ESCORT
+
+A Scenario from the Hands of the Healer
+
+" 'And now, dame [said Aragorn], run as quick as your tongue and get me kingsfoil, if there is a leaf in the City.' 'And if not,' said Gandalf, 'I will ride to Lossarnach with Ioreth behind me.. ...And Shadowfax shall show her the meaning of haste .' " The Return of the King, p. 140
+
+One of Gondor's allied lands has put out the call for aid: one of their prominent leaders is dying of some terrible, mysterious affliction, for which no cure has been found. Ioreth, wise, old healing woman of Minas Tirith, knows of a special herb, grown only in sites deep in the bowels of the earth, which can heal this dying lord. The Steward of Gondor dispatches Ioreth to find these herbs, and rush them to where the lord lies dying, that he may be healed of this malady. Ioreth's Escort is a solitaire scenario.
+
+Objective :
+
+Ioreth and her escort must travel to the Under-deeps to locate the Healing Herbs necessary to heal the dying lord, escape with the plants and rush to his location.
+
+Deck Construction :
+
+Your will need the following:
+
+1. Up to 3 starting characters: Ioreth, and 2 other characters with a combined mind of 10 or less. At least 1 of these characters must have a home site in Anórien or one of its adjacent regions (Ithilien, Rohn, Lebennin). No Wizard is used.
+
+2. 3 starting minor items (may not be Healing Herbs).
+
+3. A resource deck of 35 cards, which must include 4 copies of Healing Herbs. This deck may include any other cards of your choosing. Except for Healing Herbs, you may have no more than 3 of each non-unique card.
+
+4. A hazard deck of 40 cards, divided as follows: 30 hazard creatures, 15 keyed to either Wilderness/double Wilderness/Ruins & Lairs, 8 keyed to either Free-domains/Border-lands, Free-holds/Border-holds, and 7 keyed to either Shadow-lands/Dark-domains/Shadow-holds/Dark-holds; 10 other hazard cards of your choice (may not include corruption cards). May include creatures not keyed to a site path, but keyed to certain regions or locations (e.g., Nameless Thing). You may use no more than 3 non-unique hazards in your deck.
+
+5. The following site cards: Minas Tirith (starting location); 4 Free-holds or Border-holds, the home sites of the 4 "dying lord" characters; 4 Under-deeps sites and their corresponding surface sites; the 4 Haven sites; any 3 other sites of your choosing.
+
+6. 4 "dying lord" characters: 1 character playable at (whose home site is) each of the 4 Free-hold or Border-hold sites chosen above.
+
+7. A map of Middle-earth or appropriate region cards.
+
+Setup :
+
+Shuffle the 4 "dying lord" characters together, and randomly choose 1. This character is the dying lord for this game, and is placed with his home site card at the top of the play surface. Place a number of tokens (like counters, pennies or glass beads) equal to the dying lord's body stat on the character's cards. (See below.) Shuffle the other 3 characters into your resource deck. Ioreth and her escort begin play at Minas Tirith. Draw 6 cards from your resource deck for your starting resource hand. Your resource hand size is 6 for this scenario.
+
+Turn Sequence :
+
+1. Untap Phase: Follow the Untap Phase procedure normally.
+
+2. Organization Phase: Transfer any items between characters. Bring 1 character if enough influence is available. The character comes in at his home site or any Haven. For this scenario, you have 25 general influence. Reorganize your companies. Select your destination site.
+
+3. Long-event Phase: Play any resource long-events.
+
+4. Movement/Hazard Phase: Draw 1 plus the number of resource cards indicated on the destination site. Draw the number of hazard cards indicated on the destination site, and put them in a hazard hand. The hazard hand size is 5, but there are no cards in it at the start of the game. Play any hazard which are playable based on the indicated site path, up to the hazard limit for the company. Choose the order of hazard cards to be most dangerous to the company (such as a Wake of War before Wolves). Resolve attacks using Standard Rules (but see below for additional special rules). At the end of the movement/hazard phase, discard or draw to the hand size of both resource and hazard hands - 6 and 5, respectively.
+
+5. Site Phase: Follow the Site Phase procedure using Standard Rules. If an Under-deeps site calls for an additional automatic-attack of a hazard creature card, any creature in the hazard hand which fits the criteria may be played. Ioreth must be in the company at the Under-deeps site in order to play Healing Herbs.
+
+6. End-of-Turn Phase: You may choose to discard 1 resource card, and then draw to return your resource hand to 6 cards. If necessary, draw to return the hazard hand to 5 cards. Remove and discard 1 token from the dying lord's card. If you remove the last token from the lord's card, the game is over.
+
+The Dying Lord :
+
+When the dying lord is revealed at the beginning of the game, a number of tokens equal to that character's body are placed on the character card. At each End-of-Turn Phase, 1 token is removed from the card and discarded, representing the character's descent toward death at the hands of his horrible affliction. If the last token is removed from the lord's card, the game is over.
+
+The Healing Herbs :
+
+In this game, Healing Herbs represents the special herbs needed to heal the dying lord. Only 1 Healing Herbs is necessary to accomplish this (and must be returned to the dying lord's location before he slips away into death). Any Healing Herbs may also be used in its normal fashion during the game. Up to 4 Healing Herbs may be included in your resource deck. In this game, Healing Herbs may only be played at an Under-deeps site, and only if Ioreth is with the company during the site phase. Only she can properly identify the special herbs. The Healing Herbs must be delivered to the lord's location during the site phase. The company must enter the site for the herbs to be delivered.
+
+Special Rules :
+
+Marshalling Points do not count for this scenario.
+
+Influence :
+
+Ioreth, under writ from Denethor II, is considered to have a pool of 25 general influence which she may use to bring in characters. Characters may be brought into play at any haven or their home site. Multiple companies are allowed.
+
+Corruption :
+
+Corruption is not used in this scenario. No corruption cards should be included in the hazard deck.
+
+Strike Sequencing :
+
+For attacks labeled "Attacker chooses defending characters," strikes must be assigned in the following order: to Ioreth (regardless of status), to wounded characters, then to tapped characters, then untapped characters. Otherwise, attacks may have strikes assigned in any order, provided that all untapped characters are assigned strikes first.
+
+If an attack has more strikes than there are characters in the company, the additional strikes must be assigned as -1 modifications to characters' prowess. Assign these modifications evenly among all characters in the company, then follow the order indicated above for "Attacker chooses" strikes for the remainder of the modifications. (Thus, if Ioreth and Faramir face an attack with 5 strikes, each would face 1 strike. Ioreth's prowess would be modified by -2 and Faramir's by -1.)
+
+Long-events :
+
+Resource and hazard long-events last for 2 turns in this scenario. A good way to keep track of long-events in play is:
+1. Play long-events upright (so you can read them);
+2. During each Long-event Phase, invert (rotate 180º) any long-events which began the turn upright, and discard any long-events which began the turn inverted.
+
+Victory Conditions :
+
+You win if Ioreth delivers Healing Herbs to the lord before he dies of his affliction. You lose if Ioreth or the lord dies before the mission is completed.]]></notes>
+</deck>
